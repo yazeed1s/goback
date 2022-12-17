@@ -1,3 +1,4 @@
+24
 : 1659735168:0;ls
 : 1659735168:0;ls
 : 1659735168:0;cc
@@ -70,8 +71,7 @@ rm -f fish mimedb fish_pager fishd fish_indent\
 : 1659748742:0;vim _dev/
 : 1659748903:0;nvim .config/ranger
 : 1659749047:0;ranger
-: 16597491
-60:0;lvim .vimrc
+: 1659749160:0;lvim .vimrc
 : 1659749169:0;nvim .zshrc
 : 1659749216:0;ranger
 : 1659749416:0;brew uninstall ranger
@@ -143,8 +143,7 @@ git push -u origin main
 : 1660516116:0;cd _dev
 : 1660516118:0;ls
 : 1660516127:0;git add Exercism/
-: 1660
-516134:0;git add C:C++/
+: 1660516134:0;git add C:C++/
 : 1660516142:0;git add github_co/
 : 1660516151:0;git add rust_dev/
 : 1660516191:0;cd rust_dev
@@ -205,8 +204,7 @@ git push -u origin main
 : 1660616811:0;brew install lapce
 : 1660617368:0;brew uninstall lapce
 : 1660617830:0;cd '/Users/yazeed_1/Library/Application Support/Sublime Text/Packages'
-: 1660617837:0;git clone https://gi
-thub.com/catppuccin/sublime-text.git Catppuccin
+: 1660617837:0;git clone https://github.com/catppuccin/sublime-text.git Catppuccin
 : 1660617840:0;ls
 : 1660621507:0;gopls
 : 1660621518:0;gopls --help
@@ -265,8 +263,7 @@ thub.com/catppuccin/sublime-text.git Catppuccin
 : 1660681002:0;lvim
 : 1660681090:0;clr
 : 1660681373:0;brew install --cask vscodium
-: 1660681381:0;bre
-w uninstall --cask vscodium
+: 1660681381:0;brew uninstall --cask vscodium
 : 1660681387:0;brew install --cask vscodium
 : 1660682166:0;chsh -s $(which zsh)
 : 1660682589:0;which zsh
@@ -337,8 +334,7 @@ brew install --cask font-iosevka
 : 1660777050:0;nvim 
 : 1660778783:0;cd _folders
 : 1660778787:0;cd myExtensions
-: 1660778790:0;cd min
-imal.nvim
+: 1660778790:0;cd minimal.nvim
 : 1660778793:0;git status
 : 1660778807:0;git add lua/minimal/config.lua 
 : 1660778833:0;git commit -m "add key 'minimal_'"
@@ -410,8 +406,7 @@ git push -u origin main
 : 1660953446:0;source .zshrc
 : 1660953455:0;nvim .zshrc
 : 1660953674:0;~/.fzf/install
-: 1660953707:0;nvim .z
-shrc
+: 1660953707:0;nvim .zshrc
 : 1660953778:0;source .zshrc
 : 1660953786:0;nvim .zshrc
 : 1660953798:0;source .zshrc
@@ -479,8 +474,7 @@ shrc
 : 1661060583:0;clr
 : 1661060586:0;vim
 : 1661060595:0;nvim
-: 1661135769:0;builtin cd -- go/pkg/mod/google.gola
-ng.org/grpc@v1.23.0/xds/internal/balancer/lrs
+: 1661135769:0;builtin cd -- go/pkg/mod/google.golang.org/grpc@v1.23.0/xds/internal/balancer/lrs
 : 1661135785:0;clr
 : 1661135789:0;ls
 : 1661135800:0;cd
@@ -559,8 +553,7 @@ ng.org/grpc@v1.23.0/xds/internal/balancer/lrs
 : 1661521307:0;cd _folders/CS-School && mkdir system_programming/lab01/
 : 1661521316:0;cd
 : 1661521317:0;clr
-: 1661521327:0;cd _folders/CS-Schoo
-l && mkdir system_programming
+: 1661521327:0;cd _folders/CS-School && mkdir system_programming
 : 1661521351:0;mkdir system_programming/lab01
 : 1661521412:0;cp ~/desktop/main.c system_programming/lab01/src
 : 1661521447:0;cp ~/desktop/main.c system_programming/lab01/src/
@@ -625,8 +618,7 @@ git branch -M main\
 git remote add origin https://github.com/Yazeed1s/arabianchain.git\
 git push -u origin main
 : 1661543246:0;git status 
-: 1661543256
-:0;git add html
+: 1661543256:0;git add html
 : 1661543267:0;git add html/
 : 1661543290:0;git commit -m ".."
 : 1661543294:0;git add html3/
@@ -694,8 +686,7 @@ git push -u origin main
 : 1661544961:0;git add js/
 : 1661544963:0;git commit -m ".."
 : 1661544968:0;git status
-: 1
-661544978:0;git add html.zip
+: 1661544978:0;git add html.zip
 : 1661544988:0;git commit -m ".."
 : 1661544997:0;git add index.html
 : 1661544999:0;git commit -m ".."
@@ -759,8 +750,7 @@ git push -u origin main
 : 1661545335:0;git status
 : 1661545341:0;git add index.html
 : 1661545342:0;git commit -m ".."
-: 1661
-545348:0;git add services.html
+: 1661545348:0;git add services.html
 : 1661545350:0;git commit -m ".."
 : 1661545356:0;git add twitter-bootstrap/
 : 1661545358:0;git commit -m ".."
@@ -820,8 +810,7 @@ git push -u origin main
 : 1661554883:0;git add js/jquery.imagesloaded.min.js
 : 1661554885:0;git commit -m ".."
 : 1661554889:0;git add js/jquery.simple-text-rotator.js
-: 166
-1554890:0;git commit -m ".."
+: 1661554890:0;git commit -m ".."
 : 1661554894:0;git status
 : 1661554906:0;git add js/bigvideo.js
 : 1661554908:0;git commit -m ".."
@@ -884,8 +873,7 @@ git push -u origin main
 : 1661659631:0;gcc main.c -o out
 : 1661659633:0;./out
 : 1661660360:0;cd _dev/C:C++/C/struct_c
-: 1661660361:0;gcc main.c -
-o out
+: 1661660361:0;gcc main.c -o out
 : 1661660363:0;./out
 : 1661660522:0;nvim .
 : 1661661249:0;npm i -g clang-format
@@ -949,8 +937,7 @@ cp -r * ~/.config/spicetify/Themes
 : 1662123542:0;spicetify backup apply
 : 1662123558:0;spicetify apply
 : 1662123567:0;spicetify config current_theme purple
-: 1662123
-570:0;spicetify apply
+: 1662123570:0;spicetify apply
 : 1662123615:0;spicetify config current_theme default
 : 1662123617:0;spicetify apply
 : 1662123631:0;ls
@@ -1017,8 +1004,7 @@ spicetify apply
 : 1662128501:0;./out
 : 1662128630:0;gcc stack.c -o out
 : 1662128631:0;./out
-: 1662128670:0;gcc s
-tack.c -o out
+: 1662128670:0;gcc stack.c -o out
 : 1662128671:0;./out
 : 1662128867:0;gcc stack.c -o out
 : 1662128868:0;./out
@@ -1086,8 +1072,7 @@ tack.c -o out
 : 1662174369:0;cd _folders/CS-School/system_programming/lab02/src
 : 1662174372:0;gcc stack.c -o out
 : 1662174418:0;g++ stack.c -o out
-: 1662174431:0;gcc stack
-.c -o out
+: 1662174431:0;gcc stack.c -o out
 : 1662174507:0;cd
 : 1662174510:0;sudo rm -rf /Library/Developer/CommandLineTools
 : 1662174535:0;cd _folders/CS-School/system_programming/lab02/src
@@ -1149,8 +1134,7 @@ tack.c -o out
 : 1662177764:0;nvim .
 : 1662177928:0;cd 
 : 1662177931:0;nvim .config/lvim
-: 1662178048:0;cd _folders/CS-School/system_prog
-ramming/lab02/src
+: 1662178048:0;cd _folders/CS-School/system_programming/lab02/src
 : 1662178050:0;nvim .
 : 1662262496:0;vim -v
 : 1662262528:0;vim .vimrc
@@ -1227,8 +1211,7 @@ git branch -M main
 : 1662337430:0;cd ..
 : 1662337437:0;cd html
 : 1662337447:0;git lfs install
-: 166233744
-9:0;ls
+: 1662337449:0;ls
 : 1662337457:0;ls -a
 : 1662337466:0;ls -l
 : 1662337473:0;ls -la
@@ -1297,8 +1280,7 @@ git branch -M main
 : 1662350265:0;cd _dev
 : 1662350266:0;ka
 : 1662350267:0;la
-: 16623502
-75:0;cd arabianchain
+: 1662350275:0;cd arabianchain
 : 1662350283:0;ls
 : 1662350285:0;cd ww
 : 1662350288:0;cd www
@@ -1377,8 +1359,7 @@ git branch -M main
 : 1662733320:0;./out
 : 1662733359:0;gcc lab3.c -o out
 : 1662733360:0;./out
-: 1662733887:0;g
-cc lab3.c -o out
+: 1662733887:0;gcc lab3.c -o out
 : 1662733889:0;./out
 : 1662733930:0;gcc lab3.c -o out
 : 1662733932:0;./out
@@ -1454,8 +1435,7 @@ cc lab3.c -o out
 : 1662756121:0;touch lab04.c
 : 1662756122:0;ls
 : 1662756127:0;codium .
-: 1662757696:0;gcc lab04.c -
-o out
+: 1662757696:0;gcc lab04.c -o out
 : 1662757719:0;gcc lab04.c Menu.c stack.c -o out
 : 1662757947:0;gcc stack.c -o out
 : 1662757951:0;./out
@@ -1528,8 +1508,7 @@ git push -u origin main
 : 1663013039:0;cd src
 : 1663013040:0;ls
 : 1663013060:0;cp _clang-format ~/_folders/CS-School/system_programming/hm1/src
-: 1663013064:0;cd ~/_folders/CS-School/system_programming/
-lab03/src
+: 1663013064:0;cd ~/_folders/CS-School/system_programming/lab03/src
 : 1663013072:0;cd ~/_folders/CS-School/system_programming/hm1/src
 : 1663013073:0;ls
 : 1663013078:0;codium .
@@ -1602,8 +1581,7 @@ lab03/src
 : 1663173948:0;man hexdump
 : 1663174013:0;hexdump -e vanilla-sky.jpg
 : 1663174019:0;hexdump -E vanilla-sky.jpg
-: 1663174038:0;hd -C vanilla-
-sky.jpg
+: 1663174038:0;hd -C vanilla-sky.jpg
 : 1663174217:0;hexdump -C vanilla-sky.jpg
 : 1663175242:0;cd
 : 1663175243:0;clr
@@ -1673,8 +1651,7 @@ sky.jpg
 : 1663342401:0;ls
 : 1663342408:0;gcc stack.c 
 : 1663342435:0;ls
-:
- 1663342736:0;gcc lab04.c
+: 1663342736:0;gcc lab04.c
 : 1663342751:0;gcc lab04.c -o out
 : 1663342753:0;./out
 : 1663342958:0;gcc lab04.c -o out
@@ -1745,8 +1722,7 @@ sky.jpg
 : 1663354828:0;gcc -c main.c 
 : 1663354836:0;gcc -c stack.c 
 : 1663354856:0;gcc stack.o main.o -o out
-: 1663
-354865:0;gcc main.o -o out
+: 1663354865:0;gcc main.o -o out
 : 1663354995:0;gcc -c main.c 
 : 1663354997:0;gcc -c stack.c 
 : 1663354999:0;gcc stack.o main.o -o out
@@ -1811,8 +1787,7 @@ sky.jpg
 : 1663607815:0;./out
 : 1663708353:0;neofecth
 : 1663708359:0;neofetch
-: 1663711417:0;cd deksto
-p
+: 1663711417:0;cd dekstop
 : 1663711421:0;cd Desktop
 : 1663711422:0;ls
 : 1663711428:0;cat vanilla-sky.jpg
@@ -1887,8 +1862,7 @@ p
 : 1663774293:0;./out
 : 1663774310:0;gcc main.c -o out
 : 1663774312:0;./out
-: 1663774330
-:0;gcc main.c -o out
+: 1663774330:0;gcc main.c -o out
 : 1663774331:0;./out
 : 1663775707:0;gcc main.c -o out
 : 1663775708:0;./out
@@ -1964,8 +1938,7 @@ p
 : 1663781157:0;./out
 : 1663781159:0;gcc main.c -o out
 : 1663781161:0;./out
-: 166378
-1168:0;gcc main.c -o out
+: 1663781168:0;gcc main.c -o out
 : 1663781169:0;./out
 : 1663781190:0;gcc main.c -o out
 : 1663781191:0;./out
@@ -2041,8 +2014,7 @@ p
 : 1663785027:0;./out
 : 1663785036:0;gcc main.c -o out
 : 1663785037:0;./out
-: 16
-63785045:0;gcc main.c -o out
+: 1663785045:0;gcc main.c -o out
 : 1663785045:0;./out
 : 1663785129:0;gcc main.c -o out
 : 1663785130:0;./out
@@ -2118,7 +2090,6 @@ p
 : 1663787336:0;./out
 : 1663787526:0;gcc main.c -o out
 : 1663787527:0;./out
-
 : 1663787560:0;gcc main.c -o out
 : 1663787561:0;./out
 : 1663787579:0;gcc main.c -o out
@@ -2193,8 +2164,7 @@ p
 : 1663791249:0;cd Desktop
 : 1663791252:0;gcc hm1.c -o out
 : 1663791266:0;./out
-: 1663791305:0;gcc hm1.c -o
- out
+: 1663791305:0;gcc hm1.c -o out
 : 1663791308:0;cd Desktop
 : 1663791309:0;gcc hm1.c -o out
 : 1663791312:0;./out
@@ -2272,8 +2242,7 @@ p
 : 1663799448:0;./out
 : 1663799557:0;gcc main.c -o out
 : 1663799559:0;./out
-: 
-1663799632:0;gcc main.c -o out
+: 1663799632:0;gcc main.c -o out
 : 1663799634:0;./out
 : 1663799686:0;gcc hm1.c -o in
 : 1663799690:0;./in
@@ -2350,8 +2319,7 @@ p
 : 1663812129:0;touch main.c
 : 1663812133:0;nvim .
 : 1663812186:0;cd desktop
-: 16638
-12191:0;gcc main.c
+: 1663812191:0;gcc main.c
 : 1663812199:0;gcc main.c -o out
 : 1663812202:0;./out
 : 1663812220:0;./out -R
@@ -2428,8 +2396,7 @@ cd SDL
 : 1663814574:0;ls
 : 1663814576:0;cd include
 : 1663814577:0;ls
-: 1663814579:0;cd boo
-st
+: 1663814579:0;cd boost
 : 1663814580:0;ls
 : 1663814597:0;cd
 : 1663814618:0;cd /usr/
@@ -2504,8 +2471,7 @@ st
 : 1663872612:0;vim cpu_profiler.d
 : 1663872642:0;find cppcheck
 : 1663872647:0;find c99
-: 1663
-872740:0;source .zshrc
+: 1663872740:0;source .zshrc
 : 1663873352:0;gcc main.c -o out
 : 1663873361:0;./out * 6 7
 : 1663873400:0;gcc main.c -o out
@@ -2573,8 +2539,7 @@ st
 : 1663901578:0;rm -rf .git
 : 1663901579:0;ls
 : 1663901584:0;cd ..
-: 
-1663901586:0;ls -la
+: 1663901586:0;ls -la
 : 1663901595:0;rm -rf .idea
 : 1663901596:0;ls
 : 1663901600:0;cd src
@@ -2640,8 +2605,7 @@ st
 : 1663909248:0;gcc -c stack.c main.c
 : 1663909251:0;gcc  stack.o main.o -o out
 : 1663909254:0;./out
-: 1663909276:0;
-rm -rf *.o
+: 1663909276:0;rm -rf *.o
 : 1663909278:0;gcc -c stack.c main.c
 : 1663909281:0;gcc  stack.o main.o -o out
 : 1663909282:0;./out
@@ -2706,8 +2670,7 @@ rm -rf *.o
 : 1663916100:0;./out
 : 1663916234:0;rm -rf *.o
 : 1663916251:0;gcc -c stack.c main.c
-: 16639162
-53:0;gcc  stack.o main.o -o out
+: 1663916253:0;gcc  stack.o main.o -o out
 : 1663916255:0;./out
 : 1663916282:0;rm -rf *.o
 : 1663916286:0;gcc -c stack.c main.c
@@ -2754,8 +2717,7 @@ rm -rf *.o
 : 1664033648:0;brew update
 : 1664033661:0;brew upgrade
 : 1664077997:0;neofetch
-: 1664155992:0;cd _
-folders/CS-School/system_programming/lab05/src
+: 1664155992:0;cd _folders/CS-School/system_programming/lab05/src
 : 1664155996:0;nvim .
 : 1664156075:0;cd .local/share/lunarvim/site/pack/packer/start/minimal.nvim
 : 1664156079:0;nvim .
@@ -2816,8 +2778,7 @@ folders/CS-School/system_programming/lab05/src
 : 1664343461:0;monitorhttp -ieth0 --only-get --just-urls
 : 1664343473:0;tcpflow -p -c -i eth0 port 80 | grep -oE '(GET|POST|HEAD) .* HTTP/1.[01]|Host: .*'
 : 1664395962:0;cd _folders/CS-School/system_programming/lab05
-: 16643
-95964:0;cd src
+: 1664395964:0;cd src
 : 1664395965:0;ls
 : 1664395972:0;codium .
 : 1664397015:0;zsh run.sh
@@ -2884,8 +2845,7 @@ folders/CS-School/system_programming/lab05/src
 : 1664549841:0;./out
 : 1664549963:0;gcc LinkedList.c -o out
 : 1664549964:0;./out
-: 1664549999:0;gcc
- LinkedList.c -o out
+: 1664549999:0;gcc LinkedList.c -o out
 : 1664550000:0;./out
 : 1664550021:0;gcc LinkedList.c -o out
 : 1664550022:0;./out
@@ -2952,8 +2912,7 @@ git push -u origin main
 : 1664566891:0;git commit -m "implementations"\
 
 : 1664567577:0;git add src/linkedList.h
-: 1664567589:0;git commit -m "defines
-""\
+: 1664567589:0;git commit -m "defines""\
 
 : 1664567599:0;git commit -m "defines"\
 
@@ -3030,7 +2989,6 @@ git push -u origin main
 : 1664905311:0;brew outdated
 : 1664905319:0;ls
 : 1664905340:0;cd ..
-
 : 1664905341:0;;d
 : 1664905344:0;ld
 : 1664905348:0;ls
@@ -3107,8 +3065,7 @@ rm -rf ~/.cache/nvim
 : 1665016113:0;nvim
 : 1665016125:0;lvim
 : 1665016128:0;nvim
-: 1665016193:0;brew ou
-tdated
+: 1665016193:0;brew outdated
 : 1665016213:0;export LV_BRANCH="rolling"; bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/rolling/utils/installer/install.sh)
 : 1665016239:0;lvim
 : 1665016268:0;cd .config/lvim
@@ -3157,8 +3114,7 @@ tdated
 : 1665149360:0;ls
 : 1665149378:0;mkdir lab07 && cd lab07
 : 1665149383:0;mkdir src
-: 1665149434:0;cp ~/_folders/CS-School/system_programming/lab05/src/_clang-format 
-~/_folders/CS-School/system_programming/lab07/src/
+: 1665149434:0;cp ~/_folders/CS-School/system_programming/lab05/src/_clang-format ~/_folders/CS-School/system_programming/lab07/src/
 : 1665149437:0;cd src
 : 1665149439:0;ls
 : 1665149771:0;codium .
@@ -3218,8 +3174,7 @@ tdated
 : 1665156063:0;./out
 : 1665156209:0;gcc Lab07.c LinkedList.c -o out
 : 1665156211:0;./out
-: 1665157029:0;gcc Lab07.c Li
-nkedList.c -o out
+: 1665157029:0;gcc Lab07.c LinkedList.c -o out
 : 1665157031:0;./out
 : 1665157793:0;gcc Lab07.c LinkedList.c -o out
 : 1665157795:0;./out
@@ -3282,8 +3237,7 @@ nkedList.c -o out
 : 1665272579:0;sampler
 : 1665272645:0;brew uninstall sampler
 : 1665272651:0;brew list
-: 1
-665272719:0;macchina
+: 1665272719:0;macchina
 : 1665272729:0;neofetch
 : 1665272746:0;brew uninstall neofetch 
 : 1665272751:0;neofetch
@@ -3370,8 +3324,7 @@ nkedList.c -o out
 : 1665274915:0;ls
 : 1665274918:0;onefetch
 : 1665274929:0;cd
-: 1665275651:0;cd 
-_dev/c_dev
+: 1665275651:0;cd _dev/c_dev
 : 1665275652:0;ls
 : 1665275664:0;mkdir linux_p
 : 1665275669:0;cd linux_p
@@ -3443,8 +3396,7 @@ _dev/c_dev
 : 1665283636:0;ls
 : 1665283660:0;cd _folders/CS-School/CSCI3042-Computer\ Security/py2
 : 1665283662:0;ls
-: 1665283734:0;scp ~/_folders/CS-School/CSCI3042-Computer Security
-/py2/first-octet.py ssh alharthi@139.177.205.55:/home/alharthi/
+: 1665283734:0;scp ~/_folders/CS-School/CSCI3042-Computer Security/py2/first-octet.py ssh alharthi@139.177.205.55:/home/alharthi/
 : 1665283780:0;scp "~/_folders/CS-School/CSCI3042-Computer Security/py2/first-octet.py" ssh alharthi@139.177.205.55:/home/alharthi/
 : 1665283827:0;scp ~/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py ssh alharthi@139.177.205.55:/home/alharthi/
 : 1665283856:0;ssh alharthi@139.177.205.55
@@ -3460,8 +3412,7 @@ _dev/c_dev
 : 1665284770:0;source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
 : 1665284770:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
 : 1665284789:0;source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
-: 1665284789:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-Scho
-ol/CSCI3042-Computer_Security/py2/first-octet.py
+: 1665284789:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
 : 1665284801:0;source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
 : 1665284802:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
 : 1665284812:0;source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
@@ -3476,8 +3427,7 @@ ol/CSCI3042-Computer_Security/py2/first-octet.py
 : 1665285057:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
 : 1665285071:0;scp ~/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py ssh alharthi@139.177.205.55:/home/alharthi/
 : 1665286304:0;source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
-: 1665286304:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-
-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+: 1665286304:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
 : 1665288712:0;gcc main.c -o out
 : 1665288716:0;./out
 : 1665288831:0;gcc main.c -o out
@@ -3503,8 +3453,7 @@ Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI304
 : 1665433268:0;source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
 : 1665433268:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
 : 1665433297:0;source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
-: 1665
-433297:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+: 1665433297:0;/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
 : 1665453915:0;cd _dev
 : 1665453917:0;cd rust_dev
 : 1665453918:0;ls
@@ -3557,8 +3506,7 @@ Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI304
 : 1665499242:0;./out
 : 1665499252:0;gcc main.c -o out
 : 1665499253:0;./out
-: 1665499290:0;gcc main.c -
-o out
+: 1665499290:0;gcc main.c -o out
 : 1665499291:0;./out
 : 1665499974:0;gcc main.c -o out
 : 1665499975:0;./out
@@ -3634,8 +3582,7 @@ o out
 : 1665548353:0;./out
 : 1665581338:0;ls
 : 1665582457:0;brew install lapce
-: 1665583261:0;nvim .conf
-ig/alacritty
+: 1665583261:0;nvim .config/alacritty
 : 1665583420:0;brew uninstall lapce
 : 1665621069:0;nvim 
 : 1665621274:0;touch .vimrc
@@ -3710,8 +3657,7 @@ brew install helix
 : 1665782705:0;gcc main.c -o out
 : 1665782706:0;./out
 : 1665782876:0;gcc main.c -o out
-: 1665782877:0
-;./out
+: 1665782877:0;./out
 : 1665782880:0;ls
 : 1665782888:0;rm c.txt
 : 1665783271:0;ls
@@ -3769,8 +3715,7 @@ brew install helix
 : 1665963042:0;onefetch
 : 1665963047:0;macchina
 : 1666056572:0;gcc main.c -o out && ./out 
-: 1666057283:0;cd _folders/CS-School/sy
-stem_programming/lec12
+: 1666057283:0;cd _folders/CS-School/system_programming/lec12
 : 1666057288:0;touch main.c
 : 1666057298:0;touch thisFile.txt
 : 1666057460:0;codium .
@@ -3843,8 +3788,7 @@ stem_programming/lec12
 : 1666310792:0;ls
 : 1666310802:0;cd tui_rs
 : 1666310805:0;codium .
-: 1666360240:0;cd syst
-em_programming
+: 1666360240:0;cd system_programming
 : 1666360270:0;cd _folders/CS-School/system_programming
 : 1666360301:0;echo "# system_programming" >> README.md\
 git init\
@@ -3914,8 +3858,7 @@ git push -u origin main
 : 1666797667:0;tmux
 : 1666797673:0;vim
 : 1666797678:0;nvim
-: 1
-666797704:0;nvim +PackerSync
+: 1666797704:0;nvim +PackerSync
 : 1666797730:0;nvim 
 : 1666797952:0;mv ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim ~
 : 1666797962:0;mv ~/.local/share/lunsssssssssssssssssssssssssssssssssdddearvim/site/pack/packer/start/minimal.nvim ~
@@ -3957,8 +3900,7 @@ git push -u origin main
 : 1666814422:0;lvim
 : 1666814457:0;cd
 : 1666814510:0;rm -rf  ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim
-: 1666814531:0;mv minimal.nvim ~/.local/share/lunarvim/site/pack/
-packer/start/
+: 1666814531:0;mv minimal.nvim ~/.local/share/lunarvim/site/pack/packer/start/
 : 1666814539:0;lvim
 : 1666814577:0;lvim +PackerSync
 : 1666814943:0;lvim .config/lvim
@@ -4003,8 +3945,7 @@ packer/start/
 : 1666919173:0;scp -r minimal.nvim yaz@10.0.0.188:/home/yaz
 : 1666919211:0;sudo scp -r minimal.nvim yaz@10.0.0.188:/home/yaz
 : 1666919239:0;scp -r minimal.nvim yaz@10.0.0.188:/home/yaz
-: 1
-666964661:0;cd _folders/CS-School/system_programming
+: 1666964661:0;cd _folders/CS-School/system_programming
 : 1666964662:0;ls
 : 1666964672:0;mkdir lab09
 : 1666964676:0;cd lab09
@@ -4059,8 +4000,7 @@ packer/start/
 : 1666998588:0;clr
 : 1666998610:0;nvim
 : 1666998649:0;ls
-: 16669986
-55:0;cd SDL
+: 1666998655:0;cd SDL
 : 1666998656:0;ls
 : 1666998667:0;nvim README-SDL.txt
 : 1666998948:0;nvim . 
@@ -4135,8 +4075,7 @@ packer/start/
 : 1667003400:0;cat settings.lua head
 : 1667003431:0;nvim +PackerSync
 : 1667003528:0;nvim 
-: 16670036
-21:0;lvim .
+: 1667003621:0;lvim .
 : 1667003796:0;ls
 : 1667003847:0;touch tree_sitter.lua
 : 1667003852:0;lvim .
@@ -4207,8 +4146,7 @@ git push -u origin main
 : 1667076052:0;git add emulator.c
 : 1667076100:0;git commit -m "add chip8 components + init(),load()"
 : 1667076104:0;git status
-: 1667076120:0;git p
-ush origin main 
+: 1667076120:0;git push origin main 
 : 1667076367:0;git status
 : 1667076377:0;git pull origin main
 : 1667076389:0;git status
@@ -4255,8 +4193,7 @@ ush origin main
 : 1667356239:0;/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
 : 1667356468:0;python3 log-processing.py > te.txt
 : 1667356472:0;cat te.txt| head -20
-: 1667
-356502:0;/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
+: 1667356502:0;/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
 : 1667356786:0;python3 log-processing.py > te.txt
 : 1667356793:0;cat te.txt| head -20
 : 1667356829:0;/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
@@ -4309,8 +4246,7 @@ ush origin main
 : 1667494997:0;/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
 : 1667495030:0;pip install pynvim
 : 1667495034:0;pip3 install pynvim
-: 16674
-95094:0;nvim
+: 1667495094:0;nvim
 : 1667495348:0;nvim .
 : 1667495487:0;lvim .
 : 1667495591:0;nvim .
@@ -4371,7 +4307,6 @@ brew uninstall emacs-plus
 : 1667498787:0;cp -r /opt/homebrew/Cellar/emacs-plus@28/28.2/Emacs.app ~/Applications
 : 1667498830:0;cd
 : 1667498846:0;git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
-
 : 1667498864:0;cd .emacs.d
 : 1667498882:0;bin/doom install
 : 1667499100:0;cd
@@ -4432,8 +4367,7 @@ git push -u origin main
 : 1667505723:0;cd my_extensions/minimal.nvim
 : 1667505726:0;git status
 : 1667505738:0;git add screenshots
-: 1667505751:0;gi
-t commit -m "update screenshots"
+: 1667505751:0;git commit -m "update screenshots"
 : 1667505761:0;git push origin main
 : 1667505841:0;cd 
 : 1667505848:0;lvim .config/lvim/config.lua
@@ -4491,8 +4425,7 @@ t commit -m "update screenshots"
 : 1667516328:0;cd ~/_dev/github_co/
 : 1667516342:0;rm -rf LunarVim
 : 1667516344:0;ls
-: 1
-667516372:0;git clone https://github.com/LunarVim/LunarVim.git
+: 1667516372:0;git clone https://github.com/LunarVim/LunarVim.git
 : 1667519535:0;cd
 : 1667519537:0;brew install procs
 : 1667519552:0;procs
@@ -4555,7 +4488,6 @@ t commit -m "update screenshots"
 : 1667567325:0;mkdir alacritty
 : 1667567336:0;mkdir iterm
 : 1667567349:0;mv oh-lucy-evening.yml alacritty
-
 : 1667567364:0;mv oh-lucy.itermcolors iterm
 : 1667567365:0;ls
 : 1667567374:0;rm alacritty_minimal.yml
@@ -4613,8 +4545,7 @@ t commit -m "update screenshots"
 : 1667858425:0;make clean
 : 1667858429:0;make all
 : 1667858468:0;gcc -c src/emulator.c src/main.c
-: 1667858489:0;gcc emulator.o main.
-o  -lSDL2 -o ch
+: 1667858489:0;gcc emulator.o main.o  -lSDL2 -o ch
 : 1667858656:0;./test.sh
 : 1667864199:0;lvim .
 : 1667864392:0;:q
@@ -4679,8 +4610,7 @@ o  -lSDL2 -o ch
 : 1667867784:0;codium .
 : 1667868104:0;git status
 : 1667868114:0;git add lua/oh-lucy/theme.lua
-: 1667868126:0;git
- commit -m "fixed #5"
+: 1667868126:0;git commit -m "fixed #5"
 : 1667868142:0;git add lua/oh-lucy-evening/theme.lua
 : 1667868144:0;git commit -m "fixed #5"
 : 1667868148:0;git status
@@ -4748,8 +4678,7 @@ o  -lSDL2 -o ch
 : 1668007391:0;ls
 : 1668007395:0;scc
 : 1668007454:0;cd ..
-: 
-1668007459:0;rm -rf tran
+: 1668007459:0;rm -rf tran
 : 1668008098:0;lvim
 : 1668010964:0;go run main.go
 : 1668010968:0;cd src
@@ -4813,8 +4742,7 @@ git push -u origin main
 : 1668039509:0;go run main.go 139.177.205.55
 : 1668039875:0;go run main.go 
 : 1668039884:0;go run main.go 104.236.194.114
-: 1668041640:
-0;cd _dev/go_dev/goip
+: 1668041640:0;cd _dev/go_dev/goip
 : 1668041642:0;go get -u github.com/spf13/cobra@latest
 : 1668042007:0;cobra add geoip 
 : 1668042018:0;cobra
@@ -4881,8 +4809,7 @@ git push -u origin main
 : 1668050259:0;goip 104.236.194.114
 : 1668050301:0;go build
 : 1668050303:0;go install
-: 1668050305:0;goi
-p 104.236.194.114
+: 1668050305:0;goip 104.236.194.114
 : 1668050316:0;go build
 : 1668050318:0;go install
 : 1668050320:0;goip 104.236.194.114
@@ -4940,8 +4867,7 @@ p 104.236.194.114
 : 1668095305:0;codium .
 : 1668095339:0;go run main.go
 : 1668095586:0;fman
-: 1668095814
-:0;cd .c
+: 1668095814:0;cd .c
 : 1668095817:0;cd .config
 : 1668095819:0;ls
 : 1668096019:0;cd ..
@@ -5016,7 +4942,6 @@ p 104.236.194.114
 : 1668183575:0;cd _folders/CS-School/system_programming
 : 1668183576:0;ls
 : 1668183582:0;cd lab11
-
 : 1668183582:0;ks
 : 1668183583:0;ls
 : 1668183590:0;codium .
@@ -5083,8 +5008,7 @@ p 104.236.194.114
 : 1668213671:0;lvim nvim
 : 1668214088:0;codium .
 : 1668214102:0;cd nvim
-: 1668214105:0;codium 
-.
+: 1668214105:0;codium .
 : 1668214338:0;cd ..
 : 1668214345:0;rm -rf nvim
 : 1668214349:0;git clone git@github.com:ChristianChiarulli/nvim.git ~/.config/nvim
@@ -5150,8 +5074,7 @@ nvim +PackerSync
 : 1668224234:0;ls
 : 1668224239:0;cd ..
 : 1668224240:0;ls
-: 1668224
-247:0;go run main.go
+: 1668224247:0;go run main.go
 : 1668239356:0;brew outdated
 : 1668276231:0;cd _dev
 : 1668276232:0;ls
@@ -5225,8 +5148,7 @@ nvim +PackerSync
 : 1668465549:0;cd _dev
 : 1668465550:0;LS
 : 1668465563:0;cd chip8_
-: 16
-68465563:0;ls
+: 1668465563:0;ls
 : 1668465566:0;ls src
 : 1668465570:0;cd ..
 : 1668465597:0;cd c_dev
@@ -5292,8 +5214,7 @@ rm -rf ~/.cache/nvim
 : 1668719295:0;brew outdated
 : 1668719307:0;ls
 : 1668719313:0;cd bin
-: 16687193
-14:0;ls
+: 1668719314:0;ls
 : 1668719317:0;cd ..
 : 1668719318:0;ls
 : 1668719320:0;clr
@@ -5371,8 +5292,7 @@ go build
 : 1668738257:0;rm -rf wireshark
 : 1668738261:0;rm -rf nvim
 : 1668738262:0;cd
-: 1668738264:0;git clone https://github.com/AstroNvim/AstroN
-vim ~/.config/nvim\
+: 1668738264:0;git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim\
 nvim +PackerSync
 : 1668738300:0;cp -r ~/.config/nvim/lua/user_example/ ~/.config/nvim/lua/user/
 : 1668738312:0;cd ~/.config/nvim/lua/user/
@@ -5451,8 +5371,7 @@ rm -rf ~/.cache/nvim
 : 1668740268:0;cd include
 : 1668740268:0;ls
 : 1668740272:0;cd SDL2
-: 1668740274:0
-;LS
+: 1668740274:0;LS
 : 1668740416:0;cd
 : 1668791190:0;brew outdated
 : 1668791788:0;cd _dev/chip8_
@@ -5520,8 +5439,7 @@ rm -rf ~/.cache/nvim
 : 1668803591:0;cd ..
 : 1668803597:0;git add test.sh
 : 1668803612:0;git commit -m "add object files"
-: 1668803630:0;git push origin mai
-n
+: 1668803630:0;git push origin main
 : 1668805819:0;ls
 : 1668805825:0;./run.sh
 : 1668814728:0;cd _dev/c_dev/chip8_c
@@ -5592,8 +5510,7 @@ miro
 : 1668889459:0;brew outdated
 : 1668891186:0;lvim
 : 1668891256:0;lvim _dev/rust_dev/chip8_rs/src/chip8.rs
-: 1668891392:0
-;git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim\
+: 1668891392:0;git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim\
 nvim +PackerSync
 : 1668891411:0;nvim 
 : 1668891482:0;cp -r ~/.config/nvim/lua/user_example/ ~/.config/nvim/lua/user/
@@ -5657,8 +5574,7 @@ nvim +PackerSync
 : 1669070536:0;lvim .
 : 1669070783:0;./run.sh
 : 1669070794:0;./chip8 laroche.ch8
-: 1669070906:0;cd ro
-ms/TEST
+: 1669070906:0;cd roms/TEST
 : 1669070907:0;ls
 : 1669070918:0;hixdump IBM.ch8
 : 1669070925:0;hexdump IBM.ch8
@@ -5715,8 +5631,7 @@ git push -u origin main
 : 1669076090:0;git commit -m "initial commit"
 : 1669076094:0;git add src/memory.c
 : 1669076099:0;git add src/screen.c
-: 1669076101:0
-;git commit -m "initial commit"
+: 1669076101:0;git commit -m "initial commit"
 : 1669076108:0;git add src/stack.c 
 : 1669076109:0;git commit -m "initial commit"
 : 1669076114:0;git status
@@ -5781,8 +5696,7 @@ git push -u origin main
 : 1669170164:0;ls
 : 1669170186:0;cat /Users/yazeed_1/Desktop/clue.jpg 
 : 1669170359:0;cat /Users/yazeed_1/Desktop/clue.jpg | grep "ctf{"
-: 1669170426:0;hexdump /Users/yaze
-ed_1/Desktop/clue.jpg 
+: 1669170426:0;hexdump /Users/yazeed_1/Desktop/clue.jpg 
 : 1669170438:0;hexdump -v /Users/yazeed_1/Desktop/clue.jpg 
 : 1669171763:0;openssl enc -ciphers
 : 1669171860:0;openssl enc -d -aes-128-cbc -pbkdf2 -base64 -in here
@@ -5826,8 +5740,7 @@ ed_1/Desktop/clue.jpg
 : 1669227085:0;cd src
 : 1669227096:0;cargo run mrs -e hh
 : 1669228445:0;cargo build
-: 166
-9228464:0;morse_code
+: 1669228464:0;morse_code
 : 1669228471:0;cargo build
 : 1669228479:0;cargo install
 : 1669228521:0;./morse_code
@@ -5895,8 +5808,7 @@ ed_1/Desktop/clue.jpg
 : 1669401486:0;lvim .
 : 1669401494:0;rm out
 : 1669401828:0;nvim
-: 1669401
-842:0;nvim _dev/c_dev
+: 1669401842:0;nvim _dev/c_dev
 : 1669402240:0;lvim .
 : 1669404928:0;lvim 
 : 1669405341:0;rm -rf ~/.config/nvim\
@@ -5969,8 +5881,7 @@ rm -rf ~/.cache/nvim\
 : 1669412173:0;ls
 : 1669412179:0;mkdir lua
 : 1669412199:0;rm -rf lua
-: 
-1669412202:0;nvim .
+: 1669412202:0;nvim .
 : 1669412208:0;nvim 
 : 1669412371:0;ls
 : 1669412394:0;mkdir lua
@@ -6043,8 +5954,7 @@ rm -rf ~/.cache/nvim\
 : 1669432212:0;cd
 : 1669432216:0;cd .config/lvim
 : 1669432221:0;nvim .
-: 1669432283:0;nvim
- .config/nvim
+: 1669432283:0;nvim .config/nvim
 : 1669432510:0;nvim .
 : 1669432597:0;nvim .config/nvim
 : 1669432665:0;:q
@@ -6097,8 +6007,7 @@ git push -u origin main
 : 1669434194:0;git commit -m "setup nvim-tree"
 : 1669434203:0;git add lua/user/plugins.lua
 : 1669434210:0;git commit -m "add plugins"
-: 1669
-434213:0;git add lua/user/symbol-outline.lua
+: 1669434213:0;git add lua/user/symbol-outline.lua
 : 1669434221:0;git commit -m "setup outline"
 : 1669434225:0;git add lua/user/tabnine.lua
 : 1669434229:0;git commit -m "setup cmp"
@@ -6164,8 +6073,7 @@ git clone https://github.com/arturgoms/nvim.git ~/.config/nvim
 : 1669497240:0;codium .
 : 1669497285:0;git status
 : 1669497296:0;git add lua/oh-lucy/theme.lua
-: 16
-69497343:0;git commit -m "update theme to support latest TreeSitter changes"
+: 1669497343:0;git commit -m "update theme to support latest TreeSitter changes"
 : 1669497349:0;git add lua/oh-lucy-evening/theme.lua 
 : 1669497351:0;git commit -m "update theme to support latest TreeSitter changes"
 : 1669497365:0;git push origin main
@@ -6236,8 +6144,7 @@ zellij setup --dump-config > ~/.config/zellij/config.kdl\
 : 1669520997:0;brew uninstall tmux
 : 1669521275:0;cd
 : 1669521281:0;brew install tmux
-: 1669521304:0;touch .tmux
-.conf
+: 1669521304:0;touch .tmux.conf
 : 1669521424:0;/usr/local/opt/ncurses/bin/infocmp tmux-256color > ~/tmux-256color.info
 : 1669521450:0;/usr/local/opt/ncurses/bin/infocmp -x tmux-256color > ~/tmux-256color.src
 : 1669521470:0;cd /opt/homebrew/
@@ -6317,8 +6224,7 @@ zellij setup --dump-config > ~/.config/zellij/config.kdl\
 : 1669567713:0;ls
 : 1669567721:0;rm -rf lunarvim
 : 1669567724:0;cd
-: 1669567745:0;bash <(cu
-rl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/uninstall.sh)
+: 1669567745:0;bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/uninstall.sh)
 : 1669567752:0;lvim
 : 1669567762:0;vim .zshrc
 : 1669567790:0;source .zshrc
@@ -6381,8 +6287,7 @@ rl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer
 : 1669667209:0;cat .zshrc
 : 1669667326:0;ls -la
 : 1669667519:0;cd _dev
-: 1669667525:0;mkdir has
-kell_dev
+: 1669667525:0;mkdir haskell_dev
 : 1669667528:0;cd haskell_dev
 : 1669667529:0;ls
 : 1669667536:0;touch main.hs
@@ -6456,8 +6361,7 @@ git submodule update --init --recursive
 : 1669670888:0;ls
 : 1669670898:0;fd "mac" .
 : 1669670910:0;ninja -f compile/ninja/macos.ninja
-: 1669670923:0;
-cd ../..
+: 1669670923:0;cd ../..
 : 1669670930:0;./3rd/luamake/luamake rebuild
 : 1669671024:0;cd ..
 : 1669671027:0;touch lua-ls.lua
@@ -6520,8 +6424,7 @@ cd ../..
 : 1669674109:0;git push origin main
 : 1669674135:0;ls
 : 1669674208:0;git checkout 9ded75d
-: 1669
-674213:0;git status
+: 1669674213:0;git status
 : 1669674218:0;ls
 : 1669674235:0;nvim
 : 1669674289:0;git status
@@ -6585,8 +6488,7 @@ brew install cfiles
 : 1669680126:0;make install
 : 1669680291:0;brew unlink gettext && brew link --force gettext
 : 1669680299:0;find /usr -name libintl* -print 2>/dev/null
-: 1669680307:0;find /opt -name libintl* -prin
-t 2>/dev/null
+: 1669680307:0;find /opt -name libintl* -print 2>/dev/null
 : 1669680314:0;find /opt -name libintl -print 2>/dev/null
 : 1669680319:0;find /opt -name libintl -print
 : 1669680326:0;find /opt -name libintl.h -print
@@ -6651,8 +6553,7 @@ t 2>/dev/null
 : 1669692271:0;git commit -m "fix registers x and y""
 : 1669692273:0;git commit -m "fix registers x and y"
 : 1669692284:0;./run.sh
-: 16696923
-36:0;git push origin main
+: 1669692336:0;git push origin main
 : 1669692389:0;cd ..
 : 1669692393:0;rm -rf Chip8InCCourse-coding-14-finished-simulator
 : 1669692394:0;ls
@@ -6724,8 +6625,7 @@ sudo make install
 : 1669736218:0;./hed ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
 : 1669736258:0;ls
 : 1669736286:0;cp hed /usr/bin
-: 1669736290:0;sud
-o cp hed /usr/bin
+: 1669736290:0;sudo cp hed /usr/bin
 : 1669736827:0;cd _dev/c_dev/hed
 : 1669736830:0;codium .
 : 1669737883:0;cd ..
@@ -6804,8 +6704,7 @@ o cp hed /usr/bin
 : 1669821292:0;cd _dev/c_dev/chip8_c
 : 1669821295:0;nvim .
 : 1669821419:0;ls
-: 1669821426:0;bat r
-un.sh
+: 1669821426:0;bat run.sh
 : 1669821433:0;./run.sh
 : 1669821452:0;./run.sh > here.txt
 : 1669821460:0;bat here.txt
@@ -6877,8 +6776,7 @@ un.sh
 : 1669918096:0;git commit -m"disable mouse"
 : 1669918102:0;git add lua/user/gitsigns.lua 
 : 1669918105:0;git commit -m".."
-: 1669918110:0;git add lua
-/user/keymaps.lua
+: 1669918110:0;git add lua/user/keymaps.lua
 : 1669918130:0;git commit -m"keymap pwd"
 : 1669918135:0;git add lua/user/lualine.lua
 : 1669918141:0;git commit -m"add lualine"
@@ -6944,8 +6842,7 @@ un.sh
 : 1670002360:0;git commit -m ".."
 : 1670002369:0;git push origin main
 : 1670012068:0;nvim
-: 1670012396:0;exerci
-sm download --exercise=atbash-cipher --track=java
+: 1670012396:0;exercism download --exercise=atbash-cipher --track=java
 : 1670012407:0;cd /Users/yazeed_1/_dev/Exercism/java/
 : 1670012408:0;ls
 : 1670012412:0;cd atbash-cipher
@@ -7008,8 +6905,7 @@ sm download --exercise=atbash-cipher --track=java
 : 1670037052:0;git status
 : 1670037071:0;git add cmd/goip.go ".."
 : 1670037077:0;git add cmd/goip.go
-: 1670037087:0;git commit -m "create table to display in
-fo"
+: 1670037087:0;git commit -m "create table to display info"
 : 1670037091:0;git pull origin main
 : 1670037096:0;git push origin main
 : 1670037823:0;ls
@@ -7067,8 +6963,7 @@ fo"
 : 1670053963:0;cd nail
 : 1670053965:0;ls
 : 1670053970:0;cargo run
-: 1670054001:0;cargo run _dev/c_dev/chip8_c/roms/TEST/IBM.ch
-8
+: 1670054001:0;cargo run _dev/c_dev/chip8_c/roms/TEST/IBM.ch8
 : 1670054034:0;cargo run README.md
 : 1670054206:0;cd _dev/rust_dev/
 : 1670054211:0;git clone https://github.com/athulp01/hexrus.git
@@ -7142,8 +7037,7 @@ fo"
 : 1670174312:0;cd hexvi
 : 1670174316:0;cargo run
 : 1670174330:0;cargo run ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
-: 167
-0174524:0;cd _dev/rust_dev
+: 1670174524:0;cd _dev/rust_dev
 : 1670174530:0;cargo new hex
 : 1670174535:0;cd hex
 : 1670174537:0;codium ,
@@ -7213,8 +7107,7 @@ brew install 3mux
 : 1670206870:0;ls
 : 1670206881:0;go mod init golog
 : 1670206884:0;ls
-: 1670206892:0;t
-ouch main.go
+: 1670206892:0;touch main.go
 : 1670206897:0;codium .
 : 1670207368:0;go run main.go
 : 1670248493:0;insect
@@ -7293,8 +7186,7 @@ brew install 3mux
 : 1670431207:0;cat ~/.ssh/config
 : 1670431393:0;brew uinstall 3mux
 : 1670431399:0;brew uninstall 3mux
-: 1670431833:0;bre
-w install austinjones/taps/tab
+: 1670431833:0;brew install austinjones/taps/tab
 : 1670432059:0;brew uninstall austinjones/taps/tab
 : 1670432216:0;cd _dev/c_dev
 : 1670432218:0;ls
@@ -7360,8 +7252,7 @@ w install austinjones/taps/tab
 : 1670471161:0;codium .
 : 1670471244:0;su
 : 1670471255:0;su root
-: 1670471361:0;sudo chown -R Ya
-zeed4 Applications/VSCodium.app
+: 1670471361:0;sudo chown -R Yazeed4 Applications/VSCodium.app
 : 1670471367:0;sudo chown -R Yazeed4 /Applications/VSCodium.app
 : 1670471376:0;./VSCodium.app
 : 1670471379:0;VSCodium.app
@@ -7419,8 +7310,7 @@ zeed4 Applications/VSCodium.app
 : 1670624189:0;cd lua
 : 1670624190:0;ls
 : 1670624193:0;cd lualine
-: 167
-0624194:0;ls
+: 1670624194:0;ls
 : 1670624196:0;cd ..
 : 1670624200:0;codium .
 : 1670624227:0;nvim .
@@ -7494,8 +7384,7 @@ zeed4 Applications/VSCodium.app
 : 1670715359:0;nvim .
 : 1670715458:0;ls
 : 1670715461:0;nvim .
-: 1670715744:0
-;goip 138.197.118.135
+: 1670715744:0;goip 138.197.118.135
 : 1670715784:0;nap
 : 1670715807:0;ls
 : 1670715821:0;cd .config/alacritty
@@ -7571,8 +7460,7 @@ zeed4 Applications/VSCodium.app
 : 1670804574:0;goip l
 : 1670804582:0;goip l0
 : 1670805343:0;ls
-: 167080
-5347:0;clr
+: 1670805347:0;clr
 : 1670805349:0;fman
 : 1670814930:0;ls
 : 1670814933:0;cd
@@ -7646,8 +7534,7 @@ zeed4 Applications/VSCodium.app
 : 1670831967:0;tmux
 : 1670831971:0;nvim .
 : 1670832175:0;nvim .tmux.conf
-: 1670832206:0;sou
-rce .tmux.conf
+: 1670832206:0;source .tmux.conf
 : 1670832210:0;nvim .tmux.conf
 : 1670832223:0;source .tmux.conf
 : 1670832227:0;tmux
@@ -7715,8 +7602,7 @@ rce .tmux.conf
 : 1670866207:0;cd html
 : 1670866208:0;ls
 : 1670866237:0;mkdir ~/_dev/arabianchain/old_holders
-: 1670866266:0;mv 
-holders1.html ~/_dev/arabianchain/old_holders
+: 1670866266:0;mv holders1.html ~/_dev/arabianchain/old_holders
 : 1670866278:0;mv holders2.html ~/_dev/arabianchain/old_holders
 : 1670868356:0;nvim .
 : 1670868460:0;cd _dev/arabianchain
@@ -7772,8 +7658,7 @@ holders1.html ~/_dev/arabianchain/old_holders
 : 1670878462:0;cd .config/nvim/lua
 : 1670878464:0;nvim .
 : 1670878993:0;cd 
-: 16708790
-07:0;cd .local/share/nvim/site/pack/packer/start/minimal.nvim
+: 1670879007:0;cd .local/share/nvim/site/pack/packer/start/minimal.nvim
 : 1670879020:0;nvim .
 : 1670879706:0;cd
 : 1670879709:0;cd .config
@@ -7848,8 +7733,7 @@ holders1.html ~/_dev/arabianchain/old_holders
 : 1670912320:0;cd _dev/rust_dev/port
 : 1670912322:0;nvim .
 : 1670951129:0;cd _dev/c_dev/ncruses
-: 1670
-951130:0;ls
+: 1670951130:0;ls
 : 1670951134:0;nvim .
 : 1670951254:0;gcc main.c -lncruses -lmenu -o out
 : 1670951260:0;gcc main.c -lcruses -lmenu -o out
@@ -7924,8 +7808,7 @@ holders1.html ~/_dev/arabianchain/old_holders
 : 1670964383:0;cd golog
 : 1670964384:0;ls
 : 1670964386:0;nvim .
-: 1670964421:0
-;cd
+: 1670964421:0;cd
 : 1670964425:0;cd .config/nvim
 : 1670964426:0;ls
 : 1670964429:0;nvim .
@@ -8000,8 +7883,7 @@ holders1.html ~/_dev/arabianchain/old_holders
 : 1670967448:0;nvim .
 : 1670967509:0;ls
 : 1670970745:0;btop
-: 1671046372:
-0;cd _dev/arabianchain
+: 1671046372:0;cd _dev/arabianchain
 : 1671046373:0;ls
 : 1671046381:0;rm -rf go-dubxnet
 : 1671046388:0;sudo rm -rf go-dubxnet
@@ -8086,8 +7968,7 @@ holders1.html ~/_dev/arabianchain/old_holders
 : 1671130028:0;nvim .
 : 1671130722:0;btop
 : 1671130922:0;ps
-: 167113
-0931:0;ps -h
+: 1671130931:0;ps -h
 : 1671130937:0;ps -0help
 : 1671130953:0;ps -L
 : 1671130963:0;ps -p
@@ -8168,8 +8049,7 @@ holders1.html ~/_dev/arabianchain/old_holders
 : 1671133913:0;ls
 : 1671133961:0;cd _dev
 : 1671133962:0;ls
-: 1671134022:0;
-nvim .
+: 1671134022:0;nvim .
 : 1671134057:0;cd ../btop
 : 1671134064:0;nvim .
 : 1671134089:0;btop
@@ -8244,8 +8124,7 @@ nvim .
 : 1671167328:0;rm test.txt
 : 1671167331:0;time go run main.go
 : 1671167360:0;nvim .
-: 167116
-7421:0;rm test.txt
+: 1671167421:0;rm test.txt
 : 1671167423:0;time go run main.go
 : 1671167432:0;ls
 : 1671167445:0;wc test.txt
@@ -8324,8 +8203,7 @@ nvim .
 : 1671172740:0;time go run main.go
 : 1671172744:0;nvim .
 : 1671172813:0;time go run main.go
-: 167
-1172817:0;wc test.txt
+: 1671172817:0;wc test.txt
 : 1671172822:0;time go run main.go
 : 1671172828:0;nvim .
 : 1671172846:0;time go run main.go
@@ -8398,8 +8276,7 @@ nvim .
 : 1671175124:0;ls
 : 1671175126:0;ls -l -h -a
 : 1671175144:0;brew outdated
-: 1671211594:
-0;history
+: 1671211594:0;history
 : 1671213497:0;cd _dev/go_dev
 : 1671213504:0;mkdir goback
 : 1671213506:0;ls
@@ -8422,28 +8299,93 @@ nvim .
 : 1671216557:0;history
 : 1671216589:0;cat ~/.zsh_history
 : 1671216627:0;go run main.go > text.txt
+: 1671216630:0;go run main.go
+: 1671216779:0;HISTSIZE
+: 1671216782:0;$HISTSIZE
+: 1671216893:0;go run main.go
+: 1671217279:0;nvim .
+: 1671217289:0;cd _dev/go_dev
+: 1671217290:0;ls
+: 1671217323:0;go run main.go
+: 1671217331:0;cd goback
+: 1671217332:0;go run main.go
+: 1671217389:0;vim .
+: 1671217500:0;cd _dev/go_dev/goback
+: 1671217503:0;nvim .
+: 1671217548:0;go run main.go
+: 1671218271:0;nvim .
+: 1671218282:0;cd _dev/go_dev/goback
+: 1671218283:0;ls
+: 1671218353:0;go run main.go
+: 1671218579:0;nvim .
+: 1671218586:0;cd ~/_dev/go_dev/goback 
+: 1671218592:0;go run main.go
+: 1671229599:0;wc -l ~/.zsh_history
+: 1671229610:0;wc -l ~/.bash_history
+: 1671229650:0;HISTSIZE
+: 1671229655:0;$HISTSIZE
+: 1671229662:0;HISTSIZE
+: 1671229998:0;go run main.go
+: 1671230505:0;clr
+: 1671230506:0;go run main.go
+: 1671231012:0;nvim .
+: 1671231131:0;go run main.go
+: 1671231337:0;cat .zsh_history
+: 1671231347:0;go run main.go
+: 1671231365:0;clr
+: 1671231382:0;cat .bash_history
+: 1671231395:0;cat .zsh_history
+: 1671232209:0;cd _dev/go_dev/goback
+: 1671232213:0;echo "# goback" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/goback.git\
+git push -u origin main
+: 1671232220:0;git add .
+: 1671232234:0;git commit -m"first commit"
+: 1671232244:0;git push origin main
+: 1671232364:0;cd ../..
+: 1671232365:0;ls
+: 1671232371:0;cd github_co
+: 1671232372:0;ls
+: 1671232375:0;cd awesome-neovim
+: 1671232391:0;git -b 
+: 1671232401:0;git pull origin main
+: 1671232411:0;cd ..
+: 1671232420:0;rm -rf awesome-neovim
+: 1671232436:0;git clone https://github.com/Yazeed1s/awesome-neovim.git
+: 1671232437:0;ls
+: 1671232441:0;cd awesome-neovim
+: 1671232442:0;ls
+: 1671232656:0;git checkout -b Add colorscheme
+: 1671232665:0;git checkout -b "Add colorscheme"
+: 1671232677:0;git checkout -b "Add-colorscheme"
+: 1671232750:0;nvim .
+: 1671232982:0;git status
+: 1671232987:0;git add .
+: 1671233006:0;git commit -m "Add colorscheme"
+: 1671233047:0;git push -u origin Add-colorscheme
+: 1671241718:0;cd _dev/go_dev/goback
+: 1671241720:0;ls
+: 1671241727:0;rm text.txt
+: 1671241731:0;codium .
+: 1671241942:0;go run main.go
+: 1671242095:0;go run main.go > text.txt
+: 1671242100:0;wc -l text.txt
+: 1671242110:0;wc -l ~/.zsh_history
+: 1671242263:0;go run main.go > text2.txt
+: 1671242276:0;wc -l text2.txt
+: 1671242400:0;go run main.go > text2.txt
+: 1671242515:0;cd
+: 1671242517:0;ls -la
+: 1671242584:0;wc -c .zsh_history
+: 1671242730:0;go run main.go > text2.txt
+: 1671242739:0;go run main.go
+: 1671243137:0;ls -sh
+: 1671243147:0;ls -ash
+: 1671243158:0;ls -ah
+: 1671243402:0;go run main.go
+: 1671243416:0;go run main.go > text2.txt
 
-[0 history
-: 1671213497:0 cd _dev/go_dev
-: 1671213504:0 mkdir goback
-: 1671213506:0 ls
-: 1671213510:0 cd goback
-: 1671213519:0 go mod init goback
-: 1671213526:0 ls
-: 1671213536:0 touch main.go
-: 1671213537:0 ls
-: 1671213543:0 nvim .
-: 1671213911:0 cd _dev/go_dev/goback
-: 1671213917:0 go run main.go
-: 1671213940:0 ls -la
-: 1671213961:0 pwd .zsh_history
-: 1671213967:0 which .zsh_history
-: 1671213976:0 pwd
-: 1671213996:0 go run main.go
-: 1671216451:0 go run main.go > text.txt
-: 1671216455:0 cat text.txt
-: 1671216529:0 man history
-: 1671216557:0 history
-: 1671216589:0 cat ~/.zsh_history
-: 1671216627:0 go run main.go > text.txt
-]

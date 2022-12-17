@@ -1,0 +1,8388 @@
+ls
+ls
+cc
+lp
+cd er
+fish
+chsh -s /usr/local/bin/fish
+ls
+lvim
+nvim
+vim
+brew
+chsh -s /usr/local/bin/fish 
+chsh -s /usr/local/bin/fish 
+chsh -s /usr/local/bin/fish 
+df
+dd
+chsh -s /usr/local/bin/fish 
+chsh -s /usr/.local/bin/fish 
+sudo nano /etc/shells
+sudo nano /etc/shells
+sudo nano /etc/shells
+sudo nano /etc/shells
+ls
+cd
+brew
+rm -Rf /usr/local/etc/fish /usr/local/share/fish ~/.config/fish\
+rm /usr/local/share/man/man1/fish*.1\
+cd /usr/local/bin\
+rm -f fish mimedb fish_pager fishd fish_indent\
+;clear
+nano etc/shells
+nano /etc/shells
+nano /etc/shells
+nano /etc/shells
+sudo nano /etc/shells
+clear
+cargo
+sudo nano /etc/shells
+sudo nano /etc/shells
+sudo nano /etc/shells
+brew
+touch .zshrc
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+ls
+cd
+nvim
+lvim
+clr
+cd
+clr
+git pull
+brew outdated
+brew update
+nvim .zshrc
+ls
+ranger
+ranger --copy-config=al
+ranger --copy-config=all
+ranger
+nvim .config/ranger
+ranger
+nvim .zshrc
+ranger
+clr
+vim
+lvim .vimrc
+vim
+vim _dev/
+nvim .config/ranger
+ranger
+lvim .vimrc
+nvim .zshrc
+ranger
+brew uninstall ranger
+ranger
+broot
+xplr
+brew uninstall xplr
+cd .config/broot
+rm -rf ~.config/ranger
+rm -rf ~/.config/ranger
+ls
+lvim .
+broot
+brew install ranger
+ranger
+cd .config/ranger
+ls
+ranger --copy-config
+ranger --copy-config all
+vim .
+nvim .
+ranger 
+nvim .
+ranger 
+nvim .
+ranger 
+diskutil list
+diskutil unmountDisk /dev/disk4
+sudo dd if=/Users/yazeed_1/Downloads/archlinux-2022.08.05-x86_64.iso of=/dev/rdisk4 bs=1m
+diskutil list
+clr
+diskutil list
+diskutil unmountDisk /dev/disk4
+sudo dd if=/Users/yazeed_1/Downloads/archlinux-2022.08.05-x86_64.iso of=/dev/rdisk4 bs=1m
+cd alacritty
+cd .config alacritty
+cd .config/alacritty
+vim .
+cd .config
+ls
+cd alacritty
+vim .
+vim .zshrc
+ls
+cd _dev
+ls
+cd arabianchain
+ls
+cd ww
+cd www
+ls
+code .
+cd _dev/arabianchain/www
+code .
+code
+code.
+nvim 
+nvim
+cd _dev
+ls
+echo "# _dev" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/_dev.git\
+git push -u origin main
+git add .
+cd _dev
+ls
+git add Exercism/
+git add C:C++/
+git add github_co/
+git add rust_dev/
+cd rust_dev
+ls
+git add tui_present/
+git add tui_rs
+git commit -m ".."
+git push origin main
+cd ..
+git remote remove origin https://github.com/Yazeed1s/_dev.git
+git remote remove origin main https://github.com/Yazeed1s/_dev.git
+git remote remove https://github.com/Yazeed1s/_dev.git
+git remote remove origin
+git remote remove -v
+git remote remove origin
+cd ..
+cd _dev
+git remote remove main
+cd
+cd _dev
+ls
+git status
+ls -la
+rm -rf .git
+ls
+cd ..
+clr
+nvim
+nvim .
+cd _folders
+ls
+cd my
+cd myExtensions
+ls
+cd minimal.nvim
+git status
+code .
+nvim .
+git status
+git add lua/minimal/theme.lua
+git commit -m "fix bufferline + trouble window colors"
+git add lua/minimal-base16/theme.lua
+git commit -m "fix bufferline + trouble window colors"
+git add terminal/alacritty_minimal.yml
+git commit -m "modify bright colors"
+git push origin main
+nvim 
+nvim
+cd .config/lvim
+lvim .
+lvim 
+cd
+lvim .
+lvim 
+brew install lapce
+brew reinstall lapce
+brew uninstall lapce
+brew install lapce
+brew uninstall lapce
+cd '/Users/yazeed_1/Library/Application Support/Sublime Text/Packages'
+git clone https://github.com/catppuccin/sublime-text.git Catppuccin
+ls
+gopls
+gopls --help
+which gopls
+xcode-select --install
+open /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg
+brew install llvm.
+brew install llvm
+go get golang.org/x/tools/gopls@latest
+vim .zshrc
+which go
+go get golang.org/x/tools/gopls@latest
+source .zshrc
+go get golang.org/x/tools/gopls@latest
+vim .zshrc
+nvim .zshrc
+go get github.com/sourcegraph/go-langserver
+go get golang.org/x/tools/gopls@latest
+which gopls
+brew install clanged
+which rust_analyzer
+brew install rust-analyzer
+which rust-analyzer
+cd /opt/homebrew/bin/rust-analyzer
+cd ~/opt/homebrew/bin/rust-analyzer
+cd ..
+ls
+cd ..
+ls
+cd opt
+ls
+cd homebrew
+ls
+cd bin
+ls
+cd
+rustup component add rust-src\
+;cd .local/bin
+ls
+curl -L https://github.com/rust-lang/rust-analyzer/releases/latest/download/rust-analyzer-x86_64-unknown-linux-gnu.gz | gunzip -c - > ~/.local/bin/rust-analyzer
+chmod +x ~/.local/bin/rust-analyzer
+ls
+pwd
+chmod +x ~/.local/bin/rust-analyzer
+chmod +x rust-analyzer
+brew outdated
+ls
+cd _dev
+ls
+nvim
+nvim .config/alacritty/alacritty.yml
+nvim
+brew install --cask vscodium
+ls -la
+lvim
+clr
+brew install --cask vscodium
+brew uninstall --cask vscodium
+brew install --cask vscodium
+chsh -s $(which zsh)
+which zsh
+ls
+chmod +x '/Users/yazeed_1/Library/Application Support/VSCodium/User/globalStorage/matklad.rust-analyzer/rust-analyzer-aarch64-apple-darwin'
+brew --help
+brew list
+brew uninstall --cask iterm2
+brew uninstall --cask neovide
+tokie
+tokei
+neofetch
+clr
+ls
+clr
+nvim
+code .
+codeoss .
+codium .
+nvim
+nvim .
+nvim 
+nvim .
+nvim 
+ls
+cd _dev
+ls
+cd rust_dev
+cd Rust
+nvim .
+nvim 
+nvim
+cd .local/share/lunarvim/site/pack/packer
+cd start
+ls
+cp minimal.nvim ~/_folders/myExtensions
+ls
+cp ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim ~/_folders/myExtensions
+cp ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim/ ~/_folders/myExtensions
+cd 
+clr
+rng
+rngr
+ranger
+clr
+neofetch
+ls
+nvim .
+nvim
+nvim 
+nvim
+ls
+lvim
+ls
+lvim
+nvim
+brew install Iosevka
+brew tap homebrew/cask-fonts\
+brew install --cask font-iosevka
+nvim
+nvim .vimrc
+vim
+nvim .vimrc
+vim
+nvim .vimrc
+nvim 
+nvim
+nvim 
+cd _folders
+cd myExtensions
+cd minimal.nvim
+git status
+git add lua/minimal/config.lua 
+git commit -m "add key 'minimal_'"
+git add lua/minimal/theme.lua
+git commit -m "add config options to TS variables"
+git add lua/minimal-base16/theme.lua
+git commit -m "add config options to TS variables"
+git add lua/minimal-base16/config.lua
+git commit -m "add key 'minimal_'"
+git status
+git push origin main 
+codium .
+cd
+nvim
+ls
+nvim
+clr
+ls
+ranger
+nvim
+cd _folders
+clr
+cd minimal.nvim
+ls
+cd ../nvim_updated
+echo "# nvim_updated" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/nvim_updated.git\
+git push -u origin main
+git status
+git add .
+git commit -m "migrate colorscheme"
+git status
+git push origin main
+nvim
+clr
+brew install cppcheck
+nvim
+cd _dev
+ls
+cd C:C++
+ls
+cd c
+ls
+cd hashmap
+touch lin.c
+nvim
+nvim .
+clr
+cd
+clr
+ls
+cd _dev
+nvim .
+nvim
+cd ~/.config/lvim
+nvim .
+cd ~/_dev/
+nvim .
+cd
+brew install clanged
+nvim _dev/C:C++/C
+clr
+ranger
+nvim .
+source .zshrc
+nvim .zshrc
+~/.fzf/install
+nvim .zshrc
+source .zshrc
+nvim .zshrc
+source .zshrc
+nvim .zshrc
+source .zshrc
+clr
+nvim .zshrc
+source .zshrc
+nvim .zshrc
+source .zshrc
+ls
+nvim .zshrc
+source .zshrc
+nvim .zshrc
+source .zshrc
+nvim .zshrc
+source .zshrc
+nvim .zshrc
+source .zshrc
+brew "spaceship"
+git clone https://github.com/spaceship-prompt/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
+ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
+nvim .zshrc
+source .zshrc
+npm install -g spaceship-prompt
+ls
+cd _dev/rust_dev/algorithms_rust
+ls
+clr
+ls
+clr
+ls
+clr
+npm uninstall -g spaceship-prompt
+clr
+nvim .zshrc
+source .zshrc
+clr
+rm -rf /usr/local/share/zsh/site-functions/prompt_spaceship_setup
+source .zshrc
+brew outdated
+brew upgrade
+brew update
+clr
+brew install khanhas/tap/spicetify-cli
+spicetify
+cd .config
+ls
+spicetify backup
+cd
+spicetify apply
+brew uninstall khanhas/tap/spicetify-cli
+clr
+cd
+clr
+neofetch
+clr
+onefetch
+clr
+nvim
+clr
+nnn
+exa
+exa -la
+clr
+vim
+nvim
+builtin cd -- go/pkg/mod/google.golang.org/grpc@v1.23.0/xds/internal/balancer/lrs
+clr
+ls
+cd
+clr
+neofetch
+lspci
+dmesg
+sudo dmesg
+sudo dmesg | grep -i wifi
+sudo dmesg | -i wifi
+sudo dmesg | grep -i cpu
+sudo dmesg | grep -i gpu
+sudo dmesg | grep -i bluetooth
+sudo dmesg | grep -i i
+clr
+cd _dev
+ls
+cd c
+cd C:C++
+cd c
+cd hashmap
+nvim .
+clr
+cd 
+clr
+nvim .zshrc
+nvim
+nvim .zshrc
+source .zshrc
+nvim
+cd .config/nvim
+ls
+nvim .
+lvim
+cd .config/lvim
+lvim .
+nvim 
+lvim .
+nvim .
+nvim 
+nvim ~/_dev/C:C++/C/hashmap
+cd
+lvim .zshrc
+clr
+cd .config/lvim
+nvim .
+lvim .
+nvim
+nvim _dev/rust_dev/github_acc_cli
+clr
+brew outdated
+clr
+ls
+nvim
+clr
+cd _folder
+cd _folders
+ls
+cd www2
+codium .
+cd ../arabianchain/www
+cd ../arabianchain\ work
+ls
+cd ../../_dev/arabianchain
+ls
+cd www
+codium .
+clr
+ls
+clr
+cd desktop
+ls
+touch main.c
+nvim main.c
+clr
+cd _folders/CS-School && mkdir system_programming/lab01/
+cd
+clr
+cd _folders/CS-School && mkdir system_programming
+mkdir system_programming/lab01
+cp ~/desktop/main.c system_programming/lab01/src
+cp ~/desktop/main.c system_programming/lab01/src/
+mkdir system_programming/lab01/src/
+cd clr
+cd
+clr
+cd _folders/CS-School && mkdir systemProgramming
+cd _folders/CS-School/systemProgramming && mkdir lab01
+cd _folders/CS-School/systemProgramming/ && mkdir lab01
+clr
+ls
+cd systemProgramming 
+mkdir lab01
+cd lab01
+mkdir src
+cp ~/Desktop/main.c ~/_folders/CS-School/systemProgramming/lab01/src/
+ls -la
+cd src
+ls
+gcc main.c -o main
+gcc main.c
+clr
+gcc main.c -o main
+gcc main.c
+gcc -v
+gcc
+gcc --help
+nvim main.c
+nvim .
+ls
+gcc main.c -o main
+./main
+clr
+nvim .
+clr
+cd _folders/CS-School/systemProgramming/lab01/src
+ls
+gcc main.c -o main
+./main
+gcc main.c -o main
+./main
+gcc main.c -o main
+./main
+gcc main.c -o main
+./main
+neovim
+nvim
+clr
+cd _folders/CS-School/systemProgramming/lab01/src
+ls
+gcc main.c
+./main
+./a.out
+clr
+cd _dev/arabianchain/www
+echo "# arabianchain" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/arabianchain.git\
+git push -u origin main
+git status 
+git add html
+git add html/
+git commit -m ".."
+git add html3/
+git commit -m ".."
+git push origin main
+git status 
+git rm html/.DS_Store
+git add html/.DS_Store
+git add html/galaxywallet/
+git add html/galaxywallet
+git rm html/galaxywallet
+ls
+git status
+git add .
+git commit -m ".."
+git push origin main
+git status
+cd ..
+cd www
+echo "# arabianchain" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/arabianchain.git\
+git push -u origin main
+git pull
+git pull origin main
+cd ..
+cd www
+echo "# arabianchain" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/arabianchain.git\
+git push -u origin main
+git status
+git add html/
+git add html3/
+git add .
+git commit -m ".."
+git push origin main
+cd ..
+cd www
+ls
+cd html
+ls
+echo "# arabianchain" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/arabianchain.git\
+git push -u origin main
+git status
+git add 404.html
+git commit -m ".."
+git add about_us.html
+git commit -m ".."
+git add contact.html
+git commit -m ".."
+git add css/
+git commit -m ".."
+git add js/
+git commit -m ".."
+git status
+git add html.zip
+git commit -m ".."
+git add index.html
+git commit -m ".."
+git add partners.html
+git commit -m ".."
+git add roadmap.html
+git add services.html
+git status
+git add twitter-bootstrap/
+git add technology.html
+git status
+git commit -m ".."
+git push origin main
+cd ..
+cd www/html
+echo "# arabianchain" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/arabianchain.git\
+git push -u origin main
+git pull
+echo "# arabianchain" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/arabianchain.git\
+git push -u origin main
+git status
+cd ..
+cd html
+echo "# arabianchain" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/arabianchain.git\
+git push -u origin main
+git status
+git add technology.html
+git commit -m ".."
+git add 404.html
+git commit -m ".."
+git add about_us.html
+git commit -m ".."
+git add contact.html
+git commit -m ".."
+git add roadmap.html
+git commit -m ".."
+git add partners.html
+git commit -m ".."
+git status
+git add css/
+git commit -m ".."
+git add html.zip
+git commit -m ".."
+git add js/
+git commit -m ".."
+git status
+git add index.html
+git commit -m ".."
+git add services.html
+git commit -m ".."
+git add twitter-bootstrap/
+git commit -m ".."
+git status
+git push origin main
+git status
+codium .
+git atatus
+git status
+git add roadmap.html
+git commit -m ".."
+git status
+git add roadmap.html
+git commit -m ".."
+git status
+git add roadmap.html
+git commit -m ".."
+git status
+git add roadmap.html
+git commit -m ".."
+git status
+git add roadmap.html
+git commit -m ".."
+git status
+git add roadmap.html
+git commit -m ".."
+git status
+git add roadmap.html
+git commit -m ".."
+git status
+git add roadmap.html
+git commit -m ".."
+git status
+git add index.html
+git commit -m ".."
+git status
+git add js/video.js
+git add js/tweetie/tweetie.min.js
+git commit -m ".."
+git status
+git add js/tweetie/tweetie.js 
+git commit -m ".."
+git status
+git add js/tweetie/tweetie.jquery.json
+git commit -m ".."
+git status
+git add js/style_switcher.js
+git commit -m ".."
+git status
+git add js/newsletter.js
+git commit -m ".."
+git status
+git add js/modernizr.custom.48287.js
+git commit -m ".."
+git add js/jquery.ui.totop.js
+git commit -m ".."
+git add js/jquery.imagesloaded.min.js
+git commit -m ".."
+git add js/jquery.simple-text-rotator.js
+git commit -m ".."
+git status
+git add js/bigvideo.js
+git commit -m ".."
+git add js/collapser.js
+git commit -m ".."
+git status
+git add js/cleanstart_theme.js
+git commit -m ".."
+git add js/contact_form.js
+git commit -m ".."
+git status
+git add js/bigvideo_init.js
+git commit -m ".."
+git add js/easing.js
+git commit -m ".."
+git status
+git add js/google_map.js
+git commit -m ".."
+git add js/imagelightbox.min.js
+git commit -m ".."
+git status
+git add js/isotope/css/style.css
+git commit -m ".."
+git add js/jquery-1.10.2.min.js
+git commit -m ".."
+git add js/jquery-ui-1.8.22.custom.min.js
+git commit -m ".."
+git status
+clrt
+clr
+cd _dev/arabianchain/www/html
+git status
+git push -u origin main
+git push origin main
+clr
+cd
+clr
+ssh@206.189.181.81
+ssh root@206.189.181.81
+sudo ssh root@206.189.181.81
+ssh root@10.136.75.135
+ssh root@174.138.110.34
+clr
+cd _dev
+ls
+cd C:C++
+cd C
+ls
+mkdir struct_c
+cd struct_c
+touch main.c
+nvim .
+nvim .config/lvim
+cd _dev/C:C++/C/struct_c
+gcc min.c -o out
+gcc main.c -o out
+./out
+nvim .
+cd _dev/C:C++/C/struct_c
+gcc main.c -o out
+./out
+cd _dev/C:C++/C/struct_c
+gcc main.c -o out
+./out
+nvim .
+npm i -g clang-format
+clang-format --style=GNU --dump-config > .clang-format
+cd _dev/C:C++/C/struct_c
+clang-format main.c
+nvim .
+nvim .config/lvim
+nvim .
+nvim .config/lvim
+nvim .
+cd
+clr
+cd _dev
+cd arabianchain
+ls
+cd www
+ls
+cd html
+codium .
+clr
+ssh alharthi@139.177.205.55
+clr
+ssh alharthi@139.177.205.55
+clr
+ssh alharthi@139.177.205.55
+clr
+ssh alharthi@139.177.205.55
+clr
+l
+ls
+ls -a
+ls -la
+l -a
+clr
+uninstall_oh_my_zsh
+clr
+clear
+lvim .zshrc
+vim .zshrc
+source .zshrc
+clr
+wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh\
+sh install.sh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+ip address
+brew install khanhas/tap/spicetify-cli
+nvim .zshrc
+lvim .zshrc
+vim .zshrc
+source .zshrc
+brew install khanhas/tap/spicetify-cli
+ls .config
+ls .config/spicetify
+ls .config/spicetify/Themes
+git clone https://github.com/spicetify/spicetify-themes.git
+cd spicetify-themes\
+cp -r * ~/.config/spicetify/Themes
+spicetify config current_theme Purple
+spicetify apply
+spicetify backup apply
+spicetify apply
+spicetify config current_theme purple
+spicetify apply
+spicetify config current_theme default
+spicetify apply
+ls
+spicetify config current_theme Dribbblish
+spicetify apply
+spicetify config current_theme Sleek
+spicetify apply
+spicetify config color_scheme Cherry
+spicetify apply
+clr
+cd
+clr
+spicetify config current_theme default
+spicetify apply
+clr
+spicetify config current_theme Turntable
+spicetify apply
+spicetify config current_theme default
+spicetify apply
+curl -fsSL https://raw.githubusercontent.com/NYRI4/Comfy-spicetify/main/install.sh | sh
+cd "$(dirname "$(spicetify -c)")/Themes/Comfy"\
+mkdir -p ../../Extensions\
+cp comfy.js ../../Extensions/.\
+spicetify config extensions comfy.js\
+spicetify apply
+cd
+clr
+cd _dev
+cd C:C++/C
+ls
+cd stack
+ls
+nvim .
+ls
+cd _folders
+ls
+cd CS-School
+ls
+cd system_programming
+ls
+mkdir lab02
+cd lab02
+mkdir src
+cd src
+touch stack.h
+touch stack.c
+ls
+nvim .
+pwd
+nvim .
+cd _folders/CS-School/system_programming/lab02/src
+ls
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+cd _folders/CS-School/system_programming
+cd lab02
+cd src
+nvim .
+clangd --version
+clang-format --version
+clang-format stack.c
+gcc stack.c -o out
+cd src
+gcc stack.c -o out
+gcc stack.c
+cd src
+ls
+gcc stack.c
+cd _folders/CS-School/system_programming/lab02/src
+ls
+gcc stack.c
+cd src
+gcc stack.c
+brew outdated
+brew upgrade
+gcc stack.c
+gcc stack.c -v
+gcc stack.c
+g++ stack.c
+clang  stack.c
+gcc stack.c
+gcc -v
+brew install gcc
+brew cleanup gcc
+gcc stack.c -v
+gcc stack.c -o out
+nvim .zshrc
+cd
+nvim .zshrc
+cd _folders/CS-School/system_programming/lab02/src
+gcc stack.c -o out
+gcc stack.c stack.h -o out
+gcc stack.c stack.h 
+gcc stack.c -o out
+nvim .zshrc
+cd
+nvim .zshrc
+cd _folders/CS-School/system_programming/lab02/src
+gcc stack.c -o out
+g++ stack.c -o out
+gcc stack.c -o out
+cd
+sudo rm -rf /Library/Developer/CommandLineTools
+cd _folders/CS-School/system_programming/lab02/src
+gcc stack.c -o out
+cd
+xcode-select --install
+softwareupdate --list
+softwareupdate --all --install --force
+cd _folders/CS-School/system_programming/lab02/src
+gcc stack.c -o out
+cd ../..
+cd lab01
+cd src
+ls
+gcc main  -o out
+gcc main.c  -o out
+./out
+gcc main  -o out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+gcc stack.c -o out
+./out
+brew install --with-toolchain llvm
+brew install llvm
+clr
+ls
+cd _folders/CS-School/system_programming/lab02/src
+nvim .
+cd _folders/CS-School/system_programming/lab02/src
+gcc stack.c -o out
+./out
+nvim .config/alacritty
+nvim .config/lvim
+cd _folders/CS-School/system_programming/lab02/src
+nvim .
+nvim .config/lvim
+cd
+nvim .config/lvim
+nvim .config/alacritty
+cd _folders/CS-School/system_programming/lab02/src
+nvim .
+cd 
+nvim .config/lvim
+cd _folders/CS-School/system_programming/lab02/src
+nvim .
+vim -v
+vim .vimrc
+vim 
+vim .vimrc
+vim 
+vim .vimrc
+clr
+nvim
+glow
+ls
+cd
+lr
+clr
+cd Desktop
+touch in.js
+rm in.js
+touch in.json
+nvim in.json
+cd
+brew uninstall --cask vscodium
+brew install --cask vscodium
+cd _dev
+cd arabianchain
+ls
+cd www
+codium .
+cd html
+codium .
+git status
+git add roadmap.html
+git commit -m ".."
+git push origin main
+git status
+git add roadmap.html
+git commit -m ".."
+git push origin main
+cd _dev
+ls
+cd arabianchain
+ls
+cd www
+;s
+ls
+git init
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/www.git\
+git push -u origin main
+git add html3
+git push origin main
+cd ..
+cd
+brew install git-lfs
+git lfs install
+cd _dev
+ls
+cd arabianchain
+ls
+cd www
+echo "# www" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main
+git remote add origin https://github.com/Yazeed1s/www.git
+git status
+git add html3/
+git commit -m ".."
+git status
+cd html
+ls
+git status
+cd ..
+cd html
+git lfs install
+ls
+ls -a
+ls -l
+ls -la
+git lfs install
+git status
+git add .
+git commit -m ".."
+git add .gitattributes
+git status
+git add .gitignore
+git add .
+git commit -m ".."
+cd _dev
+cd arabianchain
+ls
+cd www
+ls
+ls -la
+git lfs track "*.zip"
+cd html
+ls
+git lfs track "*.mp4"
+git lfs track "*.zip"
+git lfs track "images"
+git lfs track "*.png"
+git lfs track "*.aep"
+git lfs track "*.jpg"
+git lfs track "*.mov"
+git lfs track "*.gif"
+git lfs track "*.svg"
+git status
+git add .
+git status
+git add ../.gitattributes
+git add ../.gitignore
+git status
+git commit -m ".."
+git push origin main
+cd ..
+git status
+git push origin main
+cd
+cd Desktop
+git clone https://github.com/Yazeed1s/www.git
+git lfs clone https://github.com/Yazeed1s/www.git
+clr
+git clone https://github.com/Yazeed1s/www.git
+cd ../Documents
+ls
+cd GitHub
+ls
+cd www
+ls
+git lfs "html"
+git lfs install
+git lfs track "html"
+git lfs track "html3"
+ls
+cd Desktop
+git clone https://github.com/Yazeed1s/www.git
+cd
+ssh root@138.197.118.135
+ls
+ssh root@138.197.118.135
+ls
+cd _dev
+ka
+la
+cd arabianchain
+ls
+cd ww
+cd www
+ls
+scp www root@138.197.118.135:/home/
+scp ~/_dev/arabianchain/www root@138.197.118.135:/home/
+cd ..
+zip www
+ls
+cd ..
+ls
+scp ~/_dev/www.zip root@138.197.118.135:/home/
+ssh root@138.197.118.135
+clr
+cd
+ssh root@138.197.118.135
+clr
+ssh yaz@10.0.0.188
+clr
+nvim .config/spicetify
+nvim .config/alacritty
+ssh yaz@10.0.0.188
+ls
+clr
+ssh alharthi@139.177.205.55
+clr
+cd ..
+ls
+cd ..
+ls
+cd etc
+ls
+bat passwd
+ls
+cd ../var
+ls
+cd log
+ls
+cd ../logs
+ls
+cd
+clr
+ssh alharthi@139.177.205.55
+clr
+nvim
+cd _dev/C:C++/C/struct_c/
+gcc main.c
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+cd _dev/arabianchain
+ls
+cd www
+codium .
+cd
+clr
+cd _folders
+cd CS-School
+cd system_programming
+ls
+mkdir lab03
+cd lab03
+mkdir src
+cd src
+ls
+touch lab3.c
+clr
+cd src
+ls
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+cd src
+gcc lab3.c -o out
+cd src
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+cd src
+ks
+ls
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+cd src 
+gcc lab3.c -o out
+./out
+ccd src
+cd src
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+cd src
+gcc lab3.c -o out
+./out
+cd src
+gcc lab3.c -o out
+./out
+cd src
+gcc lab3.c -o out
+./out
+cd src
+gcc lab3.c -o out
+./out
+cd src
+gcc lab3.c -o out
+./out
+cd src
+gcc lab3.c -o out
+./out
+cd src
+gcc lab3.c -o out
+./out
+cd src
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+cd src
+gcc lab3.c -o out
+./out
+cd src
+gcc lab3.c -o out
+./out
+cd src
+gcc lab3.c -o out
+./out
+gcc lab3.c -o out
+./out
+ssh alharthi@139.177.205.55
+clr
+cd _folders/CS-School/system_programming
+mkdir lab04 && cd lab04
+mkdir src && cd src
+touch stack.h
+touch lab04.c
+ls
+codium .
+gcc lab04.c -o out
+gcc lab04.c Menu.c stack.c -o out
+gcc stack.c -o out
+./out
+brew install alfred
+brew uninstall alfred
+brew outdated
+brew uninstall starship
+brew upgrade
+brew update
+brew upgrade
+clr
+ls
+cd _folders
+ls
+cd ..
+ls
+cd ..
+ls
+cd etc
+ls
+bat passwd
+grep nobudy passwd
+grep no passwd
+bat nslookup
+cd
+man nslookup
+nslookup 134.16.17.5
+clr
+ks
+ls
+echo "# stack_c" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/stack_c.git\
+git push -u origin main
+git status
+git add .
+git push origin main
+git commit -m ".."
+git push origin main
+cd src
+echo "# queue_c" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/queue_c.git\
+git push -u origin main
+git add .
+git commit -m ".."
+git push origin main
+ls
+ls -a
+ls -la
+cd _folders
+ls
+cd CS-School
+ls
+cd system_programming
+ls
+mkdir hm1 
+cd hm1
+mkdir src && cd src
+ls
+touch main.c
+cd ../../lab03
+ls
+cd src
+ls
+cp _clang-format ~/_folders/CS-School/system_programming/hm1/src
+cd ~/_folders/CS-School/system_programming/lab03/src
+cd ~/_folders/CS-School/system_programming/hm1/src
+ls
+codium .
+ls
+gcc main.c -o out
+./ out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+clr
+cd
+clr
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+ls
+clr
+gcc main.c -o out
+./out
+ssh alharthi@139.177.205.55
+clr
+ssh alharthi@139.177.205.55
+man sort
+man uniq
+man awk
+man head
+clr
+ssh alharthi@139.177.205.55
+hexdump -C
+cd Desktop
+hexdump -C image.png
+bindump -C image.png
+open image.png
+cat image.png
+ls
+bat image.png
+open image.png
+ls
+ssh alharthi@139.177.205.55
+clr
+hexdump -C image.png
+clr
+cd _dev/C:C++/C
+ls
+mdkir ptr
+mkdir ptr
+cd ptr
+ls
+mkdir erc && cd src
+rm -rf erc
+mkdir src && cd src
+touch main.c
+cudiom .
+codium .
+cd Desktop
+hexdump -C vanilla-sky.jpg
+cat vanilla-sky.jpg
+cd Desktop
+cat vanilla-sky.jpg
+hexdump vanilla-sky.jpg
+man hexdump
+hexdump -e vanilla-sky.jpg
+hexdump -E vanilla-sky.jpg
+hd -C vanilla-sky.jpg
+hexdump -C vanilla-sky.jpg
+cd
+clr
+ssh alharthi@139.177.205.55
+cd _folders/CS-School/system_programming
+ls
+cd lab04 
+cd src
+cosium .
+codium .
+gcc Menu.c -o out
+gcc Menu.c stack.c -o out
+gcc Menu.c -o out
+gcc Menu.c stack.c -o out
+gcc lab04.c stack.c -o out
+gcc lab4.c stack.c -o out
+gcc stack.c -o out
+gcc lab4.c -o out
+gcc stack.c -o out
+gcc lab4.c -o out
+gcc lab4.c stack.c -o out
+gcc stack.c -o out
+gcc stack.c
+gcc -c stack.c
+gcc -c lab4.c
+gcc lab4.o stack.o -o out
+gcc stack.c -o out
+gcc stack.c 
+gcc -c stack.c 
+gcc -c lab4.c 
+gcc lab4.o stack.o -o out
+ls
+rm lab4.o 
+rm stack.o 
+ls
+gcc -c lab4.c
+gcc -c stack.c
+ls
+gcc -o stack.o lab4.o -o out  
+cat lab4.c
+cat stack.h
+gcc -o stack.o -o lab4.o -o out  
+ls
+clr
+cd ../..
+ls
+cd lab04_sys
+cd src
+ls
+cat stack.c -o out
+gcc stack.c -o out
+clr
+codium .
+ls
+gcc stack.c lab04.c
+gcc stack.c 
+gcc stack.c -o out
+./out
+gcc lab04.c 
+./out
+gcc lab04.c -o 
+gcc lab04.c -o out
+./out
+gcc lab04.c stack.c -o out
+gcc -g stack.c -o out
+gcc -g stack.c 
+ls
+gcc stack.c 
+ls
+gcc lab04.c
+gcc lab04.c -o out
+./out
+gcc lab04.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c
+gcc stack.c
+gcc main.c stack.c -o out
+gcc main.c stack.c 
+gcc main.c 
+gcc stack.c main.c
+gcc stack.c 
+gcc -o stack.c main.c 
+gcc -C stack.c main.c 
+gcc -c stack.c main.c 
+gcc -c stack.o main.o 
+gcc stack.o main.o -o out
+./stack.o
+gcc stack.o -o out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+cd _folders/CS-School/system_programming/lab04/src
+codium .
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+clr
+cd
+clr
+gcc -c main.c 
+gcc -c stack.c 
+gcc stack.o main.o -o out
+gcc main.o -o out
+gcc -c main.c 
+gcc -c stack.c 
+gcc stack.o main.o -o out
+gcc -c stack.o main.o -o out
+gcc main.c -o out
+./out
+/opt/homebrew/bin/gcc-11
+clr
+rustup update stable
+nvim _folders/CS-School/system_programming/lab04/src
+nvim .config/alacritty
+brew outdated
+brew upgrade
+brew update
+clr
+brew -help
+brew --help
+brew list
+clr
+geoiplookup 93.86.190.21
+brew install geoiplookup
+brew install geoip
+geoiplookup 93.86.190.21
+geoiplookup 8.8.4.4
+geoiplookup 93.86.190.21
+wget -qO- https://repos-droplet.digitalocean.com/install.sh | sudo bash
+4404
+wget -qO- https://repos-droplet.digitalocean.com/install.sh | sudo bash
+ssh root@159.65.37.11
+ssh root@159.65.32.1
+wget -qO- https://repos-droplet.digitalocean.com/install.sh | sudo bash
+ssh root@159.65.37.11
+clr
+ssh root@159.65.37.11
+clr
+cd _dev
+ls
+cd C:C++
+ls
+cd c
+ls
+cd ptr
+ls
+cd src 
+codium .
+cd _dev
+cd C:C++
+cd c
+cd ptr
+cd src 
+nvim .
+nvim .config/alacritty
+cd _dev/C:C++/C/ptr/src
+ls
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+neofecth
+neofetch
+cd dekstop
+cd Desktop
+ls
+cat vanilla-sky.jpg
+cd
+clr
+ssh alarthi@139.177.205.55
+ssh alharthi@139.177.205.55
+ls -la
+ssh alharthi@139.177.205.55
+cd _folders/CS-School/system_programming/hm1
+ls
+cd src
+docium .
+codium .
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+cd Desktop
+codium hm1.c
+cd Desktop
+gcc main.c -o out
+gcc hm1.c -o out
+gcc main.c -o out
+gcc hm1.c -o out
+cd Desktop
+gcc hm1.c -o out
+cd Desktop
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+gcc hm1.c -o out
+./out
+cd Desktop
+codium .
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc main.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc hm1.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc hm1.c -o in
+./in
+gcc hm1.c -o in
+./in
+gcc hm1.c -o in
+./in
+gcc hm1.c -o in
+./in
+gcc hm1.c -o in
+./in
+gcc hm1.c -o in
+./in
+gcc hm1.c -o in
+./in
+gcc hm1.c -o in
+./in
+gcc hm1.c -o in
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+cd
+clr
+ssh alharthi@139.177.205.55
+cd desktop
+ls
+touch main.c
+nvim .
+cd desktop
+gcc main.c
+gcc main.c -o out
+./out
+./out -R
+-R
+./out -R
+cd Desktop
+git clone https://github.com/ronj1901/Unix-Shell.git
+cd Unix-Shell
+make
+ls
+make 
+gcc main-parse.c parse.c -o out
+nvim .
+cd ..
+rm -rf Unix-Shell
+ls
+git clone https://github.com/gimwonbae/myshell.git
+cd myshell
+make
+./smsh
+make clean
+ls
+cd 
+cd _dev
+ls
+cd C:C++
+cd c
+ls
+mkdir sys_ideas
+cd sys_ideas
+git clone https://github.com/lanPN85/xfiles.git
+mv ~/Desktop/myshell ~/_dev/C:C++/C/sys_ideas/
+ls
+cd xfiles
+make
+sudo ./scripts/install_bats.sh\
+make test
+make
+cd ..
+git clone https://github.com/f0lg0/CHIP-8.git
+cd CHIP-8
+make
+brew install sdl2
+brew install sdl
+make
+cd /usr/local/Cellar/
+ls
+cd
+git clone https://github.com/libsdl-org/SDL\
+cd SDL
+mkdir build
+cd build
+../configure
+make
+sudo make install
+cd
+cd /usr/local/Cellar/
+ls
+cd boost
+ls
+cd ../node
+ls
+cd 17.8.0
+ls
+cd include
+ls
+cd node
+ls
+cd ..
+ls
+cd boost
+ls
+cd 1.78.0_1
+ls
+cd include
+ls
+cd boost
+ls
+cd
+cd /usr/
+ls
+cd local
+ls
+cd Cellar
+ls
+cd ..
+cd Homebrew
+ls
+cd ..
+ls
+cd include
+ls
+cd SDL2
+ls
+cd ..
+nvim .
+make
+./test_emu.sh
+./bin/emulator.out roms/GUESS.ch8
+cd
+clr
+cd _dev
+ls
+cd C:C++
+cd c
+ls
+mkdir argv && cd argv
+touch main.c
+cd argv
+nvim .
+cd _dev/C:C++/C/argv
+gcc main.c -o out
+./out
+./out yazeed is here
+gcc main.c -o out
+./out yazeed is here
+gcc main.c -o out
+./out yazeed is here
+./out 1 2 3 4 5 6 7 55 544 4 4 4 4
+nvim .config/alacritty
+gcc main.c -o out
+./out + 1 2
+gcc main.c -o out
+./out + 1 2
+gcc main.c -o out
+./out + 1 2
+./out * 6 7 7
+./out * 6 7
+gcc main.c -o out
+./out * 6 7
+gcc main.c -o out
+./out + 6 7
+./out - 6 7
+cd _dev/C:C++/C/argv 
+codium .
+brew install llvm
+echo 'export PATH="/opt/homebrew/opt/llvm/bin:$PATH"' >> ~/.zshrc
+which clanged
+cd
+which clanged
+which clangd
+brew install cppcheck
+which cppcheck
+nvim .zshrc
+which clang
+which clangd
+cd /usr/bin
+ls
+vim cpu_profiler.d
+find cppcheck
+find c99
+source .zshrc
+gcc main.c -o out
+./out * 6 7
+gcc main.c -o out
+./out * 6 7
+gcc main.c -o out
+./out * 6 7
+./out x 6 7
+./out + 6 7
+gcc main.c -o out
+./out x 6 7
+gcc main.c -o out
+./out x 6 7
+gcc main.c -o out
+./out x 6 7 k l
+gcc main.c -o out
+./out x 6 7 k l
+gcc main.c -o out
+./out x 6 7 k l
+gcc main.c -o out
+./out x 6 7 
+./out x 6 7
+./out x 6 7 
+gcc main.c -o out
+./out x 6 7
+./out x 6 7 9
+gcc main.c -o out
+./out x 6 7 9
+./out x 6 7 9 9 8 9
+gcc main.c -o out
+./out x 6 7 9 9 8 9
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+ssh yaz@10.0.0.188
+cd _dev
+ls
+cd C:C++
+ls
+cd c
+ls
+scp ~/_dev/C:C++/c yaz@10.0.0.188:/home/_dev/c_dev
+scp -r ~/_dev/C:C++/c yaz@10.0.0.188:/home/_dev/c_dev
+scp -r ~/_dev/C:C++/c yaz@10.0.0.188:~/_dev/c_dev
+cd 
+cd _folders
+ls
+cd CS-School
+ls
+cd system_programming
+ls
+scp -r ~/_folders/CS-School/system_programming yaz@10.0.0.188:~/_dev/c_dev/
+cd
+cd _folders/CS-School/system_programming/lab05/src
+ls
+rm -rf *.o
+ls
+rm -rf out
+rm -rf README.md
+ls
+codium .
+ls -la
+rm -rf .git
+ls
+cd ..
+ls -la
+rm -rf .idea
+ls
+cd src
+ls
+codium .
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+rm -rf out
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+rm -rf out
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+rm -rf out
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+codium .
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+./out
+rm -rf *.o
+gcc -c stack.c main.c
+gcc  stack.o main.o -o out
+rm -rf *.o
+gcc -c stack.c main.c && gcc stack.o main.o -o out && ./out
+rm -rf *.o && gcc -c stack.c main.c && gcc stack.o main.o -o out && ./out
+cd _folders/CS-School/system_programming/lab05/src
+rm -rf *.o && gcc -c stack.c main.c && gcc stack.o main.o -o out && ./out
+cd _folders/CS-School/system_programming/lab05/src
+ls
+rm -rf *.o && gcc -c stack.c main.c && gcc stack.o main.o -o out && ./out
+clr
+rm -rf *.o && gcc -c stack.c main.c && gcc stack.o main.o -o out && ./out
+cd ~/_folders/CS-School/system_programming/lab05/src
+rm -rf *.o && gcc -c stack.c main.c && gcc stack.o main.o -o out && ./out
+clr
+rm -rf *.o && gcc -c stack.c main.c && gcc stack.o main.o -o out && ./out
+clr
+rm -rf *.o && gcc -c stack.c main.c && gcc stack.o main.o -o out && ./out
+scp -r ~/_folders/CS-School/system_programming/lab05 yaz@10.0.0.188:~/_dev/c_dev/system_programming
+clr
+brew outdated
+brew update
+brew upgrade
+neofetch
+cd _folders/CS-School/system_programming/lab05/src
+nvim .
+cd .local/share/lunarvim/site/pack/packer/start/minimal.nvim
+nvim .
+cd _dev
+ls
+cd go_dev
+ls
+cd atcc
+nvim .
+cd
+cd _dev/C:C++/C/struct_c
+codium .
+gcc -g -o out main.c 
+lldb ./out
+zsh run.sh
+./run.sh
+chmod +x run.sh
+./run.sh
+./run
+./run.sh
+zsh run.sh
+bash run.sh
+ssh alharthi@139.177.205.55
+ls
+ls -la
+brew outdated
+clang -g -o main.S -S main.c
+rm -rf main.S
+gcc -S main.c
+clang -g -o main.S -S main.c
+gcc -S main.c
+gcc -g -S main.c
+gcc -g main.c
+rm -rf main.S
+rm -rf a.out
+rm -rf out
+rm -rf a.out.dSYM
+brew install clang-format
+which clang-format
+chmod +x /opt/homebrew/opt/llvm/bin/clang-format
+cd _folders
+ls
+cd cs
+cd CS-School
+cd system_programming
+cd lab05
+ls
+cd src
+ls
+bat _clang-format
+neofetch
+ssh alharthi@139.177.205.55
+brew install mitmproxy
+mitmproxy wopr.celestialelite.com
+mitmproxy --mode wopr.celestialelite.com
+mitmproxy --mode wopr.celestialelite.com -p
+mitmproxy --mode wopr.celestialelite.com -p 80
+monitorhttp -ieth0 --only-get --just-urls
+tcpflow -p -c -i eth0 port 80 | grep -oE '(GET|POST|HEAD) .* HTTP/1.[01]|Host: .*'
+cd _folders/CS-School/system_programming/lab05
+cd src
+ls
+codium .
+zsh run.sh
+rm -rf *.o && rm -rf out
+cd Desktop/lab_ray
+codium .
+cd
+cd _folders/CS-School/system_programming
+ls
+cd lab05
+ls
+cd src
+ls
+cat stack.c
+gcc -c menu.c stack.c lab5.c
+gcc  menu.o stack.o lab5.o -o out
+./out
+rm -rf *.o && rm -rf out
+ssh alharthi@139.177.205.55
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o out
+./out
+gcc map.c -o filetrans
+./filetrans srcfile destfile md5 
+gcc map.c -o filetrans
+./filetrans srcfile destfile md5 
+gcc map.c -o filetrans
+./filetrans srcfile destfile md5 
+gcc map.c -o filetrans
+./filetrans srcfile destfile md5 
+cd _folders/CS-School/system_programming/lab06/src
+ls
+codium .
+gcc main.c - out
+gcc main.c -o out
+./out
+gcc main.c -o out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+gcc LinkedList.c -o out
+./out
+rm -rf out
+ls
+gcc  LinkedList.c -o out
+./out
+gcc  LinkedList.c -o out
+./out
+gcc  LinkedList.c -o out
+./out
+gcc  LinkedList.c -o out
+./out
+rm -rf out
+gcc  LinkedList.c -o out
+./out
+gcc  Lab06.c -o out
+gcc  Lab06.c LinkedList.c -o out
+./out
+gcc  Lab06.c LinkedList.c -o out
+./out
+cd _dev/c_dev
+cd linkedList_c/
+ls
+echo "# linkedList_c" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/linkedList_c.git\
+git push -u origin main
+git status
+git add src/_clang-format
+git commit -m "add _clang-format"
+git status
+codium .
+git status
+git add src/linkedList.h 
+git commit -m "for prototypes""\
+;git commit -m "for prototypes"\
+;git add src/linkedList.c 
+git commit -m "implementations"\
+;git add src/linkedList.h
+git commit -m "defines""\
+;git commit -m "defines"\
+;git add src/linkedList.c
+git commit -m "structs"\
+;git add src/linkedList.c
+git commit -m "add implementations"\
+;git add src/linkedList.c
+git commit -m ".."\
+;git add src/linkedList.c
+git commit -m ".."\
+;git status
+git push origin main
+git status
+git add src/linkedList.c 
+git commit -m "add listSize()""\
+;git commit -m "add listSize()"\
+;git add src/linkedList.h 
+git commit -m "add listSize()"\
+;cd src
+ls
+gcc linkedList.c -o out
+./out
+gcc linkedList.c -o out
+cd src
+gcc linkedList.c -o out
+./out
+cd src
+gcc linkedList.c -o out
+cd src
+./out
+cd _dev/c_dev
+ls
+mkdir tree_c
+cd tree_c
+mkdir src
+cp ~/_dev/c_dev/_clang-format ~/_dev/c_dev/tree_c/src/
+cd src
+ls
+touch main.c
+nvim .
+codium .
+nvim .
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+neofetch
+brew outdated
+brew upgrade
+brew update
+nvim
+ps
+ss
+ipstata
+ipstat
+ps
+ufw status
+cd easy
+cd src/Exercises/easy 
+ls
+javac run DeleteLastChar.java
+javac DeleteLastChar.java
+java DeleteLastChar
+cd src/Exercises/easy 
+javac Date_format.java
+brew outdated
+ls
+cd ..
+;d
+ld
+ls
+cd ..
+ls
+cd ..
+cd etc
+ls
+cat passwd
+ls
+cat syslog.conf
+cd ..
+ls
+cd var
+ls
+cd log
+ls
+cat system.log
+ls
+cd ..
+ls
+cd ..
+ls
+cd v
+cd home
+ls
+sudo ls
+cd ..
+ls
+cd usr
+ls
+cd ..
+cd cores
+ls
+cd //
+cd System
+ls
+cd
+clr
+neofetch
+brew outdated
+nvim
+cd .local
+cd share/lunarvim/site/pack/packer/start/minimal.nvim
+cp ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim ~/_folders/
+cp -r ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim ~/_folders/
+cd
+cp .config/lvim/config.lua ~/_folders
+rm -rf ~/.config/nvim\
+rm -rf ~/.local/share/nvim\
+rm -rf ~/.cache/nvim
+rm -rf ~/.config/lvim\
+rm -rf ~/.local/share/lvim\
+rm -rf ~/.cache/lvim
+lvim
+nvim
+nvim .
+nvim
+rm -rf ~/.config/lvim\
+rm -rf ~/.local/share/lvim\
+rm -rf ~/.cache/lvim
+rm -rf ~/.config/nvim\
+rm -rf ~/.local/share/nvim\
+rm -rf ~/.cache/nvim
+nvim
+lvim
+vim .zsh
+vim .zshrc
+source .zshrc
+nvim
+nvim -v
+nvim :checkhealth
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/uninstall.sh)
+nvim
+lvim
+nvim
+brew outdated
+export LV_BRANCH="rolling"; bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/rolling/utils/installer/install.sh)
+lvim
+cd .config/lvim
+ls
+rm -rf config.lua
+mv ~/_folders/config.lua ~/.config/lvim
+ls
+cp -r  ~/_folders/minimal.nvim  ~/.local/share/lunarvim/site/pack/packer/start/
+cp -r  ~/_fo~/.local/share/lunarvim/site/pack/packer/start/
+clr
+cd
+lvim
+vim .zshrc
+source .zshrc
+ls
+clr
+nvim
+nvim ~/_folders/minimal.nvim
+nvim
+nvim .
+nvim 
+lvim
+ssh alharthi@139.177.205.55
+scp -r alharthi@139.177.205.55:~/labs/py2 ~/_folders/CS-School/CSCI3042-Computer\ Security
+cd
+ls
+cd ~/_folders/CS-School/CSCI3042-Computer\ Security
+ls
+cd py2
+codium .
+brew install python3
+python3 --version
+brew reinstall python@3.10
+which python3
+/usr/bin/python3 "/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer Security/py2/first-octet.py"
+/usr/bin/python3 -m pip install -U yapf
+/usr/bin/python3 "/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer Security/py2/first-octet.py"
+/usr/bin/python3
+/usr/bin/python3 "/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer Security/py2/first-octet.py"
+ssh alharthi@139.177.205.55
+clr
+brew outdated
+brew update
+brew upgrade
+cd _folders/CS-School/system_programming
+ls
+mkdir lab07 && cd lab07
+mkdir src
+cp ~/_folders/CS-School/system_programming/lab05/src/_clang-format ~/_folders/CS-School/system_programming/lab07/src/
+cd src
+ls
+codium .
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+ls
+rm -rf out
+gcc Lab07.c LinkedList.c -o out
+./out
+rm -rf out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+gcc Lab07.c LinkedList.c -o out
+./out
+neofetch
+ssh alharthi@139.177.205.55
+brew outdated
+brew install sampler
+ls
+sampler
+brew uninstall sampler
+brew list
+macchina
+neofetch
+brew uninstall neofetch 
+neofetch
+macchina
+ncurses
+brew list
+slides
+gh
+fd
+grep
+ripgrep "yaz"
+rg "yazeed /_folder/\
+\
+;rg "yazeed" /_folders/\
+\
+;rg "yazeed" ~/_folders/\
+\
+;grep "yazeed" ~/_folders/\
+\
+;rg "int" /Users/yazeed_1/_dev/
+grep "int" /Users/yazeed_1/_dev/
+grep "int" /Users/yazeed_1/_dev/*
+grep "int" /Users/yazeed_1/_dev/*/*
+brew list
+fd _dev
+brew list
+broot
+gnutls
+icu4c
+brotli
+brotli -f
+rtmpdump
+clr
+cd _dev
+ls
+cd c_dev
+ls
+cd sys_ideas
+ls
+git clone https://github.com/13-CF/afetch.git
+cd afetch
+ls
+cat Makefile
+install
+make install
+afetch
+cd src
+ls
+gcc -c fetch.c
+gcc -c fetch.c -o out
+./out
+sudo ./out
+ls
+rm out
+rm fetch.o
+ls
+onefetch
+brew install onefetch
+brew list
+cd ..
+ls
+cd ..
+ls
+cd CHIP-8
+onefetch
+cd ..
+ls
+cd xfiles
+onefetch
+cd ..
+ls
+cd myshell
+onefetch
+cd ../..
+cd ..
+ls
+cd go_dev
+ls
+cd atcc
+ls
+onefetch
+cd
+cd _dev/c_dev
+ls
+mkdir linux_p
+cd linux_p
+ls
+mkdir file_op
+cd file_op
+ls
+touch main.c
+codium .
+ls
+gcc main.c -o out
+./out
+ls
+gcc main.c -o out
+ls
+./out
+ls
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+ls
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+ls
+rm oo
+ls
+rm -rf oo
+ls
+gcc main.c -o out
+./out
+ls
+rm -rf oo
+gcc main.c -o out
+./out
+ls
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+ls
+cat fputs_test.txt
+cd _dev/c_dev/linkedList_c
+nvim .
+cd .local/share/lunarvim/site/pack/packer
+ls
+cd start
+cd minimal.nvim
+codium .
+nvim .
+cd
+nvim .config/lvim/config.lua
+cd ~/_dev/c_dev/linkedList_c/src
+nvim
+nvim .config/lvim/config.lua
+cd
+nvim
+nvim _dev/go_dev/load_balancer/src/main.go
+nvim
+nvim +LunarUpdate
+nvim 
+/usr/bin/python3 "/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer Security/py2/first-octet.py"
+ls
+cd _folders/CS-School/CSCI3042-Computer\ Security/py2
+ls
+scp ~/_folders/CS-School/CSCI3042-Computer Security/py2/first-octet.py ssh alharthi@139.177.205.55:/home/alharthi/
+scp "~/_folders/CS-School/CSCI3042-Computer Security/py2/first-octet.py" ssh alharthi@139.177.205.55:/home/alharthi/
+scp ~/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py ssh alharthi@139.177.205.55:/home/alharthi/
+ssh alharthi@139.177.205.55
+codium .
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+scp ~/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py ssh alharthi@139.177.205.55:/home/alharthi/
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+brew outdated
+brew update
+brew upgrade
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+ssh alharthi@139.177.205.55
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+cd _dev
+cd rust_dev
+ls
+cargo new sys_info
+ls
+cd sys_info
+codium .
+chmod +x /Users/yazeed_1/Library/Application Support/VSCodium/User/globalStorage/matklad.rust-analyzer/rust-analyzer-aarch64-apple-darwin
+cd
+cd /Users/yazeed_1/Library/Application Support/VSCodium/User/globalStorage/
+cd "/Users/yazeed_1/Library/Application Support/VSCodium/User/globalStorage/"
+ls
+cd matklad.rust-analyzer
+ls
+chmod +x "~/Library/Application Support/VSCodium/User/globalStorage/matklad.rust-analyzer/rust-analyzer-aarch64-apple-darwin"
+cd
+chmod +x "/Users/yazeed_1/Library/Application Support/VSCodium/User/globalStorage/matklad.rust-analyzer/rust-analyzer-aarch64-apple-darwin"
+cd _dev/rust_dev/sys_info
+codium .
+cd _dev
+cd c_dev
+ls
+cd argv
+codium .
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+ls
+brew install lapce
+nvim .config/alacritty
+brew uninstall lapce
+nvim 
+touch .vimrc
+vim 
+vim _dev/c_dev/linkedList_c
+nvim +PackerSync
+nvim _dev/c_dev/linkedList_c
+ls
+cd src
+ls
+gcc linkedList.c -o out
+./out
+brew tap helix-editor/helix\
+brew install helix
+makeinfo
+brew uninstall gnutls texinfo autoconf
+helix
+hx
+hx _dev/rust_dev/github_acc_cli
+brew outdated
+cd _dev
+ls
+cd c_dev
+ls
+cd argv
+ls
+codium .
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+ls
+rm c.txt
+ls
+gcc main.c -o out
+./out
+ls
+ca myFile.txt
+cat myFile.txt
+ca myFile.txt
+rm c.txt
+rm myFile.txt
+gcc main.c -o out
+./out
+rm myFile.txt
+gcc main.c -o out
+./out
+ls
+cat myFile.txt
+./out
+cat myFile.txt
+rm myFile.txt
+gcc main.c -o out
+./out
+cat myFile.txt
+rm myFile.txt
+gcc main.c -o out
+./out
+cat myFile.txt
+rm myFile.txt && gcc main.c -o out && ./out && cat myFile.txt
+cat myFile.txt
+rm myFile.txt && gcc main.c -o out && ./out && cat myFile.txt
+rm myFile.txt && gcc main.c -o out && ./out 
+gcc main.c -o out && ./out 
+rm myFile.txt && gcc main.c -o out && ./out && cat myFile.txt
+gcc main.c -o out && ./out && cat myFile.txt
+rm myFile.txt && gcc main.c -o out && ./out && cat myFile.txt
+gcc main.c -o out && ./out 
+clang main.c -o out
+./out
+clang main.c -o out
+./out
+gcc main.c -o out && ./out 
+rm myFile.txt && gcc main.c -o out && ./out && cat myFile.txt
+gcc main.c -o out && ./out && cat myFile.txt
+rm myFile.txt && gcc main.c -o out && ./out && cat myFile.txt
+gcc main.c -o out && ./out 
+brew outdated
+brew update && brew upgrade
+gcc main.c -o out && ./out 
+ls
+neofetch
+rg
+nvim
+brew list
+onefetch
+macchina
+gcc main.c -o out && ./out 
+cd _folders/CS-School/system_programming/lec12
+touch main.c
+touch thisFile.txt
+codium .
+gcc main.c -o out && ./out 
+nvim
+gcc main.c -o out && ./out 
+brew outdated
+ssh alharthi@139.177.205.55
+cd _folders/CS-School/
+ls
+cd CSCI3042-Computer_Security
+ls
+cd py2
+ls
+codium .
+source /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/activate
+/Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/venv/bin/python /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py2/first-octet.py
+cd
+clr
+ssh alharthi@139.177.205.55
+cd _dev/c_dev/
+ls
+mkdir c_process
+cd c_process
+ls
+touch main.c
+codium .
+neofetch
+onefetch
+brew list
+macchina	
+brew outdated
+ls
+clr
+ls
+cd _dev
+ls
+cd c_dev
+ls
+mkdir tt
+cd tt
+touch main.c
+nvim .
+cd _dev/c_dev/
+ls
+cd tt
+ls
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+ls
+cd ../..
+ls
+cd go_dev
+ls
+cd atcc
+ls
+cd ../..
+ls
+cd go_dev
+ls
+codium .
+ls
+cd _dev
+ls
+cd rust_dev
+ls
+cd tui_rs
+codium .
+cd system_programming
+cd _folders/CS-School/system_programming
+echo "# system_programming" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/system_programming.git\
+git push -u origin main
+git add .
+git push origin main
+git status
+git add .
+git commit -m ".."
+git push origin main
+ssh root@206.81.15.228
+ssh palmex@206.81.15.228
+ssh root@206.81.15.228
+ssh palmex@206.81.15.228
+ssh root@206.81.15.228
+nvim .zshrc
+rustup update
+cd _dev
+ls
+cd c_dev
+ls
+rm -rf tt
+cd sys_ideas
+ls
+mkdir cpu_temp
+cd cpu_temp
+mkdir src
+cd src
+ls
+touch main.c
+touch cp.h
+codium .
+gcc main.c -o out
+brew outdated
+ls
+brew update
+brew outadted
+brew upgrade
+onefetch
+neofethc
+neofetch
+brew tap hitblast/resfetch
+brew install resfetch
+resfetch
+brew list
+macchina
+brew tap hitblast/resfetch
+brew uninstall resfetch
+brew install zellij
+cargo install --locked zellij
+rustup update\
+;cargo install --locked zellij\
+;clr
+bash <(curl -L zellij.dev/launch)
+brew install zellij
+xcode-select --install
+brew install zellij
+zellij
+brew uninstall zellij
+brew install tmux
+tmux
+vim
+nvim
+nvim +PackerSync
+nvim 
+mv ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim ~
+mv ~/.local/share/lunsssssssssssssssssssssssssssssssssdddearvim/site/pack/packer/start/minimal.nvim ~
+ls 
+bash ~/.local/share/lunarvim/lvim/utils/installer/uninstall.sh
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/uninstall.sh)
+neovim
+nvim
+brew outdated
+nvim --version
+vim .zshrc
+source .zshrc
+nvim
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+lvim
+ls
+cd .config
+ls
+ls lvim
+ls
+lvim lvim/config.lua
+lvim 
+cd
+bash ~/.local/share/lunarvim/lvim/utils/installer/uninstall.sh
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/uninstall.sh)
+bash ~/.local/share/lunarvim/lvim/utils/installer/uninstall.sh
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/uninstall.sh)
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+lvim 
+lvim .
+lvim lvim/config.lua
+bash ~/.local/share/lunarvim/lvim/utils/installer/uninstall.sh
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+lvim
+lvim .config/lvim
+cd .config/lvim
+ls
+vim .
+lvim
+cd
+rm -rf  ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim
+mv minimal.nvim ~/.local/share/lunarvim/site/pack/packer/start/
+lvim
+lvim +PackerSync
+lvim .config/lvim
+cd .config/lvim
+lvim
+nvim 
+lvim
+cd
+lvim
+lvim .
+bash ~/.local/share/lunarvim/lvim/utils/installer/uninstall.sh
+lvim
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+lvim .config/lvim
+rm -rf  ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim
+mv minimal.nvim ~/.local/share/lunarvim/site/pack/packer/start/
+mv _folders/minimal.nvim ~/.local/share/lunarvim/site/pack/packer/start/
+lvim .config/lvim
+lvim 
+lvim .
+lvim .config/lvim
+lvim 
+rm /opt/homebrew/Cellar/neovim/0.8.0/lib/nvim/parser/c.so
+sudo rm /opt/homebrew/Cellar/neovim/0.8.0/lib/nvim/parser/c.so
+lvim 
+codium .local/share/lunarvim/site/pack/packer
+codium .local/share/lunarvim/site/pack/packer/start/minimal.nvim
+lvim 
+lvim _dev/java_dev/CoderHub/src
+lvim 
+ssh alharthi@139.177.205.55
+cd _dev/c_dev/sys_ideas/CHIP-8
+ls
+./test_emu.sh
+cd
+scp .config/lvim/config.lua yaz@10.0.0.188: /home/yaz/
+scp .config/lvim/config.lua yaz@10.0.0.188:/home/yaz
+cp .local/share/lunarvim/site/pack/packer/start/minimal.nvim ~
+cp -r .local/share/lunarvim/site/pack/packer/start/minimal.nvim ~
+scp -r minimal.nvim yaz@10.0.0.188:/home/yaz
+scp .config/lvim/config.lua yaz@10.0.0.188:/home/yaz
+scp -r minimal.nvim yaz@10.0.0.188:/home/yaz
+sudo scp -r minimal.nvim yaz@10.0.0.188:/home/yaz
+scp -r minimal.nvim yaz@10.0.0.188:/home/yaz
+cd _folders/CS-School/system_programming
+ls
+mkdir lab09
+cd lab09
+ls
+mkdir src
+cp ~/_folders/CS-School/system_programming/lab04/src/_clang-format ~/_folders/CS-School/system_programming/lab09/src
+cd src
+ls
+codium .
+ls
+gcc MyWriteFile.c -o out
+./out writeText.txt
+gcc MyWriteFile.c -o out
+./out writeText.txt
+cat writeText.txt
+rm writeText.txt
+gcc MyWriteFile.c -o out
+./out  myfile.txt
+ls
+cat myfile.txt
+rm -rf
+./out  myfile.txt
+cat myfile.txt
+gcc MyReadFile.c -o in
+./in infile.txt
+gcc MyReadFile.c -o in
+./in infile.txt
+gcc MyReadFile.c -o in
+./in infile.txt
+gcc MyReadFile.c -o MyReadFile
+rm in out
+gcc MyWriteFile.c -o MyWriteFile
+>> ./MyReadFile infile.txt >> ./MyWriteFile outfile2.txt
+./MyReadFile infile.txt >> ./MyWriteFile outfile2.txt
+./MyReadFile infile.txt 
+gcc MyReadFile.c -o MyReadFile
+./MyReadFile infile.txt 
+./MyReadFile infile.txt >> ./MyWriteFile outfile2.txt
+./MyReadFile infile.txt | ./MyWriteFile outfile2.txt
+gcc MyWriteFile.c -o MyWriteFile
+./MyReadFile infile.txt >> ./MyWriteFile outfile2.txt
+gcc MyCopyFile.c -o MyCopyFile
+./MyCopyFile infile.txt copy.txt
+ft
+gcc MyCopyFile.c -o MyCopyFile
+./MyCopyFile infile.txt copy.txt
+cat copy.txt
+ls
+vim .zshrc
+lvim .zshrc
+source .zshrc
+clr
+nvim
+ls
+cd SDL
+ls
+nvim README-SDL.txt
+nvim . 
+cd
+lvim 
+bre lazygit
+brew lazygit
+brew install lazygit
+brew reinstall lazygit
+clr
+lvim 
+cd _dev/rust_dev/algorithms_rust/morse_code
+lvim .
+cd 
+lvim .config/alacritty/alacritty.yml
+lvim
+lvim .config/lvim
+ls
+cd _foldersl
+cd _folders/
+ls
+cd my_extensions
+ls
+rm -rf minimal.nvim
+cp -r ~/.local/share/lunarvim/site/pack/packer/start/minimal.nvim ~/_folders/my_extensions
+ls
+cd minimal.nvim
+ls
+codium .
+ls
+cd .config
+ls
+mkdir nvim
+cd nvim
+ls
+touch init.lua
+ls
+nvim
+lvim .
+nvim
+nvim .
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+~/.local/share/nvim/site/pack/packer/start/packer.nvim
+lvim .
+nvim +PackerSync
+lvim .
+nvim +PackerSync
+lvim .
+ls
+mkdir lua/
+cd lua
+mkdir user
+cd ..
+ls
+nvim .
+cd lua/user
+touch settings.lua
+nvim .
+cd ../..
+ls
+lvim .
+cd lua/user
+touc plugins.lua
+touch plugins.lua
+ls
+lvim .
+cd ../..
+ls
+bat init.lua
+cd lua/user
+ls
+cat settings.lua head
+nvim +PackerSync
+nvim 
+lvim .
+ls
+touch tree_sitter.lua
+lvim .
+cd ./..
+cd ..
+;s
+ls
+lvim .
+cd lua/user
+touch colorscheme.lua
+nvim .
+lvim .
+nvim .
+nvim +PackerSync
+cd ../..
+lvim .
+nvim .
+cd
+ls
+cd .config/nvim/lua/user
+ls
+lvim .
+cd
+nvim
+clr
+cd _dev/c_dev/
+mkdir chip8_c
+cd chip8_c
+mkdir src
+ls
+cd ..
+ls
+rm -rf chip8_c
+mkdir chip8
+cd chip8
+mkdir src
+cd src
+touch emulator.c
+touch main.c
+touch window.c
+codium .
+cd _dev/c_dev/sys_ideas/CHIP-8/src
+ls
+lvim .
+cd _dev/c_dev/chip8
+ls
+echo "# chip8" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/chip8.git\
+git push -u origin main
+git status
+git add src/emulator.c
+git commit -m "add emulator.c (contains components)"
+git add src/main.c
+git commit -m "add mian.c"
+git add src/window.c
+git commit -m "add window.c (SDL2 here)"
+git push origin main 
+cd _dev/c_dev/sys_ideas/CHIP-8/src
+lvim .
+git status
+git add _clang-format
+git commit -m "add clang-format"
+git status
+git add emulator.c
+git commit -m "add chip8 components + init(),load()"
+git status
+git push origin main 
+git status
+git pull origin main
+git status
+brew list
+macchina
+brew update
+brew outdated
+brew upgrade
+pstree
+cd _dev/c_dev
+cd sys_ideas
+ls
+cd CHIP-8
+lvim .
+ssh alharthi@139.177.205.55
+cd _dev
+ls
+cat hackers-manifesto-2022.txt | grep "ctf{"
+cd
+scp -r alharthi@139.177.205.55:~/labs/py3 _folders/CS-School/CSCI3042-Computer_Security
+clr
+cd _folders/CS-School/CSCI3042-Computer_Security/py3
+codium .
+/usr/bin/python3 -m pip install -U yapf
+/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
+python3 log-processing.py
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
+cat te.txt| head -20
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
+python3 log-processing.py > te.txt
+cat te.txt| head -20
+cd
+ssh alharthi@139.177.205.55
+scp -r /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3 alharthi@139.177.205.55:~/labs/
+brew install insect
+insect
+clr
+ls
+cd src
+gcc h.c -o out
+./out
+gcc h.c -o out
+./out
+gcc h.c -o out
+cd src
+gcc h.c -o out
+./out
+cd src
+gcc h.c -o out
+./out
+gcc h.c -o out
+./out
+gcc h.c -o out
+./out
+gcc h.c -o out
+./out
+ps -al
+ps -a
+ps -aux | grep myFile
+archive myfile.txt &
+brew outdated
+brew update
+brew upgrade
+lvim .zshrc 
+nvim
+rm -rf .config/nvim
+ls
+git clone https://github.com/LunarVim/Neovim-from-scratch.git ~/.config/nvim
+pip install pynvim
+pip3 install pynvim
+/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip
+pip install pynvim
+pip3 install pynvim
+nvim
+nvim .
+lvim .
+nvim .
+lvim .
+rm -rf .config/nvim
+nvim .
+ls
+lvim .zshrc 
+sourc .zhsrc
+source .zhsrc
+sorc .zhsrc
+suorce .zhsrc
+nvim
+cd .local/share/lunarvim/site/pack/packer
+cd start/minimal.nvim
+codium .
+nvim 
+nvim .config/lvim
+brew install git ripgrep
+brew install coreutils fd
+xcode-select --install
+brew tap d12frosted/emacs-plus\
+brew install emacs-plus
+ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
+git clone https://github.com/hlissner/doom-emacs ~/.emacs.d\
+~/.emacs.d/bin/doom install
+cd .config
+ls
+cd
+ls
+ls -la
+cd .doom.d
+ls
+doom
+emacs
+cd
+cd .doom.d
+lvim .
+emacs
+doom
+emacs
+ln -s /usr/local/opt/emacs-plus/Emacs.app /Applications/Emacs.app
+emacs
+cd
+git clone https://github.com/hlissner/doom-emacs ~/.emacs.d\
+~/.emacs.d/bin/doom uninstall
+brew tap d12frosted/emacs-plus\
+brew unistall emacs-plus
+brew tap d12frosted/emacs-plus\
+brew uninstall emacs-plus
+emacs
+brew tap d12frosted/emacs-plus
+brew install emacs-plus --HEAD --with-modern-doom3-icon
+brew tap d12frosted/emacs-plus
+brew install emacs-plus
+cd /opt/homebrew/Cellar/emacs-plus@28/28.2
+ls
+cp -r /opt/homebrew/Cellar/emacs-plus@28/28.2/Emacs.app ~/Applications
+cd
+git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
+cd .emacs.d
+bin/doom install
+cd
+lvim .zshrc 
+doom doctor
+doom
+doom run
+doom _dev
+doom run _dev
+brew install duf
+duf
+cd
+go install github.com/knipferrc/fm@latest
+fm
+cp .local/share/lunarvim/site/pack/packer/start/minimal.nvim ~/
+cp -r .local/share/lunarvim/site/pack/packer/start/minimal.nvim ~/
+ls
+rm -rf minimal.nvim
+ls
+cp -r .local/share/lunarvim/site/pack/packer/start/minimal.nvim ~/
+cd minimal.nvim
+cd ..
+cd
+cd _folders
+ls
+cd oh-lucy.nvim
+ls -la
+rm .DS_Store
+rm .git
+rm -rf .git
+ls la
+ls -la
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/oh-lucy.nvim.git\
+git push -u origin main
+git add .
+git commit -m "add source files"
+git push origin main
+lvim .config/lvim/config.lua
+lvim 
+lvim .config/lvim/config.lua
+lvim .
+lvim 
+lvim .config/lvim/config.lua
+lvim .local/share/lunarvim/site/pack/packer/start/mason.nvim
+lvim _dev/rust_dev/Rust/src/ciphers/sha256.rs
+lvim _dev/rust_dev/Rust/src/ciphers/polybius.rs
+lvim _dev/rust_dev/Rust/src/math/fast_power.rs
+lvim 
+lvim .config/lvim/config.lua
+lvim .config/alacritty/alacritty.yml
+lvim 
+git push origin main
+cd ..
+cd my_extensions/minimal.nvim
+git status
+git add screenshots
+git commit -m "update screenshots"
+git push origin main
+cd 
+lvim .config/lvim/config.lua
+lvim .config/alacritty/alacritty.yml
+lvim 
+lvim .config/lvim/config.lua
+lvim .config/alacritty/alacritty.yml
+lvim 
+lvim .config/alacritty/alacritty.yml
+lvim .config/lvim/config.lua
+cd _folders/oh-lucy.nvim
+git status
+git add .
+git commit "update screenshots"
+git commit -m"update screenshots"
+git push origin main
+lvim .config/lvim/config.lua
+cd
+lvim .config/lvim/config.lua
+lvim 
+cd _folders/oh-lucy.nvim
+ls
+git status
+git add lua/oh-lucy/config.lua
+git commit -m "add missing config key"
+git add lua/oh-lucy-evening/config.lua
+git commit -m "add missing config key"
+git push origin main
+git pull origin main
+git pull
+git pull --ff-only
+git config pull.rebase false
+git config pull.rebase true
+git config pull.ff only
+git pull origin main
+git pull --rebase
+git pull origin main
+git status
+git push origin main
+lvim 
+cd
+lvim .config/lvim/config.lua
+lvim 
+lvim .config/lvim/config.lua
+cd _folders/oh-lucy.nvim
+git pull origin main
+cd _dev/github_co/LunarVim
+git pull origin main
+git branch
+git pull origin roling
+git pull
+git branch rolling
+git checkout roling
+cd
+cd ~/_dev/github_co/
+rm -rf LunarVim
+ls
+git clone https://github.com/LunarVim/LunarVim.git
+cd
+brew install procs
+procs
+brew install xplr\
+;xplr
+rng
+/Users/yazeed_1/go/bin/revive ; exit;
+xplr
+brew uninstall xplr\
+;broot
+brew uninstall broot
+sudo port install joshuto
+brew install joshuto
+lvim 
+lvim .local/share/lunarvim/site/pack/packer/start/oh-lucy.nvim
+LVIM
+lvim .local/share/lunarvim/site/pack/packer/start/oh-lucy.nvim
+lvim _folders/CS-School/CSCI3042-Computer_Security/py3
+mv ~/.config/nvim ~/.config/nvimbackup
+git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+nvim +PackerSync
+nvim
+nvim .zshrc
+v
+nvim .zshrc
+nvim +PackerSync
+v
+nvim .zshrc
+nvim 
+nvim _dev/c_dev/linkedList_c
+nvim .config/nvim
+cp -r ~/.config/nvim/lua/user_example/ ~/.config/nvim/lua/user/
+lvim .config/nvim/lua/user/
+nvim +PackerSync
+nvim 
+nvim .
+rm -rf .config/nvim
+nvim .
+nvim +PackerSync
+cd .cache
+ls
+rm -rf nvim
+cd ../.local
+ls
+cd
+nvim
+lvim .config/nvim
+nvim
+lvim 
+lvim .local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+nvim
+nvim _dev/c_dev/linkedList_c
+cd _folders/oh-lucy.nvim
+git pull origin main
+ls
+cd terminal
+ls
+mkdir alacritty
+mkdir iterm
+mv oh-lucy-evening.yml alacritty
+mv oh-lucy.itermcolors iterm
+ls
+rm alacritty_minimal.yml
+ls
+git add iterm/oh-lucy.itermcolors
+git commit -m "move iterm theme to its folder"
+git add alacritty/oh-lucy-evening.yml
+git commit -m "move alacritty theme to its folder"
+git status
+git add .
+git commit -m "move files"
+git push origin main
+cd _folders/CS-School/system_programming/lab10/src/DropBox
+touch manifest.txt
+git clone https://github.com/Yazeed1s/vscode.git
+insect 
+cd _dev
+ls
+cd c_dev/chip8
+ls
+ls src
+git status
+git add src/emulator.c
+git commit -m ".."
+git push origin main
+curl http://ipinfo.io/140.82.44.82
+curl http://ipinfo.io/45.76.45.180
+curl http://ipinfo.io/136.244.82.95
+cd _dev/c_dev/chip8
+lvim .
+git pull origin main
+ls
+lvim .
+cd _dev/c_dev/chip8\ copy
+codium .
+cd src
+make all
+cd ..
+make all
+make clean
+make all
+gcc src/main.c -w -pedantic -lSDL2 -o ch 
+./ch
+cd ..
+cd chip8
+codium .
+./test.sh
+make clean
+make all
+gcc src/emulator.c src/main.c src/emulator.h -lSDL2 -o chip8 
+gcc src/emulator.c src/main.c src/emulator.h -lSDL2 -o chip
+git pull origin main
+make all
+gcc src/emulator.c src/main.c src/emulator.h -lSDL2 -o ch
+make clean
+make all
+gcc -c src/emulator.c src/main.c
+gcc emulator.o main.o  -lSDL2 -o ch
+./test.sh
+lvim .
+:q
+nvim .
+ls
+cd .local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+nvim .
+lvim .
+nvim .
+nvim
+nvim .
+nvim
+nvim .
+cd _folders/oh-lucy.nvim
+ls
+codium .
+git status
+git add lua/oh-lucy/theme.lua
+git commit -m "fixed #5"
+git add lua/oh-lucy-evening/theme.lua
+git commit -m "fixed #5"
+git push origin main
+git pull origin main
+git pull --rebase
+git status
+git add lua/oh-lucy/theme.lua
+git commit -m "fixed #5"
+git status
+git push origin main
+git pull origin main
+git push origin main
+git pull --rebase
+git pull origin main
+git checkout main
+git pull 
+git pull origin main .
+git pull origin main 
+git status
+git rebase --edit-todo
+git commit --amend
+git status
+git pull origin main 
+git push origin main
+ls
+git status
+git rebase --continue
+git status
+git pull origin 5591597
+git pull 5591597
+git push main
+git status
+git commit --amend
+git status
+git rebase --continue
+git commit --amend
+cd ..
+rm -rf oh-lucy.nvim
+ls
+git clone https://github.com/Yazeed1s/oh-lucy.nvim.git
+ls
+cd oh-lucy.nvim
+codium .
+git status
+git add lua/oh-lucy/theme.lua
+git commit -m "fixed #5"
+git add lua/oh-lucy-evening/theme.lua
+git commit -m "fixed #5"
+git status
+git push origin main
+git status
+git pull origin main
+codium .
+lvim
+brew outdated
+ssh root@104.236.194.114
+brew install --cask neovide
+find . "emcas"
+fd . "emacs"
+fd . -n "emacs"
+fd . -- -n "emacs"
+fd --help
+fd "emacs"
+neovide
+brew uninstall --cask neovide
+lvim .config/lvim/config.lua
+lvim 
+lvim .config/lvim/config.lua
+lvim 
+lvim _dev/rust_dev/presentui/src
+brew install cloc
+cd _dev/github_co/LunarVim
+cloc
+cloc *.lua
+ls
+cloc . *.lua
+cd
+cargo install --git https://github.com/RRethy/tcount.git
+brew install tokei
+brew install scc
+brew uninstall cloc
+cd _dev/arabianchain
+ls
+cd go-dubxnet
+ls
+tokie
+tokei
+scc
+curl -sfL https://raw.githubusercontent.com/knipferrc/fm/main/install.sh | sh
+fm
+ls .config
+cd ~/Library/Application\ Support/fm/config.yml
+cd ~/Library
+ls
+cd Application\ Support
+ls
+cd fm
+ls
+lvim .
+fm
+cd
+ls
+cd go
+ls
+cd ..
+which noted
+noted
+brew install abdfnx/tap/tran
+git clone https://github.com/abdfnx/tran.git
+cd tran
+ls
+scc
+cd ..
+rm -rf tran
+lvim
+go run main.go
+cd src
+go run main.go
+cd src
+go run main.go
+cd src
+go run main.go
+cd src
+go run main.go
+cd src
+go run main.go
+cd _dev
+ls
+cd go_dev
+ls
+mkdir goip
+cd goip
+go init
+go mod init
+go mod init https://github.com/Yazeed1s/goip.git
+ls
+go mod init /Users/yazeed_1/_dev/go_dev/goip
+go mod init goip
+ls
+echo "# goip" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/goip.git\
+git push -u origin main
+ls
+mkdir cmd
+codium
+codium .
+go run main.go
+https://www.ip2location.com/download/\?token\=anlzHpIgxWfDxLnNUh7H8i2GlCWfMkG66pgsS8soMjmMDVjwEMGsa609CmF2b0du\&file\=\{IP-COUNTRY\}
+curl https://www.ip2location.com/download/\?token\=anlzHpIgxWfDxLnNUh7H8i2GlCWfMkG66pgsS8soMjmMDVjwEMGsa609CmF2b0du\&file\=\{IP-COUNTRY\}
+ls
+go run main.go
+ip show
+go run main.go
+cd
+cd _dev
+ls
+cd arabianchain
+ls
+cd www
+ls
+cd html
+ls
+codium .
+ssh root@193.37.214.52
+go run main.go
+ssh root@104.236.194.114
+lvim /Users/yazeed_1/.ssh/known_hosts 
+ssh root@104.236.194.114
+go run main.go
+go run main.go 
+go run main.go 139.177.205.55
+go run main.go 
+go run main.go 104.236.194.114
+cd _dev/go_dev/goip
+go get -u github.com/spf13/cobra@latest
+cobra add geoip 
+cobra
+ls
+go run main.go 
+go build
+go install
+geoip
+goip
+goip 104.236.194.114
+goip
+go run main.go 104.236.194.114
+go run main.go goip 104.236.194.114
+go run main.go geoip 104.236.194.114
+go build
+go install
+goip 
+goip 139.177.205.55
+go run main.go geoip goip 104.236.194.114
+go run main.go goip goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+goip 1
+goip 
+go build
+go install
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+goip 104.236.194.114 88
+go build
+go install
+goip 104.236.194.114 88
+go build
+go install
+goip 104.236.194.114 88
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114 99n
+go build
+go install
+goip 104.236.194.114 99n
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.1144532344444
+go build
+go install
+goip 104.236.194.1144532344444
+goip 104.236.194.114
+go build
+go install
+goip 104.236.194.1144532344444
+git status
+git add cmd/goip.go
+git commit -m "first commit"
+git status
+git add go.mod
+git commit -m "first commit"
+git add go.sum
+git commit -m "first commit"
+git status
+git add main.go
+git commit -m "first commit"
+git push origin main
+$ go install github.com/nore-dev/fman@latest
+go install github.com/nore-dev/fman@latest
+ls
+fman
+cd _dev/github_co
+ls
+git clone https://github.com/nore-dev/fman.git
+cd fman
+codium .
+go mod init fman
+go mod tidygo list
+go mod tidy go list
+go mod tidy
+go mod init fman
+codium .
+go get -u "github.com/charmbracelet/lipgloss"
+go get -u "github.com/76creates/stickers"
+go get -u github.com/charmbracelet/bubbletea
+go get -u "github.com/atotto/clipboard"
+go get -u "github.com/charmbracelet/bubbles/key"
+go get -u "github.com/charmbracelet/lipgloss"
+go get -u "github.com/charmbracelet/bubbletea"
+cd ..
+ls
+rm -rf fman
+git clone https://github.com/nore-dev/fman.git
+c fman
+cd fman 
+codium ,
+codium .
+go run main.go
+fman
+cd .c
+cd .config
+ls
+cd ..
+ls
+cd _dev/github_co
+cd fman/
+codium .
+brew outdated
+brew update
+brew upgrade
+nvim
+cd .config/lvim/plugin
+ls
+cd ..
+lvim .
+lvim
+cd .local/share/lunarvim/site/pack/packer/start/oh-lucy.nvim
+codium ,
+codium .
+lvim
+cd
+lvim _dev/rust_dev/Rust/src
+cd _folders
+ls
+cd my_extensions
+ls
+git clone https://github.com/Yazeed1s/plugin_.git
+cd _dev/c_dev/chip8
+lvim .
+codium .
+cd ../..
+ls
+cd chip8_
+ls
+codium .
+cd ..
+ls
+cd c_dev/chip8
+ls
+codium .
+cd ..
+ld
+cd ../..
+cd _folders/CS-School/system_programming
+ls
+ls lab10
+ls
+mkdir lab11
+cp -r lab10/src lab11/
+ls
+cd lab11
+ls
+cd src
+ls
+cd _folders/CS-School/system_programming
+ls
+cd src
+cd lab11
+ls
+ls src
+touch deamon.c
+codium .
+cd ../..
+cd system_programming
+ls
+cp lab04/src/_clang-format lab11
+./test.sh
+rm -f chip8 emulator.o main.o keyboard.o screen.o memory.o stack.o 
+cd _dev/c_dev/chip8
+codium .
+lvim _dev/go_dev/goip
+cd _folders/CS-School/system_programming
+ls
+cd lab11
+ks
+ls
+codium .
+ls
+cd src
+ls
+gcc FileEncryptionEngineD.c -o encryptd
+./encrypt
+./encryptd
+ls
+cd src
+ls
+rm encrypt
+rm encryptd
+ls
+gcc FileEncryptionEngineD.c - outd
+gcc FileEncryptionEngineD.c -o od
+sudo ./od 
+sudo tail -f /var/log/system.log
+sudo tail /var/log/system.log
+ls
+ps -aux 
+ps -au
+ps -a
+ps
+ps -aux
+ps -auyz
+ps -aua
+cd src
+ls
+gcc deamon.c -o dd
+./dd
+ls
+sudo tail /var/log/system.log
+./dd
+sudo ./dd
+ls
+rm dd
+rm od
+ls
+touch main.c
+scp main.c ssh@139.177.205.55:/home/alharthi
+ls
+scp main.c alharthi@139.177.205.55:/home/alharthi
+ssh alharthi@139.177.205.55
+ls
+rm main.c
+ls
+cd _folders/CS-School/system_programming/lab11
+ls
+scp ~/_folders/CS-School/system_programming/lab11 yaz@10.0.0.188:/home/yaz/_dev
+scp -r ~/_folders/CS-School/system_programming/lab11 yaz@10.0.0.188:/home/yaz/_dev
+scp jj.c yaz@10.0.0.188:/home/yaz/_dev
+lvim .config/lvim
+lvim
+ls
+cd .config
+ls
+rm -rf nvim
+mv -r /Users/yazeed_1/_folders/my_extensions/nvim ~/.config
+mv /Users/yazeed_1/_folders/my_extensions/nvim ~/.config
+ls
+nvim
+lvim nvim
+codium .
+cd nvim
+codium .
+cd ..
+rm -rf nvim
+git clone git@github.com:ChristianChiarulli/nvim.git ~/.config/nvim
+git clone https://github.com/ChristianChiarulli/nvim.git
+ls
+nvim 
+cd nvim
+codium .
+nvim
+cd .config
+ls
+rm -rf nvim
+cd
+rm -rf .local/share/nvim
+rm -rf .local/state/nvim
+ls
+cd .config
+git clone https://github.com/famiu/dot-nvim.git
+ls
+mv dot-nvim nvim
+ls
+nvim
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+ls
+rm -rf nvim
+ls
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+cd
+cd _dev/go_dev/goip
+nvim .
+ls
+q c
+nvim
+nvim _dev/go_dev/goip/
+nvim _dev/go_dev/goip
+cd _dev/go_dev/goip
+nvim
+cd
+rm -rf ~/.config/nvim\
+rm -rf ~/.local/share/nvim\
+rm -rf ~/.cache/nvim
+git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim\
+nvim +PackerSync
+nvim
+cd _dev/go_dev/goip
+nvim
+cd 
+cd .config/nvim
+nvim .
+cp -r ~/.config/nvim/lua/user_example/ ~/.config/nvim/lua/user/
+nvim 
+cd _folders
+ls
+git clone https://github.com/jef/forest-night-jetbrains.git
+ls
+mv forest-night-jetbrains oh-lucy-jetbrains
+cd oh-lucy-jetbrains
+ls
+ls -la
+rm -rf .git
+rm -rf .github
+Ùƒ¥Ø³
+ls
+cd ..
+ls
+go run main.go
+brew outdated
+cd _dev
+ls
+cd go_dev
+ls
+rm -rf atcc
+rm -rf load_balancer
+rm -rf algorithms_go
+ls
+mkdir go_table
+cd go_table
+go mod init go_table
+touch main.go
+lvim .
+nvim
+codium .
+cd 
+cd .config/nvim/lua/user
+nvim .
+ls
+nvim .
+lvim .
+nvim .
+cd
+cd _dev/go_dev/go_table
+nvim .
+lvim ~/.config/nvim/lua/user
+nvim .
+lvim .
+cd _dev/go_dev/go_table
+nvim 
+cd _dev/go_dev/go_table
+codium .
+go run main.go
+cd ../goip
+ls
+codium .
+go run main.go
+go build
+go install
+goip 139.177.205.55
+curl --proto '=https' --tlsv1.2 -sSLf "https://git.io/JBhDb" | sh
+termscp
+fm
+insect
+brew outdated
+brew upgrade
+brew uninstall emacs
+brew uninstall emacs-plus
+brew uninstall emacs-plus@28
+curl https://ipapi.co/2601:547:c400:db60:4c5f:6d28:e8d8:94e2/json/
+go run main.go
+go run main.go 8.8.8.8
+gh extension install dlvhdr/gh-dash
+gh
+cd _dev/rust_dev
+ls
+cd Rust
+gh
+gh run
+gh run list
+gh run view
+gh dash
+cd ..
+ls
+lazygit
+cd ..
+cd
+clr
+cd D
+cd _dev
+LS
+cd chip8_
+ls
+ls src
+cd ..
+cd c_dev
+ls
+cd chip8
+ls
+cat Makefile
+./test.sh
+ssh alharthi@139.177.205.55
+./test.sh
+go run main.go
+pwd
+go run main.go
+/usr/bin/python3 /Users/yazeed_1/_folders/CS-School/CSCI3042-Computer_Security/py3/log-processing.py
+insect 68 - 39
+insect
+ssh alharthi@139.177.205.55
+insect
+brew install --cask docker
+btop
+htop
+ps
+brew install btop
+btop
+brew install --cask brackets
+brew uninstall --cask brackets
+curl https://alx.sh | sh
+insect 
+diskutil list
+curl https://alx.sh | sh
+ls
+dscacheutil -q group -a name admin
+diskutl
+diskutil list
+diskutil eraseVolume JHFS+ drive /dev/disk0s4
+ls
+brew outdated
+brew upgrade
+ls
+brew install bazelisk
+brew install llvm
+export PATH="$(brew --prefix llvm)/bin:${PATH}"
+git clone https://github.com/carbon-language/carbon-lang
+cd carbon-lang
+bazel run //explorer -- ./explorer/testdata/print/format_only.carbon
+ls
+cd ..
+rm -rf carbon-lang
+brew uninstall bazelisk
+nvim
+rm -rf ~/.config/nvim\
+rm -rf ~/.local/share/nvim\
+rm -rf ~/.cache/nvim
+nvim
+cd .config
+mkdir nvim
+ls
+cd nvim .
+cd nvim
+ls
+touch init.lua
+lvim .
+brew outdated
+ls
+cd bin
+ls
+cd ..
+ls
+clr
+fman
+clr
+glow
+ls
+cd Parallels
+ls
+cd ..
+rm -rf Parallels
+rm -rf Postman
+ls Sites
+lvim
+xplr
+docker run -w / -it --rm ubuntu sh -uec '\
+apt-get update -y\
+apt-get install -y wget tar vim less\
+wget https://github.com/sayanarijit/xplr/releases/latest/download/xplr-linux.tar.gz\
+tar -xzvf xplr-linux.tar.gz\
+./xplr\
+'\
+;brew install xplr
+xplr
+brew uninstall xplr
+brew install cf
+cf
+brew install cfiles
+cf
+brew uninstall cfiles
+brew uninstall cf
+joshuto
+cargo install felix
+fx
+brew install gitui
+gitui
+cd _dev/rust_dev/Rust
+gitui
+brew uninstall gitui
+cd
+brew install nnn
+nnn
+brew uninstall nnn
+brew install vifm
+vifm
+brew uninstall vifm
+git clone https://github.com/muesli/duf.git\
+cd duf\
+go build
+go build
+duf
+cd
+rm -rf duf
+cd _dev/c_dev
+ls
+mkdir dir
+cd dir
+touch main.c
+lvim .
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+pwd
+./out
+brew outdated
+brew upgrade
+ls
+lvim
+cd .config
+ls
+rm -rf nnn
+rm -rf vifm
+rm -rf wireshark
+rm -rf nvim
+cd
+git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim\
+nvim +PackerSync
+cp -r ~/.config/nvim/lua/user_example/ ~/.config/nvim/lua/user/
+cd ~/.config/nvim/lua/user/
+lvim .
+nvim +PackerSync
+cd ~/.config/nvim/lua/user/
+lvim .
+nvim +PackerSync
+cd
+cd _dev/c_dev/linkedList_c
+nvim .
+:q
+cd
+rm -rf ~/.config/nvim\
+rm -rf ~/.local/share/nvim\
+rm -rf ~/.cache/nvim
+lvim .
+lvim 
+cd .config/lvim
+lvim .
+lvim 
+lvim .
+lvim 
+lvim +PackerSync
+lvim 
+lvim .
+lvim 
+ls
+cd sdl
+la
+cd
+which SDL2
+find "SDL2"
+find . "SDL2"
+cd .local
+ls
+cd bin
+ls
+cd 
+ls
+fd . "SDL2"
+fd "SDL2"
+cd SDL/Xcode/SDL/SDL2/
+ls
+cd
+cd ../..
+;s
+ls
+cd us
+cd usr
+ls
+cd local
+ls
+cd Cellar
+ls
+cd ..
+find . "SDL2"
+cd ..
+find . "SDL2"
+cd ..
+find . "SDL2"
+cd
+brew install sdl2
+whcih sdl2
+which sdl2
+which ls -l /usr/local/opt/sdl2
+ls -l /usr/local/opt/
+ls -l /usr/local/
+ls -l /usr/local/Homebrew
+ls -l /usr/local/Cellar
+brew info sdl2
+cd /opt/homebrew/Cellar/sdl2/
+ls
+cd 2.24.2
+ls
+cd include
+ls
+cd SDL2
+LS
+cd
+brew outdated
+cd _dev/chip8_
+ls
+lvim .
+cd _dev/chip8_
+lvim .
+ls
+./test.sh
+ls
+cd roms
+ls
+cd 
+ls
+./chip8 roms/FIGURES.ch8
+./chip8 roms/GUESS.ch8
+./chip8 roms/SPACEF.ch8
+./chip8 roms/TEST/Rocket2.ch8
+./test.sh
+./chip8 roms/SPACEF.ch8
+./chip8 roms/TEST/C8PIC.ch8 
+./chip8 ./roms/LANDING.ch8
+./test.sh
+./chip8 ./roms/LANDING.ch8
+./test.sh
+ls
+./chip8 roms/TEST/X-MIRROR.ch8
+make clean
+ls
+make all
+./chip8 roms/AIRPLANE.ch8
+make clean
+make all
+make clean
+make all
+./chip8 roms/AIRPLANE.ch8
+./chip8 roms/TEST/X-MIRROR.ch8
+./chip8 roms/TEST/Rocket2.ch8
+make clean
+make all
+./chip8 roms/TEST/Rocket2.ch8
+make clean
+ls
+./run.sh
+chmod +x run.sh
+./run.sh
+make clean
+cd _dev/c_dev
+ls
+cd chip8
+ls
+git status
+git add Makefile 
+git commit -m "add makefile"
+git add src/emulator.c 
+git commit -m "implement the rest of opcodes"
+cd src
+bat emulator.h
+git status
+git add emulator.h
+git commit -m "move functions + vars"
+git add main.c
+git commit -m "SDL2"
+git status
+cd ..
+git add test.sh
+git commit -m "add object files"
+git push origin main
+ls
+./run.sh
+cd _dev/c_dev/chip8_c
+ls
+lvim .
+cd _dev/c_dev/chip8_c
+lvim .
+cd _dev/c_dev/chip8_c
+ls
+./run.sh
+./chip8 roms/TEST/X-MIRROR.ch8
+./chip8 roms/INVADERS.ch8
+cd _dev/c_dev/chip8_c
+ls
+./chip8 roms/INVADERS.ch8
+./chip8 roms/GUESS.ch8
+./chip8 roms/15PUZZLE.ch8
+./chip8 roms/AIRPLANE.ch8
+./chip8 roms/BLI
+./chip8 roms/BLINKY.ch8
+./chip8 roms/HIDDEN.ch8
+./chip8 roms/HIDDEN.txt
+./chip8 roms/HIDDEN.ch8
+bat roms/HIDDEN.ch8
+bat roms/HIDDEN.txt
+./chip8 roms/HIDDEN.ch8
+cd
+brew outdated
+cd _dev/rust_dev
+ls
+cargo new chip8_rs
+cd chip8_rs
+ls
+codium .
+cd _dev/rust_dev/
+git clone https://github.com/novoselov-ab/chip8-rust.git
+cd chip8-rust
+ls
+cargo run
+rustup update
+cargo run
+codium .
+cd ..
+rm -rf chip8-rust
+git clone https://github.com/o2sh/miro --depth=1\
+cd miro\
+sudo ./get-deps\
+make install\
+miro
+ls
+cd ..
+rm -rf miro
+ls
+brew install vte3
+cd ..
+ls
+git clone https://github.com/nautilor/simple_terminal.git
+cd simple_terminal
+make
+l
+ls
+./term
+hi
+go run main.go
+bat term.c
+:q
+pwd
+brew outdated
+lvim
+lvim _dev/rust_dev/chip8_rs/src/chip8.rs
+git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim\
+nvim +PackerSync
+nvim 
+cp -r ~/.config/nvim/lua/user_example/ ~/.config/nvim/lua/user/
+lvim .
+nvim ~/.config/nvim/lua/user/
+lvim ~/.config/nvim/lua/user/
+nvim +PackerSync
+lvim .
+make clean
+make
+make all
+make
+ps -aux
+ps -au
+ps -a
+ps 
+ls -la > me.txt
+cat me.txt
+rm -rf me.txt
+cd _folders/CS-School/system_programming 
+touch hm3.c
+codium hm3.c
+cd _folders/CS-School/system_programming
+ls
+gcc hm3.c -o out
+./out
+cd _folders/CS-School/system_programming
+gcc hm3.c -o out
+./out
+cd _folders/CS-School/system_programming
+gcc hm3.c -o out
+./out
+cd _folders/CS-School/system_programming
+./out
+gcc hm3.c -o out
+./out
+cd _folders/CS-School/system_programming
+gcc hm3.c -o out
+./out
+gcc hm3.c -o out
+cd _folders/CS-School/system_programming
+gcc hm3.c -o out
+./out
+cd _folders/CS-School/system_programming
+gcc hm3.c -o out
+./out
+cd _dev/c_dev/chip8_c
+lvim .
+ls
+hexdump -v roms/TEST/IBM.ch8
+hexdump roms/TEST/IBM.ch8
+hexdump roms/TEST/C8PIC.ch8
+cd roms
+ls
+hexdump -v HIDDEN.ch8
+ls
+cd ..
+ls
+touch laroche.ch8
+ls
+lvim .
+./run.sh
+./chip8 laroche.ch8
+cd roms/TEST
+ls
+hixdump IBM.ch8
+hexdump IBM.ch8
+cd ../..
+./chip8 laroche.ch8
+./run.sh
+./chip8 roms/TEST/X-MIRROR.ch8 
+./run.sh
+make clean
+cd _dev/c_dev/chip8_c
+ls -la
+lvim .
+echo ".idea" > .gitignore
+echo ".idea\n.DS_Store" > .gitignore
+cat .gitignore
+echo ".idea\n.DS_Store\n*.o" > .gitignore
+cat .gitignore
+echo "# chip8_c" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/chip8_c.git\
+git push -u origin main
+git status
+git add .gitignore
+git commit -m "get rid of annoying .files"
+git add Makefile
+git commit -m "add Makefile"
+git status
+git add run.sh
+git commit -m ".."
+git add _clang-format
+git commit -m ".."
+git add src/inc/SDL2/ 
+git commit -m "include SDL2"
+git add src/inc/chip8.h
+git commit -m ".."
+git add src/inc/keyboard.h 
+git commit -m "initial commit"
+git add src/inc/memory.h
+git commit -m "initial commit"
+git add src/inc/registers.h
+git commit -m "initial commit"
+git add src/inc/screen.h
+git commit -m "initial commit"
+git add src/inc/stack.h
+git commit -m "initial commit"
+git add src/chip8.c 
+git commit -m "initial commit"
+git add src/keyboard.c
+git commit -m "initial commit"
+git add src/main.c
+git commit -m "initial commit"
+git add src/memory.c
+git add src/screen.c
+git commit -m "initial commit"
+git add src/stack.c 
+git commit -m "initial commit"
+git status
+git add roms/
+git commit -m "rom files"
+git push origin main
+cd
+cd _dev/github_co 
+ls
+git clone https://github.com/Yazeed1s/Java.git
+cd Java
+codium .
+git checkout Add morseCode
+git checkout -b Add morseCode
+git status
+git checkout -b "Add morseCode implementation"
+git checkout -b "add-morseCode-implementation"
+codium .
+cd
+brew outdated
+ssh alharthi@139.177.205.55
+lvim
+ssh alharthi@139.177.205.55
+cd _dev/c_dev
+ls
+rm c_process
+rm -rf c_process
+rm -rf struct_c
+rm -rf tree_c
+rm -rf dir
+rm -rf ptr
+rm -rf hashmap
+rm -rf argv
+ls
+rm -rf linux_p
+mkdir hxdump
+cd hxdump
+mkdir src
+cp ~/_dev/c_dev/_clang-format ~/_dev/c_dev/hxdump/src
+cd src
+touch main.c
+ls
+codium ,
+codium .
+gcc main.c -o out
+gcc main.c argc.c -o out
+gcc main.c args.c -o out
+./out
+./out --help
+./out args.c
+insect
+ssh alharthi@139.177.205.55
+ls
+cd Downloads
+ls
+sudo ls
+cd ../Desktop
+ls
+cd
+ls
+cd Desktop
+ls
+cat /Users/yazeed_1/Desktop/clue.jpg 
+cat /Users/yazeed_1/Desktop/clue.jpg | grep "ctf{"
+hexdump /Users/yazeed_1/Desktop/clue.jpg 
+hexdump -v /Users/yazeed_1/Desktop/clue.jpg 
+openssl enc -ciphers
+openssl enc -d -aes-128-cbc -pbkdf2 -base64 -in here
+cd
+echo "U2FsdGVkX18KkCF45mJdxfiMFdipO1rjUUQKuGypZyYytALjVTfvIw7q3q8OXvvx" > here
+openssl enc -d -aes-128-cbc -pbkdf2 -base64 -in here
+openssl enc -ciphers
+openssl enc -d -aes-128-cfb1 -pbkdf2 -base64 -in here
+openssl enc -d -aes-128-ecb -pbkdf2 -base64 -in here
+openssl enc -d -aes-128-xts -pbkdf2 -base64 -in here
+openssl enc -d -aes-192-cfb -pbkdf2 -base64 -in here
+openssl enc -d -aes-192-ctr -pbkdf2 -base64 -in here
+openssl enc -d -aes-192-ofb -pbkdf2 -base64 -in here
+openssl enc -d -aes-256-cfb -pbkdf2 -base64 -in here
+openssl enc -d -aes-256-ctr -pbkdf2 -base64 -in here
+openssl enc -d -aes-256-ofb -pbkdf2 -base64 -in here
+openssl enc -d -aes192 -pbkdf2 -base64 -in here
+grue-too
+openssl enc -d -bf-cbc -pbkdf2 -base64 -in here
+openssl enc -d -bf-ofb -pbkdf2 -base64 -in here
+openssl enc -d -camellia-128-cfb -pbkdf2 -base64 -in here
+openssl enc -d -camellia-128-ecb -pbkdf2 -base64 -in here
+openssl enc -d -camellia-192-ecb -pbkdf2 -base64 -in here
+openssl enc -d -camellia-256-ecb -pbkdf2 -base64 -in here
+ls
+cd Desktop
+ls
+openssl enc -d -camellia-256-ecb -pbkdf2 -base64 -in clue.jpg
+cat clue.jpg
+brew outdated
+cd _dev/rust_dev
+ls
+cd algorithms_rust
+l
+cd morse_code
+ls
+codium .
+brew outdated
+unam
+uname
+cd src
+cargo run mrs -e hh
+cargo build
+morse_code
+cargo build
+cargo install
+./morse_code
+exa
+exa -l
+exa -la
+fd / "hm3"
+fd "hm3" /
+onefetch
+onefetch .
+onefetch _dev/rust_dev/Rust
+onefetch _dev/rust_dev/presentui
+onefetch _dev/github_co
+onefetch _dev/github_co/Java
+onefetch _dev/github_co/fman
+onefetch _dev/github_co/LunarVim
+onefetch _dev/github_co/awesome-neovim
+onefetch _dev/www
+onefetch _dev/www/html
+cd _dev/c_dev
+touch challenge.c
+codium challenge.c
+cd _dev/c_dev
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+cd _dev/c_dev
+gcc challenge.c -o out
+./out
+gcc challenge.c -o out
+./out
+insect
+cd _dev/c_dev
+gcc challenge.c -o out
+./out
+cd _dev/c_dev
+gcc challenge.c -o out
+./out
+cd _dev/c_dev
+gcc challenge.c -o out
+./out
+cd _dev/c_dev
+ls
+lvim .
+cd _dev/c_dev/
+touch main.c
+lvim .
+rm out
+nvim
+nvim _dev/c_dev
+lvim .
+lvim 
+rm -rf ~/.config/nvim\
+rm -rf ~/.local/share/nvim\
+rm -rf ~/.cache/nvim\
+;nvim
+cd _dev/c_dev
+nvim .
+cd 
+cd .config/nvim
+cd .config/
+mkdir nvim
+cd nvim
+touch init.lua
+nvim .
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+~/.local/share/nvim/site/pack/packer/start/packer.nvim
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim 
+cd _dev/go_dev/goip
+nvim .
+cd
+cd .local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+codium ,
+codium .
+:q
+cd ~/_dev/go_dev/goip
+nvim .
+~/.local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+codium .
+cd ~/_dev/go_dev/goip
+nvim .
+:q
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim +PackerClean
+nvim .
+nvim +PackerClean
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+ls
+mkdir lua
+rm -rf lua
+nvim .
+nvim 
+ls
+mkdir lua
+cd lua
+mkdir user
+touch general.lua
+touch keymaps.lua
+cd .config/nvim
+nvim .
+nvim +PackerSync
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+~/.local/share/nvim/site/pack/packer/start/packer.nvim
+nvim +PackerSync
+nvim .
+cd ..
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+nvim +PackerSync
+nvim .
+cd
+cd _dev/c_dev/hxdump/src
+nvim .
+cd
+cd .config/nvim
+nvim .
+nvim 
+cd
+cd _dev/c_dev/hxdump/src
+nvim .
+man openssl
+openssl -ciphers
+cd
+cd .config/nvim
+nvim .
+cd .local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+codium .
+:q
+nvim .
+brew outdated
+cd .config/nvim
+ls
+nvim .
+cd
+git clone https://github.com/ChristianChiarulli/nvim.git
+cd .config/nvim
+nvim 
+nvim
+nvim 
+brew reinstall z3
+brew install z3
+nvim 
+cd
+cd _dev/c_dev/hxdump/src/
+nvim .
+cd ../..
+cd ../rust_dev
+nvim .
+nvim 
+nvim .config/nvim
+nvim .
+nvim 
+nvim .config/nvim
+nvim .
+nvim .config/nvim
+nvim .
+cd .config/nvim
+cd
+cd .config/lvim
+nvim .
+nvim .config/nvim
+nvim .
+nvim .config/nvim
+:q
+nvim .config/nvim
+lvim
+nvim .
+cd .config/nvim
+echo "# nvim" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/nvim.git\
+git push -u origin main
+git status
+git add init.lua
+git commit -m "add config files"
+git add plugin/
+git commit -m "initial"
+git status
+git add lua/user/autopairs.lua
+git commit -m "setup autopairs"
+git add lua/user/bufferline.lua
+git commit -m "setup bufferline"
+git add lua/user/cmp.lua
+git commit -m "setup compel"
+git add lua/user/general.lua
+git commit -m "general configs"
+git add lua/user/git-blame.lua
+git commit -m "setup git-blame"
+git add lua/user/gitlinker.lua
+git commit -m "setup gitlinker"
+git add lua/user/gitsigns.lua
+git commit -m "setup gitsigns"
+git add lua/user/icons.lua
+git commit -m "glopal icons"
+git add lua/user/indent.lua
+git commit -m "change indentline"
+git add lua/user/keymaps.lua
+git commit -m "fight keymaps"
+git add lua/user/lsp-inlayhints.lua
+git commit -m "setup inlayhints"
+git add lua/user/lsp.lua
+git commit -m "fight lsp"
+git add lua/user/mason.lua
+git commit -m "setup mason"
+git add lua/user/null-ls.lua
+git commit -m "add formaters"
+git add lua/user/nvim-tree.lua
+git commit -m "setup nvim-tree"
+git add lua/user/plugins.lua
+git commit -m "add plugins"
+git add lua/user/symbol-outline.lua
+git commit -m "setup outline"
+git add lua/user/tabnine.lua
+git commit -m "setup cmp"
+git add lua/user/telescope.lua
+git commit -m "setup tele"
+git add lua/user/theme.lua
+git commit -m "set theme"
+git add lua/user/ts.lua
+git commit -m "set TS"
+git add lua/user/which-key.lua
+git commit -m "mao keys"
+git add lua/user/.DS_Store
+git commit -m ".."
+git status
+git add .
+git commit -m ".."
+git push origin main
+cd
+nvim
+lvim
+lvim .config/lvim
+lvim
+mv ~/.config/nvim/ ~/.config/nvim.bak\
+git clone https://github.com/arturgoms/nvim.git ~/.config/nvim
+nvim
+nvim +PackerSync
+one https://github.com/arturgoms/nvim.git ~/.config/nvim
+nvim +PackerSync
+nvim 
+lvim .config/nvim
+lvim .config/lvim
+nvim +PackerSync
+nvim 
+nvim .
+nvim 
+:q
+lvim .config/nvim
+nvim 
+nvim +PackerSync
+lvim .config/nvim
+nvim +PackerSync
+nvim 
+lvim .config/nvim
+nvim 
+:q
+cd .config/nvim
+mvim .
+nvim .
+cd
+nvim .
+cd .config/nvim
+nvim .
+cd
+nvim .
+cd _folders
+ls
+cd oh-lucy
+cd oh-lucy.nvim
+ls
+git status
+rm -rf Untitled.md
+git status
+codium .
+git status
+git add lua/oh-lucy/theme.lua
+git commit -m "update theme to support latest TreeSitter changes"
+git add lua/oh-lucy-evening/theme.lua 
+git commit -m "update theme to support latest TreeSitter changes"
+git push origin main
+cd
+cd .config
+cd nvim
+nvim .
+cd .local/share/nvim/site/pack/packer/start
+rm -rf oh-lucy.nvim
+nvim .
+nvim 
+cd
+nvim .
+cd .config/nvim/
+nvim .
+git status
+nvim
+nvim .
+nvim
+nvim .config/nvim
+nvim
+nvim .config/nvim
+nvim .
+nvim .config/nvim
+nvim .
+nvim .config/nvim
+nvim .
+cd .local/share/nvim/site/pack/packer/start/minimal.nvim
+codium .
+nvim .
+brew install tmux
+tmux
+nvim .
+tmux new
+:new
+tmux new-session
+quit
+exit
+tmux new session
+tmux 
+:q
+brew install zellij
+zellij
+nvim
+mkdir ~/.config/zellij\
+zellij setup --dump-config > ~/.config/zellij/config.kdl\
+;nvim ~/.config/zellij
+brew uninstall zellij
+tmux 
+ls -la
+exit
+ls -la
+which tmux
+cd /opt/homebrew/
+ls
+cd etc
+ls
+ls -la
+cd ..
+find . ".tmux"
+tmux
+ls
+mkdir ~/.config/zellij:e\
+zellij setup --dump-config > ~/.config/zellij/config.kdl\
+;exit
+brew uninstall tmux
+cd
+brew install tmux
+touch .tmux.conf
+/usr/local/opt/ncurses/bin/infocmp tmux-256color > ~/tmux-256color.info
+/usr/local/opt/ncurses/bin/infocmp -x tmux-256color > ~/tmux-256color.src
+cd /opt/homebrew/
+ls
+cd etc
+ls
+cd ..
+ls
+cd C
+cd Cellar
+ls
+cd ncurses
+ls
+cd 6.3
+ls
+cd
+TERM=xterm-256color tmux
+nvim
+exit
+TERM=screen-256color-bce tmux
+nvim
+xterm-256color
+exit
+brew uninstall tmux
+clr
+cd _dev/rust_dev
+ls
+rm presentui
+rm -rf presentui
+rm -rf sys_info
+rm -rf tui_present
+rm -rf tui_rs
+rm -rf chip8_rs
+rm -rf readme_rs
+ls
+rm -rf rustlings
+cargo new catr
+cd catr
+ls
+nvim .
+cd ..
+rm -rf catr
+ls
+ls -la
+brew uninstall exa
+broot
+cd
+ls .config
+btop
+gh
+cd .config
+ls
+rm zellij
+rm -rf zellij
+rm -rf zellij:e
+rm -rf broot
+rm -rf iterm2
+jgit
+cd ..
+gh
+cd ..
+cd .config
+rm -rf jgit
+ls
+gitui
+cd ..
+rm -rf gitui
+lvim
+:q
+rm -rf lvim
+ls
+cd ..
+ls
+cd .local
+ls
+cd share
+ls
+rm -rf lunarvim
+cd
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/uninstall.sh)
+lvim
+vim .zshrc
+source .zshrc
+nvim
+cd .config/nvim
+nvim .
+nvim
+git status
+git add lua/user/statline.lua
+git commit -m "custom statusline"
+git status
+git add lua/user/gitlinker.lua
+git commit -m "del useless plugin"
+git add lua/user/gitsigns.lua
+git commit -m "change git signs 2 [+][-]"
+git status
+git add lua/user/plugins.lua
+git commit -m "update plugins"
+git add lua/user/telescope.lua
+git commit -m "update telescope [->]"
+git add lua/user/which-key.lua
+git commit -m "update keys"
+git status
+git add init.lua
+git commit -m "add statline.lua"
+git status
+git add .
+git commit -m ".."
+git push origin main
+nvim 
+nvim
+clr
+nvim
+nvim .config/nvim
+clr
+nvim 
+nvim .config/nvim
+clr
+nvim
+nvim .config/nvim
+brew outdated
+brew upgrade
+rustup update
+cd _dev/rust_dev
+ls
+cd rust_book
+ls
+cd struct_rs
+ls
+nvim .
+nvim .config/nvim
+nvim .
+nvim .config/nvim
+nvim .
+nvim .config/nvim
+nvim .
+nvim .config/nvim
+nvim .
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+cat .zshrc
+ls -la
+cd _dev
+mkdir haskell_dev
+cd haskell_dev
+ls
+touch main.hs
+codium .
+which haskell-language-server"\
+;which haskell-language-server\
+;cd 
+which haskell-language-server\
+;cd .local/bin
+ls
+cd
+cd .ghcup
+ls
+cd bin
+ls
+pwd
+ghci
+pwd
+ghcup nuke
+nvim .zshrc
+rm -rf _dev/haskell_dev
+ls
+rm here
+rm tmux-256color.info
+rm tmux-256color.src
+ls
+ls -a
+rm -rf .tmux.conf
+ls
+brew install lua
+brew install ninja
+cd .config/nvim\
+git clone https://github.com/sumneko/lua-language-server\
+cd lua-language-server\
+git submodule update --init --recursive
+cd 3rd/luamake\
+ninja -f ninja/macos.ninja\
+cd ../..\
+./3rd/luamake/luamake rebuild
+ls
+cd 3rd
+ls
+cd luamake
+ls
+cd 3rd
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+fd . "mac
+fd . "mac"
+fd "mac" .
+ninja ./3rd/luamake/compile/ninja/macos.ninja
+ninja /3rd/luamake/compile/ninja/macos.ninja
+ninja -f /3rd/luamake/compile/ninja/macos.ninja
+cd ..
+rm lua-language-server
+ls
+rm -rf lua-language-server
+cd .config/nvim\
+git clone https://github.com/sumneko/lua-language-server\
+cd lua-language-server\
+git submodule update --init --recursive
+cd 3rd/luamake
+ninja -f ninja/macos.ninja
+ls
+fd "mac" .
+ninja -f compile/ninja/macos.ninja
+cd ../..
+./3rd/luamake/luamake rebuild
+cd ..
+touch lua-ls.lua
+nvim .
+brew install efm-langserver
+brew install luarocks
+luarocks install --server=https://luarocks.org/dev luaformatter
+nvim .
+brew install stylua
+nvim .
+ls
+mv lua-language-server ~
+nvim lua-ls.lua
+ls
+cd lua-language-server
+;s
+ls
+pwd
+cd bin
+ls
+chmod +x lua-language-server
+cd ..
+fd "mac" .
+cd
+nvim .zshrc
+source .zshrc
+cd .config/nvim
+nvim .
+ls
+git status
+cd .config
+cd nvim
+ls
+git status
+git add lua/user/autopairs.lua
+git commit -m "formatting"
+git add lua/user/cmp.lua
+git commit -m "enable docs window**"
+git add lua/user/lsp-inlayhints.lua
+git commit -m "formatting"
+git add lua/user/lsp.lua
+git commit -m "lua support"
+git add lua/user/mason.lua
+git commit -m "lua support"
+git add lua/user/nvim-tree.lua
+git commit -m "formatting"
+git add lua/user/telescope.lua
+git commit -m "formatting"
+git add lua/user/plugins.lua
+git commit -m "formatting"
+git add lua/user/which-key.lua 
+git commit -m "formatting"
+ls
+git status
+git add .
+git commit -m ".."
+git push origin main
+git checkout main
+git status
+git push origin main
+ls
+git checkout 9ded75d
+git status
+ls
+nvim
+git status
+git push origin main
+git checkout main
+git merge
+git merge 9ded75d
+git merge 32e07ab
+git merge f421f6f
+git status
+git push origin main
+ls
+git status
+git merge 32854d1
+git merge 
+git branch -d 32854d1
+git branch -d  9ded75d
+git merge c6737c5
+$ go uninstall github.com/nore-dev/fman@latest
+go uninstall github.com/nore-dev/fman@latest
+brew install fman/tap/fman
+git clone https://github.com/leo-arch/clifm.git\
+cd clifm\
+sudo make install
+sudo make install
+locate libintl
+which libintl
+cd
+cd clifm
+ls
+codium .
+cd
+rm -rf clifm
+git clone https://github.com/leo-arch/clifm.git\
+cd clifm\
+sudo make install
+cd
+brew install gmake readline gettext libmagic
+brew install readline,
+brew install readline
+brew install libmagic
+sudo port install clifm
+brew tap mananapr/cfiles\
+brew install cfiles
+cfiles
+brew install vifm
+vifm
+brew uninstall vifm
+ls
+clifm
+la
+cat Makefile
+make build
+make install
+find /opt "libibtl.h"
+find /opt "libibtl.h" --print
+find /opt "libibtl.h" -print
+cd cfiles
+cd clifm
+ls
+make install
+brew unlink gettext && brew link --force gettext
+find /usr -name libintl* -print 2>/dev/null
+find /opt -name libintl* -print 2>/dev/null
+find /opt -name libintl -print 2>/dev/null
+find /opt -name libintl -print
+find /opt -name libintl.h -print
+make
+brew install sublimetext
+brew install sublime-text
+cd _dev/c_dev/linkedList_c
+subl
+nvim
+nvim .config/nvim
+nvim 
+nvim _dev/c_dev/chip8_c
+cd _dev/c_dev/chip8_c
+codium .
+cd _dev/c_dev/chip8_c
+nvim .
+ls
+./run.sh
+nvim .
+./run.sh
+nvim .
+./run.sh
+nvim .
+./run.sh
+nvim .
+./run.sh
+nvim .
+./run.sh
+nvim .
+./run.sh
+cd ..
+rm -rf chip8_c
+git clone https://github.com/Yazeed1s/chip8_c.git
+cd chip8_c
+ls
+./run.sh
+cd _dev/c_dev/chip8_c
+codium .
+cd
+cd Downloads/Chip8InCCourse-coding-2-structuring-our-project
+codium .
+cd ..
+ls
+rm -rf Chip8InCCourse-coding-2-structuring-our-project
+cd Chip8InCCourse-coding-14-finished-simulator
+codium .
+cd
+cd Desktop
+ls
+cd Chip8InCCourse-coding-14-finished-simulator
+codium .
+./run.sh
+./chip8 roms/TEST/X-MIRROR.ch8
+./run.sh
+./chip8 roms/TEST/X-MIRROR.ch8
+./run.sh
+git status
+git add src/screen.c
+git commit -m "fix screen"
+git add src/chip8.c
+ls
+git commit -m "fix registers x and y""
+git commit -m "fix registers x and y"
+./run.sh
+git push origin main
+cd ..
+rm -rf Chip8InCCourse-coding-14-finished-simulator
+ls
+cd ../_dev/c_dev/chip8_c
+ls
+cd roms/TEST
+ls
+hexdump -C IBM.ch8
+cd ../..
+./run.sh
+./run.sh > here.txt
+cd _dev/c_dev/chip8_c
+./run.sh > here.txt
+bat here.txt
+ls
+make clean
+ls
+cd _dev/c_dev/chip8_c
+ls
+cd roms
+cd TEST
+ls
+cat IBM.ch8
+touch e.ch8
+nvim .
+cd ../..
+ls
+./run.sh
+./chip8 roms/TEST/e.ch8
+cd _dev/c_dev/chip8_c/ls
+cd _dev/c_dev/chip8_c/
+ls
+cd roms/TEST
+cat e.ch8
+rm e.ch8
+mv ~/e.ch8 ~/_dev/c_dev/chip8_c/roms/TEST
+./chip8 e.ch8
+cd ../..
+./chip8 roms/TEST/e.ch8
+rm roms/TEST/e.ch8
+cd _dev/c_dev/chip8_c
+ls
+make clean
+ls
+rm here.txt
+ba Makefile
+bat Makefile
+tree
+ls -la
+bat run.sh
+hexdump -C run.sh
+bat
+clr
+brew outdated
+brew upgrade
+cd _dev/c_dev
+git clone https://github.com/fr0zn/hed\
+cd hed\
+make\
+sudo make install
+sudo make install
+bat Makefile
+sudo make install
+sudo chown -R "$USER":admin /usr/local
+make && sudo make install
+ls
+./hed
+./hed Makefile
+./hed ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+ls
+cp hed /usr/bin
+sudo cp hed /usr/bin
+cd _dev/c_dev/hed
+codium .
+cd ..
+ls
+nvim _clang-format
+cd _dev/c_dev
+ls
+rm challenge.c
+rm main.c
+rm in
+rm out
+ls
+rm -rf sys_ideas
+ls
+rm -rf hxdump
+mkdir hxdump
+ls
+cd hxdump
+ls
+mkdir src
+cd src
+touch main.c
+cd ..
+cd src
+codium .
+gcc main.c -o out
+./out
+gcc main.c -o out
+./out
+cd _dev/c_dev
+mkdir strlib
+rm -rf strlib
+nvim
+cd _dev/c_dev/chip8_c
+ls src/inc
+ls
+hexdump
+cat here.txt
+rm here.txt
+ls
+cd _dev/c_dev
+ls
+cd hed
+codium .
+cd ..
+txt_editor
+mkdir txt_editor
+cd txt_editor
+mkdir src
+cd src
+touch main.c
+ls
+codium .
+brew outdated
+brew upgrade
+cd _dev/c_dev/chip8_c
+ls
+cd src
+nvim .
+ls
+cd ..
+./run.sh
+make clean
+./run.sh > here.txt
+bat here.txt
+hesxdump -C roms/TEST/IBM.ch8
+hexdump -C roms/TEST/IBM.ch8
+cd
+clr
+cd _dev/c_dev/chip8_c
+ls
+make clean
+hexdump -C roms/TEST/ibm
+hexdump -C roms/TEST/IBM.ch8
+nvim .
+cd _dev/c_dev/chip8_c
+nvim .
+ls
+bat run.sh
+./run.sh
+./run.sh > here.txt
+bat here.txt
+./chip8 roms/TEST/X-MIRROR.ch8
+./run.sh
+clr
+cd _dev/c_dev/chip8_c
+nvim .
+gcc main.c -o out
+./out
+brew outdated
+cd _dev/c_dev/chip8_c
+ls
+make clean
+ls src
+ls src/inc
+cd ../..
+cd rust_dev
+ls
+cd data_structure_rust
+ls
+cd hashmap_rs
+ls
+codium .
+git status
+git add src/lib.rs
+git commit "implement insert(), getKey(), remove(), len(), etc"
+git commit -m "implement insert(), getKey(), remove(), len(), etc"
+git push origin main
+cd ..
+nvim .
+nvim .config/nvim
+nvim 
+nvim .config/nvim
+nvim 
+nvim .config/nvim
+cd .config/nvim
+nvim .
+vim .
+nvim 
+nvim .
+vim .
+nvim .
+goin
+in
+fman
+clear
+cd go/
+cd
+clr
+nvim .config/nvim
+nvim .config/alacritty
+nvim .
+ls
+cargo run
+ls
+cd src
+cargo test
+cargo build
+nvim .config/nvim
+ls
+nvim .
+nvim .config/nvim
+cd .config/nvim
+git status
+git add init.lua
+git commit -m"add lualine"
+git add lua/user/general.lua 
+git commit -m"disable mouse"
+git add lua/user/gitsigns.lua 
+git commit -m".."
+git add lua/user/keymaps.lua
+git commit -m"keymap pwd"
+git add lua/user/lualine.lua
+git commit -m"add lualine"
+git add lua/user/plugins.lua
+git commit -m".."
+git add lua/user/theme.lua
+git commit -m".."
+git add lua/user/tabnine.lua
+git commit -m".."
+git status
+git push origin main
+ls
+fman
+$ go install github.com/nore-dev/fman@latest
+go install github.com/nore-dev/fman@latest
+fman
+clr
+cd
+cd _dev/go_dev
+mkdir list
+ls
+cd list
+go mod init list
+touch main.go
+nvim .
+cd 
+nvim .config/
+nvim .config/nvim
+cd .local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+codium ,
+codium .
+nvim .config/nvim
+cd
+nvim .config/nvim
+rm ~/.local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+rm -rf ~/.local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+nvim .config/nvim
+nvim .config/alacritty
+ls
+cd
+ls
+cd _dev
+ls
+cd go_dev
+cd list
+nvim .
+cd
+nvim .config/alacritty
+cd _dev
+cd go_dev/list
+ls
+nvim .
+ls
+nvim .
+insect
+brew outdated
+cd .config
+cd nvim
+git status
+git add lua/user/lualine.lua
+git commit -m ".."
+git add lua/user/theme.lua
+git commit -m ".."
+git push origin main
+nvim
+exercism download --exercise=atbash-cipher --track=java
+cd /Users/yazeed_1/_dev/Exercism/java/
+ls
+cd atbash-cipher
+nvim .
+brew install jdtls
+nvim .
+codium .
+insect
+gradle test
+ls
+nvim 
+fman
+glow
+ls
+btop
+cd _dev/go_dev
+ls
+mkdir cli_prac
+cd cli_prac
+mod init cli_prac
+go mod init cli_prac
+go get github.com/charmbracelet/bubbletea
+ls
+go build main.go -o out
+go run  main.go 8.8.8.8
+cd _dev/go_dev/goip
+go build
+go install
+goip 139.177.205.55â€ƒ½
+goip 139.177.205.55
+go build
+go install
+goip 139.177.205.55
+go build
+go install
+goip 139.177.205.55
+go build
+go install
+goip 139.177.205.55
+go build
+go install
+goip 139.177.205.55
+go build
+go install
+goip 139.177.205.55
+git status
+gi add cmd/goip.go
+git add cmd/goip.go
+git commit -m "create table to display info"
+git add go.mod
+git commit -m "create table to display info"
+git add go.sum
+git commit -m "create table to display info"
+git push origin main
+git pull origin main
+git config pull.rebase true
+git pull origin main
+git push origin main
+git pull origin main
+git status
+git add cmd/goip.go ".."
+git add cmd/goip.go
+git commit -m "create table to display info"
+git pull origin main
+git push origin main
+ls
+goip 172.30.248.34
+goip 8.8.8.8
+clear
+goip 8.8.8.8
+clr
+goip 8.8.8.8
+git pull origin main
+mv ~/Desktop/img.png ~/_dev/go_dev/goip/screenshots
+git status
+git add screenshots/img.png
+git commit -m"add screenshot"
+git push origin main
+go install github.com/maaslalani/nap@main
+nap
+cd _dev/go_dev/goip/cmd
+nap < goip.go
+nap
+cd
+nap
+nap _dev/rust_dev/algorithms_rust/binary_search/src/lib.rs
+nap
+nap _dev/rust_dev/algorithms_rust/binary_search/src/lib.rs
+nap _dev/rust_dev/data_structure_rust/hashmap_rs/src/main.rs
+nap _dev/go_dev/goip/main.go
+clr
+nap
+nap k.go
+clr
+cd _dev/rust_dev/
+cargo new fm
+cd fm
+codium .
+fm
+cargo run --help
+cargo run .
+cargo run ~
+cargo run ~/_dev
+sudo cargo run ~/_dev
+cd
+cargo install heh
+heh
+heh _dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cargo run
+cd _dev/rust_dev/fm
+cargo run _dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cp _dev/c_dev/chip8_c/roms/TEST/IBM.ch8 ~/_dev/rust_dev/fm
+cp ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8 ~/_dev/rust_dev/fm
+cargo run IBM.ch8
+cd ..
+https://github.com/jam1garner/nail.git
+git clone https://github.com/jam1garner/nail.git
+cd nail
+ls
+cargo run
+cargo run _dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cargo run README.md
+cd _dev/rust_dev/
+git clone https://github.com/athulp01/hexrus.git
+cargo run
+cd hexrus
+cargo run
+codium .
+cd _dev/c_dev/hed
+ls
+cd src
+ls
+codium .
+cd ..
+ls
+./hed
+./hed Makefile
+./hed ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cd ../..
+cd rust_dev
+ls
+cd nail
+cargo run
+cargo run README.md
+cd _dev/rust_dev
+ls
+cd hexrus
+ls
+cargo run
+ls
+cd ..
+ls
+cd fm
+codium .
+ipstate
+ipstat
+nvim .config/nvim
+clr
+nvim .config/nvim
+nvim .config/nvim/
+ls
+clr
+nvim .codnig/nvim/
+nvim .codfig/nvim/
+clr
+nvim .config/nvim/
+clr
+nvim .config/nvim/
+clr
+nvim .config/nvim/
+clr
+nvim .config/nvim/
+clr
+nvim .config/nvim
+clr
+nvim .config/nvim/
+insect
+cd _dev/rust_dev
+ls
+git clone https://github.com/Luz/hexdino.git
+cd hexdino
+cargo run
+cargo run ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+clr
+cd ..
+rm -rf hexdino
+ls
+rm -rf hexrus
+rm -rf nail
+git clone https://github.com/ShinyJonny/hexvi.git
+ls
+cd hexvi
+cargo run
+cargo run ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cd _dev/rust_dev
+cargo new hex
+cd hex
+codium ,
+codium .
+cargo run ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cd _dev/rust_dev
+ls
+cd hexvi
+cargo run ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cd ..
+git clone https://github.com/amgarrett09/ViHex.git
+cd ViHex
+cargo run ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cd ..
+rm ViHex
+rm -rf ViHex
+git clone https://github.com/TheThirdOne/elf-edit.git
+cd elf-edit
+cargo run ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cd _dev/rust_dev
+git clone https://github.com/Builditluc/wiki-tui.git
+cd wiki-tui
+cargo run
+ls
+cd ..
+ls
+rm -rf elf-edit
+rm -rf wiki-tui
+rm -rf hex
+ls
+rm -rf hexvi
+brew update\
+brew install 3mux
+3mux
+brew uninstall
+brew uninstall 3mux
+brew install circumflex
+clx
+clx --no-less-verify
+glow
+golog
+insect 
+sqrt(551)
+insect
+gh
+cd _dev/go_dev/goip
+gh
+gh extension install dlvhdr/gh-dash
+gh dash
+cd 
+cd _folders/oh-lucy.nvim
+gh dash
+netstat
+q
+netstat -e -s
+netstat -e
+netstat -m
+iptables
+iptable
+cd
+cd _dev
+ls
+cd go_dev
+ls
+mkdir golog
+cd golog
+ls
+go mod init golog
+ls
+touch main.go
+codium .
+go run main.go
+insect
+insect 
+cd _dev/c_dev
+touch main.c
+nvim .
+insec
+insect
+ssh alharthi@139.177.205.55
+go run main.go
+cd /var/log/
+pwd
+go run main.go
+cd
+fm
+go run main.go
+ls
+cd _dev/github_co/LunarVim/
+ls
+go run main.go
+pwd
+go run main.go
+cd
+cd _dev/go_dev/golog
+go run main.go
+cd Desktop/lazygit-0.1.4
+codium .
+cd
+nvim
+nvim .config/nvim
+nvim
+clr
+glow
+cd .config
+ls
+glow -help
+glow config
+glow
+glow -p
+glow
+nap
+cd _dev/go_dev
+ls
+git clone https://github.com/maaslalani/nap.git
+cd nap
+codium 
+codium .
+go run main.go
+go build
+go install
+nap
+cd .. 
+rm nap
+rm -rf nap
+nap
+gopi
+goip
+goip 8.8.8.8
+ssh alharthi@139.177.205.55
+clr
+ls
+cd Desktop
+brew outdated
+brew upgrade
+brew list
+onefetch
+onefetch _dev/go_dev/goip
+brew update\
+brew install 3mux
+3mux
+3mux kill j
+TMPDIR=/tmp 3mux
+hdjh
+~/.ssh/config
+cat ~/.ssh/config
+brew uinstall 3mux
+brew uninstall 3mux
+brew install austinjones/taps/tab
+brew uninstall austinjones/taps/tab
+cd _dev/c_dev
+ls
+rm out
+tm main
+tm main.c
+git clone https://github.com/deadpixi/mtm.git
+cd mtm
+make
+brew iinstall ncursesw
+brew install ncursesw
+brew install ncurses
+cd ..
+rm -rf mtm
+cd
+tmux
+brew install tmux
+tmux
+glow
+,
+tmux
+touch ~/.tmux.conf
+nvim ~/.tmux.conf
+tmux
+r
+tmux
+source .tmux.conf
+nvim ~/.tmux.conf
+source .tmux.conf
+nvim ~/.tmux.conf
+source .tmux.conf
+nvim ~/.tmux.conf
+source .tmux.conf
+tmux
+source .tmux.conf
+nvim ~/.tmux.conf
+source .tmux.conf
+tmux source-file ~/.tmux.conf
+insect 
+cd _dev/rust_dev
+ls
+cargo new iter
+cd iter
+codium .
+cd
+brew install vscode
+~/_dev/rust_dev/iter
+codium .
+sudo codium .
+sudo chown -R <user> Applications/VSCodium.app
+whoami
+sudo chown -R Yazeed4 Applications/VSCodium.app
+sudo chown -R Yazeed4 /Applications/VSCodium.app
+sudo codium .
+whereis code
+cd
+which codium
+sudo chown -R Yazeed4 /usr/local/bin/codium
+codium .
+sudo chown -R root /usr/local/bin/codium
+codium .
+sudo chown -R root /usr/local/bin/codium
+codium .
+su
+su root
+sudo chown -R Yazeed4 Applications/VSCodium.app
+sudo chown -R Yazeed4 /Applications/VSCodium.app
+./VSCodium.app
+VSCodium.app
+codium .
+sudo chmod ugo+rw /Applications/VSCodium.app/Contents/Resources/app/out/vs/code/electron-browser/workbench
+sudo chmod ugo+rw /Applications/VSCodium.app/
+codium .
+ls
+cd _dev/go_dev/goip/
+nvim .
+nvim .config/nvim
+vim
+vim .
+nvim .config/nvim
+cd _dev/rust_dev
+ls
+git clone https://github.com/Luz/hexdino.git
+cd hexdino
+cargo build
+hexdion
+cargo run ~/_dev/c_dev/chip8_c/roms/TEST/IBM.ch8
+cd _dev/rust_dev
+rm -rf hexdino
+cd
+brew install lapce
+git clone https://github.com/zackradisic/glyph.git
+cd glyph
+cargo build
+cd glyph
+cargo build
+cd
+rm -rf glyph
+brew uninstall lapce
+brew outdated
+zinit light romkatv/powerlevel10k
+nvim .config/alacritty/alacritty.yml
+nvim 
+nvim .config/alacritty/alacritty.yml
+btop
+cd .config/btop
+ls
+nvim .
+nvim
+nvim _dev/rust_dev/Rust/src/graph/centroid_decomposition.rs
+nvim .config/alacritty/alacritty.yml 
+nvim .config/nvim/lua
+nvim .config/alacritty/alacritty.yml 
+nvim _dev/rust_dev/Rust/src/graph/centroid_decomposition.rs
+nvim _dev/go_dev/goip
+cd .local/share/nvim/site/pack/packer/start/everforest
+ls
+cd colors
+ls
+cd ..
+cd lua
+ls
+cd lualine
+ls
+cd ..
+codium .
+nvim .
+cd
+nvim _dev/go_dev/goip
+cd ~/.local/share/nvim/site/pack/packer/start/everforest
+nvim .
+cd
+nvim _dev/go_dev/goip
+cd ~/.local/share/nvim/site/pack/packer/start/everforest
+nvim .
+cd
+nvim _dev/go_dev/goip
+cd ~/.local/share/nvim/site/pack/packer/start/everforest
+nvim .
+nvim _dev/go_dev/goip
+nvim _dev/rust_dev/data_structure_rust/hashmap_rs/src/lib.rs
+nvim .
+cd _dev/rust_dev/
+cargo new port
+cd port
+nvim .
+cd _dev/rust_dev/
+cd port
+nvim .
+cd ..
+pwd
+:q
+nvim .
+ls
+ls -la
+cd
+clr
+ssh root@138.197.118.135
+cd _folders
+ls
+cd ../_dev
+ls
+cd arabianchain
+ls
+rm -rf www
+rm -rf www\ old
+scp root@138.197.118.135:/var/www ~/_dev/arabianchain
+scp -r root@138.197.118.135:/var/www ~/_dev/arabianchain
+ls
+cd www
+codium .
+ls
+clr
+nvim
+cd .config/nvim
+nvim .
+cd
+cd _dev/rust_dev/Rust/src/data_structures
+nvim .
+clr
+cd
+cd .config/alacritty
+nvim .
+ls
+nvim
+ls
+nvim
+ls
+clr
+cl
+cd
+cd .config/alacritty
+nvim .
+ls
+nvim .
+ls
+nvim .
+goip 138.197.118.135
+nap
+ls
+cd .config/alacritty
+nvim .
+ls
+cd 
+cd .config/nvim
+nvim .
+nap
+go install github.com/maaslalani/nap@main
+ls
+ls _dev/go_dev
+cd
+cd ..
+ls
+cd
+ls bin
+cd ..
+ls
+cd usr/bin
+ls
+cd
+which nap
+cd go/bin
+ls
+rm nap
+noted
+revive
+guru
+dlv
+cd
+go install github.com/maaslalani/nap@main
+nap
+cd go/bin
+ls
+cd
+brew uninstall slides
+brew install slides
+slides
+brew uninstall slides
+go install github.com/maaslalani/slides@latest
+ls
+clr
+ls
+ls -la
+exa
+brew list
+ls
+brew uninstall sublime-text
+brew install sublime-text
+subl
+brew uninstall sublime-text
+brew list
+cd _folders/Key_store
+touch p.txt
+echo "9d745f67b4ce1605b849e47dcb7a1f4fe1473b4dda4de3894ad6594185916262" > p.txt
+ls
+cd _dev/arabianchain
+ls
+zip www
+zip www.zip
+ls
+zip www www.zip
+zip -r www www.zip
+zip -r www
+zip -r www.zip www
+ls
+ssh root@138.197.118.135
+scp -r www.zip root@138.197.118.135:/var/
+ssh root@138.197.118.135
+ls
+goip
+goip l
+goip l0
+ls
+clr
+fman
+ls
+cd
+ls
+clr
+cd .local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+ls
+nvim .
+cd .local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+nvim .
+ls
+cd _dev
+ls
+cd GitHub
+ls
+cd Algorithms
+ls
+cd c++
+ls
+cd SortingAlgorithms
+ls
+nvim .
+nvim .config
+ls
+cd .config/nvim
+nvim .
+ls
+cd
+cd .config/alacritty
+nvim .
+ls
+nvim .
+cd 
+cd .local/share/nvim/site/pack/packer/start/gruvbox-material
+nvim .
+cd .config/alacritty
+nvim .
+cd ../nvim
+nvim .
+brew install helix
+helix
+hx
+hx .
+brew uninstall helix
+cd _dev/rust_dev
+;s
+ls
+cd port
+nvim .
+cd .config/nvim
+ls
+nvim .
+cd ../alacritty
+nvim .
+ls
+cd
+cd _dev/rust_dev/port
+nvim .
+cd
+cd .local/share/nvim/site/pack/packer/start/gruvbox-material
+nvim .
+cd .local/share/nvim/site/pack/packer/start/gruvbox-material
+nvim .
+cd .local/share/nvim/site/pack/packer/start/gruvbox-material
+nvim .
+cd .local/share/nvim/site/pack/packer/start/gruvbox-material
+nvim .
+ls
+clr
+cd
+tmux
+nvim .
+nvim .tmux.conf
+source .tmux.conf
+nvim .tmux.conf
+source .tmux.conf
+tmux
+nvim .
+exit
+tmux="TERM=screen-256color-bce tmux"
+TERM=screen-256color-bce tmux
+nvim .
+nvim .tmux.conf
+source .tmux.conf
+exit
+TERM=screen-256color-bce tmux
+nvim .
+exit
+nvim .tmux.conf
+source .tmux.conf
+nvim .
+TERM=screen-256color-bce tmux
+nvim .
+cd .config/alacritty
+nvim .
+$TERM
+cd
+nvim .zshrc
+exit
+ls
+cd
+cd ../../c_dev
+mkdir ncruses
+cd ncruses
+touch main.c 
+nvim .
+cd _dev/c_dev/ncruses
+gcc main.c -ncruses -o out
+gcc main.c -lncurses -o out
+./out
+nvim .
+gcc main.c -lncurses -o out
+./out
+nvim .
+gcc main.c -lncurses -o out
+./out
+nvim .
+gcc main.c -lncurses -o out
+gcc main.c -lncurses -lpanel  -o out
+./out
+nvim .
+gcc main.c -lncurses -lpanel  -o out
+nvim .
+gcc main.c -lncurses -lpanel  -o out
+nvim .
+gcc main.c -lncurses -lpanel  -o out
+./out
+ssh root@138.197.118.135
+cd _dev/arabianchain
+ls
+rm -rf www
+rm -rf www.zip
+ls
+scp -r root@138.197.118.135:/var/www ~/_dev/arabianchain
+cd _dev/arabianchain
+ls
+cd www
+codium .
+cd html
+ls
+mkdir ~/_dev/arabianchain/old_holders
+mv holders1.html ~/_dev/arabianchain/old_holders
+mv holders2.html ~/_dev/arabianchain/old_holders
+nvim .
+cd _dev/arabianchain
+ls
+cd www
+ls
+cd ..
+zip -r www.zip www
+ls
+scp -r www.zip root@<a href="https://www.facebook.com/profile.php?id=100088314795446" target="_blank"><i class="fa fa-facebook"></i></a>\
+\
+<a href="https://t.me/arabianchaintec" target="_blank"><i class="fa fa-paper-plane"></i></a>\
+\
+<a href="https://instagram.com/dubxcoin?igshid=YmMyMTA2M2Y=" target="_blank"><i class="fa fa-instagram"></i></a>\
+\
+<a href="https://www.linkedin.com/company/arabianchain-technology-company/" target="_blank"><i class="fa fa-linkedin"></i></a>\
+\
+<a href="https://twitter.com/dubxcoin" target="_blank"><i 
+scp -r www.zip root@138.197.118.135:/var/
+geoiplookup 49.88.112.118
+goip 49.88.112.118
+ssh root@138.197.118.135
+goip 178.220.105.150
+goip 24.131.20.29
+curl https://ipinfo/24.131.20.29
+cd _dev/go_dev
+ls
+cd goip
+ls
+nvim .
+curl https://ipapi.co/24.131.20.29/json/
+go build
+go install
+goip 24.131.20.29
+goip 24.131.20.29 24.131.20.29
+nvim .
+go build
+go install
+goip 24.131.20.29 24.131.20.29
+goip 24.131.20.29
+goip 24.131.20.29 24.131.20.29 24.131.20.29
+nvim .
+go build
+go install
+goip 24.131.20.29
+nvim .
+go build
+go install
+cd _dev/rust_dev
+ls
+cd port
+nvim .
+cd .config/nvim/lua
+nvim .
+cd 
+cd .local/share/nvim/site/pack/packer/start/minimal.nvim
+nvim .
+cd
+cd .config
+ls
+cd alacritty
+nvim .
+cd ../nvim
+ls
+nvim .
+cd ../alacritty
+nvim .
+ls
+nvim .
+cd
+cd _dev/rust_dev/port
+nvim .
+ls
+cd _dev/rust_dev/Rust/src/data_structures
+nvim .
+cd .local/share/nvim/site/pack/packer/start/minimal.nvim
+nvim .
+cd ../../../..
+cd go_dev
+cd goip
+nvim .
+ls
+cd .config/alacritty
+ls
+nvim .
+ls
+cd _dev/c_dev/chip8_c
+ls
+cdls
+goip 8.8.8.8
+nap
+ls
+nvim .
+ls
+cd .local/share/nvim/site/pack/packer/start/minimal.nvim
+nvim .
+cd
+cd .config/nvim
+nvim .
+cd
+cd .local/share/nvim/site/pack/packer/start/minimal.nvim
+nvim .
+cd .config/alacritty
+nvim .
+ls
+cd .config/nvim
+ls
+nvim .
+ls
+cd
+ls
+cd
+ls
+btop
+kill -9 77897
+kill -9 77374
+kill -9 99588
+kill -9 99603
+ls
+cd _dev/rust_dev/Rust/src/graph
+ls
+nvim .
+cd 
+cd .local/share/nvim/site/pack/packer/start/gruvbox-material
+nvim .
+cd _dev/rust_dev/port
+nvim .
+cd _dev/rust_dev/port
+nvim .
+cd _dev/c_dev/ncruses
+ls
+nvim .
+gcc main.c -lncruses -lmenu -o out
+gcc main.c -lcruses -lmenu -o out
+gcc main.c -lmenu -lncurses -o out
+gcc main.c -lmenu -lncurses
+gcc main.c -lncurses
+nvim .
+gcc main.c -lmenu -lncurses
+nvim .
+gcc main.c -lmenu -lncurses -o out
+nvim .
+gcc main.c -lmenu -lncurses -o out
+nvim .
+gcc main.c -lmenu -lncurses -o out
+gcc main.c -lmenu -o out
+gcc main.c -lmenu -lncurses -o out
+nvim .
+gcc main.c -lncurses -o out
+./out
+nvim .
+gcc main.c -o out
+./out
+./out main.c
+cd _dev/c_dev/ncruses
+ls
+nvim .
+cd ..
+ls
+cd hed/
+ls
+nvim .
+ls
+cd..
+cd ..
+ls
+cd hxdump
+ls
+cd src
+ls
+nvim .
+cd _folders/CS-School/system_programming/lab12
+nvim .
+cd
+cd _dev
+ls
+cd c_dev
+ls
+nvim .
+gcc main.c -o out
+./out
+nvim .
+gcc main.c -o out
+./out
+nvim .
+gcc main.c -o out
+./out
+gcc main.c -o out
+nvim .
+gcc main.c -o out
+./out
+gcc main.c -o out
+nvim .
+ls
+cd _dev/rust_dev
+ls
+cd port
+ls
+bat Cargo.toml
+nvim .
+cd _dev/go_dev
+ls
+cd golog
+ls
+nvim .
+cd
+cd .config/nvim
+ls
+nvim .
+cd
+cd .config/nvim
+nvim .
+cd
+cd _dev/go_dev/goip
+ls
+nvim .
+go build
+go install
+goip 8.8.8.8
+goip 2601:547:c400:db60:5ded:768a:c62f:2844
+nvim .
+cd
+nvim .
+cd .config/nvim
+nvim .
+cd ../alacritty
+nvim .
+ls
+nvim .
+cd
+cd _dev/go_dev/
+ls
+cd list
+ls
+nvim .
+cd 
+cd .local/share/nvim/site/pack/packer/start/everforest
+nvim .
+cd
+cd _dev/go_dev/
+cd list
+nvim .
+cd
+cd .local/share/nvim/site/pack/packer/start/everforest
+nvim 
+nvim .
+cd 
+cd .config/alacritty
+nvim .
+ls
+cd
+nvim
+cd .config/alacritty
+ls
+nvim .
+cd
+cd .local/share/nvim/site/pack/packer/start/gruvbox-material
+nvim .
+cd .
+cd
+cd .config/alacritty
+ls
+nvim .
+ls
+cd .local/share/nvim/site/pack/packer/start/gruvbox-material
+cd ~/.local/share/nvim/site/pack/packer/start/gruvbox-material
+cd ../oh-lucy.nvim
+nvim .
+cd .config/alacritty
+nvim .
+ls
+cd
+cd .config/nvim
+nvim .
+ls
+cd 
+cd ~/.local/share/nvim/site/pack/packer/start/oh-lucy.nvim
+nvim .
+ls
+btop
+cd _dev/arabianchain
+ls
+rm -rf go-dubxnet
+sudo rm -rf go-dubxnet
+ls
+git clone https://github.com/DUBXCOIN/go-dubxcoin.git
+nvim
+brew outdated
+brew upgrade
+ls
+nvim .
+cd .config/alacritty
+nvim .
+cd ../nvim
+ls
+cd lua
+nvim .
+ls
+nvim 
+cd
+cd _dev/go_dev/goip
+nvim .
+cd 
+cd .config/alacritty
+nvim .
+cd
+ls
+nvim
+ls
+exa
+ls
+tree
+ls
+brew outdate
+brew outdated
+ls
+which go
+nvim .zshrc
+go env
+cd .config
+cd alacritty
+nvim .
+ls
+cd .config/nvim
+ls
+nvim .
+ls
+nvim .
+cd ../alacritty
+ls
+nvim .
+ls
+nvim .
+ls
+nvim .
+ls
+cd _dev/arabianchain
+ls
+cd www
+codium .
+cd ../old_holders
+codium .
+touch h.txt
+nvim .
+ls
+cd
+cd _dev
+cd
+cd .config
+ls
+cd
+cd _dev/go_dev
+ls
+cd goip
+nvim .
+cd .local/share/nvim/site/pack/packer/start/gruvbox-material
+nvim .
+cd
+cd .config/alacritty
+nvim .
+cd ../nvim
+ls
+nvim .
+btop
+ps
+ps -h
+ps -0help
+ps -L
+ps -p
+ps -p 77930
+lsof
+lsof -p 77930 | grep cwd
+kill -9 77930
+rm -rf /Users/yazeed_1/_dev/c_dev/ncruses
+lsof -p 78922 | grep cwd
+kill -9 78922
+lsof -p 37780 | grep cwd
+kill -9 37780
+btop
+lsof -p 99614 | grep cwd
+ls
+ls -la
+cd .local/share
+ls
+rm -rf ranger
+rm -rf vifm
+rm -rf kibi
+cd 
+cd nvim
+cd .config/nv
+cd .config/nvim
+nvim .
+cd .local/share/nvim/site/pack/packer/start
+ls
+rm -rf cmp-tabnine
+ls
+btop
+kill -9 99614
+kill -9 99591
+bottom
+brew install bottom
+top
+brew install gotop
+bottom
+btm
+gotop
+ls
+brew uninstall gotop
+brew uninstall bottom
+btop
+duf
+brew install scc
+scc
+cd _dev/go_dev
+la
+scc goip
+cd ../arabianchain
+ls
+scc go-dubxcoin
+cd
+ls
+cd .config
+ls
+cd btop
+ls
+cd themes
+ls
+touch a
+mv a a.theme
+nvim .
+cd ..
+nvim .
+btop
+ls
+cd .config/alacritty
+ls
+nvim .
+ls
+cd _dev
+ls
+cd _dev
+ls
+cd
+ls
+cd _dev
+ls
+nvim .
+cd ../btop
+nvim .
+btop
+cd _dev/go_dev
+ls
+cd goip
+nvim .
+cd .local/share/nvim/site/pack/packer/start/everforest
+nvim .
+exercism download --exercise=paasio --track=rust
+cd /Users/yazeed_1/_dev/Exercism/rust/paasio
+codium .
+exercism download --exercise=word-count --track=rust
+cd ..
+ls
+cd word-count
+codium .
+cd ..
+rm -rf word-count
+exercism download --exercise=word-count --track=rust
+cd word-count
+ls
+codium .
+cargo test
+brew outdated
+cd _dev/go_dev
+ls
+cd list
+ls
+nvim .
+cd _dev/go_dev
+ls
+cd list
+ls
+rm -rf test.txt
+ls
+time go run main.go
+bat test.txt
+cat test.txt
+wc -l test.txt
+wc  test.txt
+nvim .
+cd _dev/rust_dev
+ls
+cd port
+nvim .
+time cargo run
+cd _dev
+ls
+cd go_dev
+ls
+cd l
+cd list
+ls
+rm test.txt
+ls
+ls src
+rm foo.txt
+time cargo run
+time go run main.go
+nvim .
+rm test.txt
+time go run main.go
+nvim .
+ls
+rm test.txt
+time go run main.go
+nvim .
+rm test.txt
+time go run main.go
+nvim .
+rm test.txt
+time go run main.go
+nvim .
+rm test.txt
+time go run main.go
+ls
+wc test.txt
+cat test.txt
+nvim .
+rm test.txt
+time go run main.go
+cat test.txt
+nvim .
+rm test.txt
+time go run main.go
+rm test.txt
+ls
+cd .config/alacritty
+ls
+nvim .
+ls
+cd .config/alacritty
+ls
+nvim .
+ls
+cd _dev
+ls
+nvim .config/nvim
+ls
+nvim .
+ls
+cd go
+ntop
+btop
+ls
+cd _dev/Exercism
+cd ../rust_dev
+ls
+cd port
+nvim .
+rm foo.txt
+time cargo build
+time cargo run
+cd _dev/go_dev
+ls
+cd list
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+time go run main.go
+nvim .
+time go run main.go
+nvim .
+time go run main.go
+nvim .
+time go run main.go
+ls
+wc test.txt
+ls
+time go run main.go
+nvim .
+time go run main.go
+nvim .
+time go run main.go
+nvim .
+time go run main.go
+wc test.txt
+nvim .
+time go run main.go
+wc test.txt
+nvim .
+time go run main.go
+wc test.txt
+nvim .
+time go run main.go
+nvim .
+time go run main.go
+wc test.txt
+time go run main.go
+nvim .
+time go run main.go
+wc test.txt
+time go run main.go
+nvim .
+time cargo run
+nvim .
+cd
+clr
+time go run main.go
+wc test.txt
+nvim .
+time go run main.go
+wc test.txt
+nvim .
+time go run main.go
+nvim .
+time go run main.go
+wc test.txt
+rm test.txt
+time go run main.go
+wc test.txt
+nvim .
+time go run main.go
+wc test.txt
+time go run main.go
+cat test.txt
+nvim .
+time go run main.go
+cat test.txt
+wc test.txt
+nvim .
+time go run main.go
+wc test.txt
+time go run main.go
+nvim .
+time go run main.go
+nvim .
+time go run main.go
+nvim .
+time go run main.go
+wc test.txt
+nvim .
+time go run main.go
+wc test.txt
+nvim .
+time go run main.go
+wc test.txt
+time go run main.go
+nvim .
+time go run main.go
+wc test.txt
+time go run main.go
+nvim .
+time go run main.go
+btop
+wc test.txt
+cat test.txt | wc -l
+cat test.txt | wc
+ls -la
+ls -a
+ls -h
+man ls
+ls -l -h
+ls -l -h -G
+ls -l -h --color
+ls -l -h -a
+rm -rf test.txt
+ls
+ls -l -h -a
+brew outdated
+history
+cd _dev/go_dev
+mkdir goback
+ls
+cd goback
+go mod init goback
+ls
+touch main.go
+ls
+nvim .
+cd _dev/go_dev/goback
+go run main.go
+ls -la
+pwd .zsh_history
+which .zsh_history
+pwd
+go run main.go
+go run main.go > text.txt
+cat text.txt
+man history
+history
+cat ~/.zsh_history
+go run main.go > text.txt
+go run main.go
+HISTSIZE
+$HISTSIZE
+go run main.go
+nvim .
+cd _dev/go_dev
+ls
+go run main.go
+cd goback
+go run main.go
+vim .
+cd _dev/go_dev/goback
+nvim .
+go run main.go
+nvim .
+cd _dev/go_dev/goback
+ls
+go run main.go
+nvim .
+cd ~/_dev/go_dev/goback 
+go run main.go
+wc -l ~/.zsh_history
+wc -l ~/.bash_history
+HISTSIZE
+$HISTSIZE
+HISTSIZE
+go run main.go
+clr
+go run main.go
+nvim .
+go run main.go
+cat .zsh_history
+go run main.go
+clr
+cat .bash_history
+cat .zsh_history
+cd _dev/go_dev/goback
+echo "# goback" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Yazeed1s/goback.git\
+git push -u origin main
+git add .
+git commit -m"first commit"
+git push origin main
+cd ../..
+ls
+cd github_co
+ls
+cd awesome-neovim
+git -b 
+git pull origin main
+cd ..
+rm -rf awesome-neovim
+git clone https://github.com/Yazeed1s/awesome-neovim.git
+ls
+cd awesome-neovim
+ls
+git checkout -b Add colorscheme
+git checkout -b "Add colorscheme"
+git checkout -b "Add-colorscheme"
+nvim .
+git status
+git add .
+git commit -m "Add colorscheme"
+git push -u origin Add-colorscheme
+cd _dev/go_dev/goback
+ls
+rm text.txt
+codium .
+go run main.go
+go run main.go > text.txt
+wc -l text.txt
+wc -l ~/.zsh_history
+go run main.go > text2.txt
+wc -l text2.txt
+go run main.go > text2.txt
+cd
+ls -la
+wc -c .zsh_history
+go run main.go > text2.txt
+go run main.go
+ls -sh
+ls -ash
+ls -ah
+go run main.go
+go run main.go > text2.txt
+wc -l text2.txt
+wc -l ~/.zsh_history
+go run main.go 
+go run main.go > te.txt
+wc -l te.txt
+go run main.go > te.txt
+go run main.go > t.txt
+wc -l t.txt
+go run main.go > extracted_commands_numbered.txt
+rm extracted_commands_numbered.txt
+go run main.go > extracted_commands_numbered.txt
+rm extracted_commands_numbered.txt
+go run main.go > extracted_commands_numbered.txt
+go run main.go > regtest.txt
+go run main.go > reg_new_line48.txt
+go run main.go > reg_new_line49.txt
+go run main.go > cmd_original.txt
+cd _dev/go_dev/goback
+nvim ,
+nvim .
+go run main.go > extracted_commands.txt
+go run main.go > extracted_comm.txt
+go run main.go > extracted_commands.txt
+go run main.go > a.txt
+rm extracted_comm.txt 
+rm extracted_commands.txt
+go run main.go > extracted_commands.txt 
+

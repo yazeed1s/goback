@@ -3,22 +3,39 @@ package main
 import (
 	"fmt"
 	"io"
-	// "math"
 	"os"
 	"regexp"
-	// "fyne.io/fyne/v2/cmd/fyne/commands"
-	// "strings"
+	"strings"
 )
 
-const COMMANDS_SIZE = 10000
+const BUF_SIZE = 260000
 
 var (
-	zshfile  *os.File
-	bytes    int
-	err      error
-	cmd      string
-	splits   [COMMANDS_SIZE]string
-	commands [COMMANDS_SIZE]string
+	zshfile *os.File
+	bytes   int
+	err     error
+	cmd     string
+	non     = []string{
+		"ls",
+		"cd",
+		"cd ..",
+		"clear",
+		"mkdir",
+		"rmdir",
+		"rm",
+		"mv",
+		"cat",
+		"clear",
+		"pwd",
+		"vim",
+		"vim .",
+		"vi",
+		"vi .",
+		"nvim",
+		"nvim .",
+		"code .",
+		"codium .",
+		"touch"}
 )
 
 func OpenFile(path string) (*os.File, error) {
@@ -30,8 +47,7 @@ func OpenFile(path string) (*os.File, error) {
 }
 
 func writeBuffer(file *os.File) string {
-
-	buf := make([]byte, COMMANDS_SIZE)
+	buf := make([]byte, BUF_SIZE)
 	for {
 		bytes, err = file.Read(buf)
 		if err == io.EOF {
@@ -47,30 +63,52 @@ func writeBuffer(file *os.File) string {
 	return cmd
 }
 
-func extractCommands(cmds string) [COMMANDS_SIZE]string {
-	a := regexp.MustCompile(`[:;]+`)
-	b := regexp.MustCompile(`^[0-9\s]{1,3}`)
-	splits := a.Split(cmd, -1)
-	for i := 0; i < len(splits); i++ {
-		if !b.MatchString(splits[i]) {
-			commands[i] = splits[i]
-		}
-	}
+func extractCommands(cmd string) []string {
+	// a line in .zsh_history = : 1671232234:0;git commit -m"first commit"
+	// reg matches the ": 1671232234:0;" of the line,
+	reg := regexp.MustCompile(`(?m)^[:;0-9\s]{0,15}`)
+	// leaves 'git commit -m"first commit"' alone
+	splits := reg.ReplaceAllLiteralString(cmd, "")
+	commands := strings.Split(splits, "\n")
 	return commands
 }
 
-func main() {
-	zshfile, err = OpenFile("/Users/yazeed_1/.zsh_history")
-	defer zshfile.Close()
-	filepath := "/Users/yazeed_1/.zsh_history"
-	file, err := OpenFile(filepath)
-	if err != nil {
-		panic(err)
+func contains(s []string, str string) bool {
+	for _, v := range s {
+		if v == str {
+			return true
+		}
 	}
-	history := writeBuffer(file)
-	if err != nil {
-		panic(err)
-	}
-    cmds := extractCommands(history)
-	fmt.Println(cmds)
+	return false
 }
+
+func filterCommands(str []string) []string {
+	var r []string
+	for _, str := range str {
+		if str != "" && !contains(non, str) {
+			r = append(r, str)
+		}
+	}
+	return r
+}
+
+func main() {
+	filepath := "/Users/yazeed_1/.zsh_history"
+	zshfile, err := OpenFile(filepath)
+	if err != nil {
+		panic(err)
+	}
+	defer zshfile.Close()
+	history := writeBuffer(zshfile)
+	cmds := extractCommands(history)
+	filtered := filterCommands(cmds)
+	for _, cmd := range filtered {
+		fmt.Println("Command = ", cmd)
+	}
+}
+
+// TODO: handle fish_histiry && bash_history
+// TODO: do the tui
+// TODO: finish Configurations options
+// TODO: add a command line option
+// TODO: improve reading performance
