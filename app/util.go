@@ -2,50 +2,41 @@ package app
 
 import (
 	"fmt"
-	"io"
-	"os"
-	"regexp"
-	"strings"
-
+	"goback/config"
 	t "goback/tui"
+	"io"
+	"log"
+	"os"
+	"os/exec"
+	"regexp"
+	"sort"
+	"strings"
 
 	tea "github.com/charmbracelet/bubbletea"
 )
 
-const BUF_SIZE = 300000 // this is the size of the .zsh_history (300,000 bytes)
+// const BUF_SIZE = 300000 // this is the size of the .zsh_history (300,000 bytes)
 // (big concern cuz it needs to be updated as the file grows)
 // one possible solution would be to directly use Name() & Size() from fs.FileInfo
 // this will sync and handle any changes in the size (grow, shrink)
 // (will be applied to .bash_history and fish_history as well)
-// this is the size of the .zsh_history
 
 var (
-	zshfile *os.File
-	bytes   int
-	err     error
-	buffer  string
-	non     = []string{
-		"ls",
-		"cd",
-		"cd ..",
-		"clear",
-		"mkdir",
-		"rmdir",
-		"rm",
-		"mv",
-		"cat",
-		"clear",
-		"pwd",
-		"vim",
-		"vim .",
-		"vi",
-		"vi .",
-		"nvim",
-		"nvim .",
-		"code .",
-		"codium .",
-		"touch"}
+	zshfile  *os.File
+	bytes    int
+	err      error
+	buffer   string
+	cfg      = getCfg()
+	excluded = cfg.Settings.Exclude
 )
+
+func getCfg() config.Config {
+	cfg, err := config.ParseConfig()
+	if err != nil {
+		log.Fatal(err)
+	}
+	return cfg
+}
 
 func openFile(path string) (*os.File, error) {
 	zshfile, err = os.Open(path)
@@ -77,8 +68,7 @@ func writeBuffer(file *os.File) string {
 	return buffer
 }
 
-func extractCommands(buf string) []string {
-
+func extractCommandsZsh(buf string) []string {
 	// a line in .zsh_history = : 1671232234:0;git commit -m"first commit"
 	// reg matches the ": 1671232234:0;" of the line,
 	reg := regexp.MustCompile(`(?m)^[:;0-9\s]{0,15}`)
@@ -86,6 +76,19 @@ func extractCommands(buf string) []string {
 	splits := reg.ReplaceAllLiteralString(buf, "")
 	commands := strings.Split(splits, "\n")
 	return commands
+}
+
+func extractCommandsBash(buf string) []string {
+	// a line in .bash_history = chsh -s /bin/zsh
+	commands := strings.Split(buf, "\n")
+	return commands
+}
+
+func executeCmd(c string) {
+	cmd := exec.Command(c)
+	if err := cmd.Run(); err != nil {
+		log.Fatal(err)
+	}
 }
 
 func contains(s []string, str string) bool {
@@ -100,24 +103,40 @@ func contains(s []string, str string) bool {
 func filterCommands(str []string) []string {
 	var r []string
 	for _, str := range str {
-		if str != "" && !contains(non, str) {
+		if str != "" && !contains(excluded, str) {
 			r = append(r, str)
 		}
 	}
 	return r
 }
 
+func reverseCmds[T comparable](s []T) {
+	sort.SliceStable(s, func(i, j int) bool {
+		return i > j
+	})
+}
+
 func InitTool() {
-	filepath := "/Users/yazeed_1/.zsh_history"
-	zshfile, err := openFile(filepath)
+	filepath := cfg.Settings.File
+	file, err := openFile(filepath)
 	if err != nil {
 		panic(err)
 	}
-	defer zshfile.Close()
-	buffer := writeBuffer(zshfile)
-	cmds := extractCommands(buffer)
-	filtered := filterCommands(cmds)
-	p := tea.NewProgram(t.InitModel(filtered, zshfile), tea.WithAltScreen())
+	defer file.Close()
+	buffer := writeBuffer(file)
+	var (
+		cmds     []string
+		filtered []string
+	)
+	strings.Contains(filepath, ".zsh_history")
+	if strings.Contains(filepath, ".zsh_history") {
+		cmds = extractCommandsZsh(buffer)
+	} else if strings.Contains(filepath, ".bash_history") {
+		cmds = extractCommandsBash(buffer)
+	} // TODO: fish history
+	filtered = filterCommands(cmds)
+	reverseCmds(filtered)
+	p := tea.NewProgram(t.InitModel(filtered, file), tea.WithAltScreen())
 	if err := p.Start(); err != nil {
 		fmt.Fprintln(os.Stderr, err)
 		os.Exit(1)

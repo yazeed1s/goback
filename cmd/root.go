@@ -1,17 +1,16 @@
 package cmd
 
 import (
-   // "fmt"
-    "github.com/spf13/cobra"
 	tool "goback/app"
+
+	"github.com/spf13/cobra"
 )
 
 func Execute() error {
-
 	var cmd = &cobra.Command{
 		Use:   "goback",
-		Short: " ", // for now
-		Long:  ` `, // same
+		Short: "goback is a handy commands history browser",
+		Long:  `0.0.1`,
 		Run: func(cmd *cobra.Command, args []string) {
 			tool.InitTool()
 		},
