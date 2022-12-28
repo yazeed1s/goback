@@ -7,7 +7,6 @@ import (
 	"io"
 	"log"
 	"os"
-	"os/exec"
 	"regexp"
 	"sort"
 	"strings"
@@ -82,13 +81,6 @@ func extractCommandsBash(buf string) []string {
 	// a line in .bash_history = chsh -s /bin/zsh
 	commands := strings.Split(buf, "\n")
 	return commands
-}
-
-func executeCmd(c string) {
-	cmd := exec.Command(c)
-	if err := cmd.Run(); err != nil {
-		log.Fatal(err)
-	}
 }
 
 func contains(s []string, str string) bool {
