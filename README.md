@@ -30,7 +30,7 @@ A terminal based command history browser, can be handy & usefull sometimes!
 
 ## 📌 Note:
 
-The tool can only work on Unix-based systems (macOS, linux), windows is not supported as of now.  
+The tool can only work on Unix-based systems (macOS, linux), windows is not supported!  
 
 ## ⭐️ Screenshots
 <p align="left">
