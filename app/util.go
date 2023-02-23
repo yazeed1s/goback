@@ -68,17 +68,17 @@ func writeBuffer(file *os.File) string {
 }
 
 func extractCommandsZsh(buf string) []string {
-	// a line in .zsh_history = : 1671232234:0;git commit -m"first commit"
-	// reg matches the ": 1671232234:0;" of the line,
+	// single line in .zsh_history = ': 1671232234:0;git commit -m"first commit"'
+	// reg matches the ": 1671232234:0;" part of the line,
 	reg := regexp.MustCompile(`(?m)^[:;0-9\s]{0,15}`)
-	// leaves 'git commit -m"first commit"' alone
+	// extracts 'git commit -m"first commit"' alone
 	splits := reg.ReplaceAllLiteralString(buf, "")
 	commands := strings.Split(splits, "\n")
 	return commands
 }
 
 func extractCommandsBash(buf string) []string {
-	// a line in .bash_history = chsh -s /bin/zsh
+	// a line in .bash_history = 'chsh -s /bin/zsh'
 	commands := strings.Split(buf, "\n")
 	return commands
 }
