@@ -14,7 +14,7 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 )
 
-// const BUF_SIZE = 300000 // this is the size of the .zsh_history (300,000 bytes)
+// const BUF_SIZE = 300000 // this is the size of the .zsh_history (300,000)
 // (big concern cuz it needs to be updated as the file grows)
 // one possible solution would be to directly use Name() & Size() from fs.FileInfo
 // this will sync and handle any changes in the size (grow, shrink)
